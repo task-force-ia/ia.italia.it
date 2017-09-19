@@ -1,0 +1,118 @@
+---
+layout: default
+---
+{% include setlang.html %}
+
+<div class="Page-title u-text{{ page.title-alignment | capitalize }}">
+  {% if page.separator == 'curved' %}
+  {% include page_title.html %}
+  <div class="Separator-curved">
+    <svg id="curveDown" xmlns="http://www.w3.org/2000/svg" version="1.1" height="100%" width="100%" style="fill: #f6f9fc;" viewBox="0 0 100 25" preserveAspectRatio="none">
+      <path d="M100,50H0V0c1.9,2.5,19.4,25,50,25c3.1,0,31.6-0.5,50-25C100,16.7,100,33.3,100,50z"/>
+    </svg>
+  </div>
+  {% elsif page.separator == 'ascending' %}
+  {% include page_title.html %}
+  <hr class="Separator-room" />
+  <hr class="Separator Separator--up u-background-grey-15" />
+  {% elsif page.separator == 'descending' %}
+  <hr class="Separator-room" />
+  <hr class="Separator Separator--down u-background-grey-15" />
+  {% include page_title.html bg-color = 'grey-15' color = '50' %}
+  {% else %}
+    {% include page_title.html %}
+  {% endif %}
+</div>
+<section class="Content u-background-grey-15 u-layout-r-withGutter u-padding-top-xxl u-padding-bottom-xxl u-posRelative u-zindex-30">
+  <div class="Grid Grid--withGutterL">
+    <div class="Grid-cell u-sizeFull u-md-size1of2 u-md-before1of4 u-lg-size1of2 u-lg-before1of4">
+      <div class="Prose">{{ content }}</div>
+    </div>
+    <h2 id="{{ t.coordinamento }}" class="u-cf u-sizeFull u-margin-top-xxl u-textCenter u-textWeight-600 u-text-r-m u-padding-bottom-xxl u-padding-top-xxl">{{ t.task_force_members }}</h2>
+    <div class="Grid Grid--alignMiddle Grid--withGutter u-margin-r-top u-flexJustifyCenter">
+      {% for person in site.data.people %}
+      {% if person.group == 'task-force' %}
+      <div class="Person-container Grid-cell u-sizeFull u-sm-size1of2 u-md-size1of3 u-lg-size1of4 u-textCenter u-margin-bottom-xl">
+        <div class="Person u-round u-cf u-flex" style="background-image: url({{ person.pic | relative_url }})">
+          <div class="Person-content u-background-white u-flexAlignSelfEnd u-zindex-30 u-textCenter">
+            <div style="position: absolute; width: 100%">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 10" style="transform: translate(0, -96%)">
+                <path fill="#FFF" fill-rule="evenodd" d="M100 0c35.006 0 68.647 3.52 100 10H0C31.353 3.52 64.993 0 100 0z"/>
+              </svg>
+            </div>
+            <div class="Grid u-flex u-flexWrap u-flexJustifyCenter">
+              <h3 style="" class="Grid-cell u-sizeFull u-textCenter u-text-r-xs u-textWeight-600 u-margin-bottom-xxs">
+                {{ person.name }}
+              </h3>
+              {% comment %}
+              {% assign desc = person.desc %}
+              {% if desc %}
+              <h4 class="Grid-cell u-sizeFull u-textCenter u-margin-bottom-xxs u-text-r-xxs u-textWeight-400 u-color-grey-50 ">
+                {{ desc }}
+              </h4>
+              {% endif %}
+              {% endcomment %}
+              <div class="Grid-cell u-sizeFull u-flexAlignSelfEnd u-margin-bottom-xs u-margin-bottom-s u-margin-top-xxs">
+                <ul class="u-textCenter u-layoutCenter">
+                  {% for contact in person.contacts %}
+                  <li class="u-inlineBlock u-padding-right-xxs u-padding-left-xxs">
+                    <a href="{{ contact[1].link }}" title="" class="Person-social-link u-padding-all-xs u-background-50 u-color-white u-inlineBlock u-linkClean u-borderRadius-circle u-alignMiddle">
+                      <span class="Icon Icon-{{ contact[0] }}"></span>
+                      <span class="u-hiddenVisually">{{ contact[1].name }}</span>
+                    </a>
+                  </li>
+                  {% endfor %}
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+
+  <h2 class="u-cf u-sizeFull u-margin-top-xxl u-textCenter u-textWeight-600 u-text-r-m u-padding-bottom-xxl u-padding-top-xxl">{{ t.agid_e_fp }}</h2>
+
+  <div class="Grid Grid--alignMiddle Grid--withGutter u-margin-r-top u-flexJustifyCenter">
+    {% for person in site.data.people %}
+    {% if person.group == 'agid_fp' %}
+    <div class="Grid-cell u-sizeFull u-sm-size1of2 u-md-size1of3 u-lg-size1of4 u-textCenter u-margin-bottom-xl">
+      <div class="Person u-cf u-borderRadius-m u-flex" style="background-image: url({{ person.pic | relative_url }})">
+        <div class="Person-content u-background-white u-flexAlignSelfEnd u-zindex-30 u-textCenter">
+          <div class="Grid u-flex u-flexWrap u-flexJustifyCenter u-padding-r-top">
+            <h3 class="Grid-cell u-sizeFull u-textCenter u-text-r-xs u-textWeight-600 u-margin-bottom-xxs">
+              {{ person.name }}
+            </h3>
+            {% if active_lang != site.lang %}
+            {% assign desc_lang = "desc_" | append: t.lang %}
+            {% assign desc = person[desc_lang] %}
+            {% else %}
+            {% assign desc = person.desc %}
+            {% endif %}
+            {% if desc %}
+            <h4 class="Grid-cell u-sizeFull u-textCenter u-margin-bottom-xxs u-text-r-xxs u-textWeight-400 u-color-grey-50 ">
+              {{ desc }}
+            </h4>
+            {% endif %}
+            <div class="Grid-cell u-sizeFull u-flexAlignSelfEnd u-margin-bottom-xs u-margin-bottom-s u-margin-top-xxs">
+              <ul class="u-textCenter u-layoutCenter">
+                {% for contact in person.contacts %}
+                <li class="u-inlineBlock u-padding-right-xxs u-padding-left-xxs">
+                  <a href="{{ contact[1].link }}" title="" class="Person-social-link u-padding-all-xs u-background-50 u-color-white u-inlineBlock u-linkClean u-borderRadius-circle u-alignMiddle">
+                    <span class="Icon Icon-{{ contact[0] }}"></span>
+                    <span class="u-hiddenVisually">{{ contact[1].name }}</span>
+                  </a>
+                </li>
+                {% endfor %}
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    {% endif %}
+    {% endfor %}
+  </div>
+</section>

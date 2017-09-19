@@ -1,0 +1,52 @@
+<footer class="Footer u-background-95">
+  <div class="u-layout-r-withGutter">
+    <div class="Grid Grid--withGutter Grid--alignMiddle u-padding-top-xl">
+
+      <div class="Footer-logo Grid-cell u-sm-size1of2 u-md-size1of3 u-lg-size1of3 u-padding-r-bottom">
+        <div class="u-flex u-flexNoWrap u-flexAlignItemsCenter u-flexJustifyCenter u-lg-flexJustifyStart">
+          <a href="{{ site.owner_link }}" title="{{ site.owner_full | escape }}">
+            <img class="u-xs-padding-right-none" src="{{ site.owner_logo | relative_url }}" alt="{{ site.owner }}" style="height: 4em; max-width: 100%; display: block;">
+          </a>
+          <p class="u-padding-left-s u-padding-bottom-xs u-text-r-xs">
+            <a href="{{ site.owner_link }}" title="{{ site.owner_full | escape }}" class="u-color-white u-textClean">{{ t.agid | newline_to_br | strip_newlines }}</a>
+          </p>
+        </div>
+      </div>
+
+      <div class="Social Grid-cell u-sizeFull u-md-size1of3 u-lg-size1of3 u-flex u-flexJustifyEnd u-padding-r-bottom u-padding-r-top u-textCenter u-flexAlignSelfEnd u-flexExpandLeft">
+        <h2 class="u-md-flexInline u-lg-flexInline u-text-p u-color-white u-textWeight-400
+          u-hidden u-margin-r-right u-flexAlignSelfCenter">{{ t.follow_us | capitalize }}</h2>
+        <ul class="Footer-socialIcons">
+          {% assign socials = site.data.social | where: 'owner', 'agid' | where: 'footer', true %}
+          {% for social in socials %}
+            <li>
+              <a href="{{ social.link }}" title="{{ social.name }}" target="_blank"><span class="Icon-{{ social.name }}"></span>
+              <span class="u-hiddenVisually">{{ social.name | capitalize }}</span></a>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+
+    </div>
+
+    <div class="Footer-links u-cf u-color-80">
+      <ul class="u-floatLeft">
+        {% for link in site.data.footer_links[active_lang] %}
+          {% assign link_name = link[1].title %}
+          <li><a href="{{ link[1].url | relative_url }}">{{ t[link_name] | default: link_name | capitalize }}</a></li>
+        {% endfor %}
+      </ul>
+      <ul class="Footer-notes u-floatRight">
+        <li class="u-color-white">
+          <span class="Icon Icon-cc0 u-margin-right-xs u-text-r-m u-alignMiddle"></span>
+          <span class="u-alignMiddle">{{ t.footer_public_domain }}</span>
+        </li>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+{% include scripts.html %}
+
+{% if jekyll.environment == 'production' and site.google.analytics %} {% include google-analytics.html %} {% endif %}
+{% if jekyll.environment == 'production' and site.piwik.id %} {% include piwik.html %} {% endif %}

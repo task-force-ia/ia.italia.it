@@ -1,0 +1,43 @@
+---
+layout: default
+---
+{% include setlang.html %}
+
+<div class="Page-title u-background-80 u-text{{ page.title-alignment | capitalize }}">
+  {% include page_title.html %}
+  <div class="Page-title-room"></div>
+</div>
+<div class="Content u-background-grey-15 u-layout-r-withGutter u-padding-top-xxl u-padding-bottom-xxl u-posRelative u-zindex-30">
+  <div class="u-layout-wide u-layoutCenter u-pullUp-m">
+    {% assign case_studies = site.data.case_studies | where: 'lang', active_lang | sort: 'order' %}
+    <div class="Grid Grid--withGutter">
+      {% for case in case_studies %}
+      <div class="Grid-cell u-md-size1of3 u-lg-size1of3 u-margin-r-bottom u-layout-matchHeight">
+        {% include card.html
+           title = case.title
+           subtitle = case.subtitle
+           text = case.description
+           socials = case.socials
+           image = case.image
+           alt = case.title
+           hasMore = t.case_studies_goto
+           hasMoreLink = case.link
+        %}
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+<div class="Content u-background-grey-15 u-layout-r-withGutter u-padding-top-xxl u-padding-bottom-xxl u-posRelative u-zindex-30">
+  <div class="Grid">
+    {% if page.content-alignment == 'left' %}
+    <div class="Grid-cell u-sizeFull u-md-size6of12 u-lg-size6of12">
+    {% else %}
+    <div class="Grid-cell u-sizeFull u-md-size6of12 u-md-before3of12 u-lg-size6of12 u-lg-before3of12">
+    {% endif %}
+      <div class="Prose">
+        {{ content }}
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,175 @@
+it_IT:
+  code: ita
+  name: italiano
+  base_url: ""
+  t:
+    lang: it
+    site_title: Task force IA
+    site_subtitle: L’Intelligenza Artificiale al servizio del cittadino
+
+    active_lang: lingua attiva
+    cookiebar_accept: Accetto
+    cookiebar_msg: Questo sito utilizza cookie tecnici, analytics e di terze parti. Proseguendo nella navigazione accetti l’utilizzo dei cookie.
+    cookiebar_privacy_policy: Privacy policy
+    scrolltop_label: torna all'inizio dei contenuti
+    skiplink_goto_content: vai ai contenuti
+    skiplink_goto_navigation: vai alla navigazione del sito
+    toggle_menu_label: accedi al menu
+
+    follow_us: seguici su
+    share_msg: condividi
+
+    header_link_community: Community
+    header_link_task-force: Task force
+    header_link_docs: Docs
+
+    footer_link_privacy_policy: privacy policy
+    footer_link_legal_notes: note legali
+    footer_public_domain: Donazione al Pubblico Dominio
+
+    navigation_menu_label: Menu di navigazione
+    navigation_menu_esc: esci dalla navigazione
+
+    home_claim: |
+      La task force studia le opportunità offerte
+      dall’<strong>Intelligenza Artificiale</strong> per migliorare
+      i servizi pubblici e semplificare la vita dei cittadini
+    home_header_button: Partecipa
+    home_goals_title: Obiettivi della task force IA
+    home_goals:
+      - analizzare le potenziali applicazioni dell’IA nei servizi pubblici
+      - studiare le implicazioni economiche, sociali e culturali sull’introduzione dell’IA nei servizi pubblici
+      - definire rischi e opportunità strategiche per le amministrazioni italiane
+      - mappare il lavoro avviato dalle pubbliche amministrazioni e dai principali centri di ricerca italiani e internazionali
+      - realizzare delle raccomandazioni sull'IA al servizio del cittadino destinate alle pubbliche amministrazioni
+
+    documents: |
+      Documenti prodotti
+      dalla task force
+    documents_coming_soon: I documenti e gli approfondimenti prodotti dalla task force (in aggiornamento).
+    insights: Approfondimenti
+    case_studies: Casi di studio
+    case_studies_coming_soon: I casi di studio di interesse nazionale e internazionale (in aggiornamento).
+
+    case_studies_goto: per saperne di più
+
+    agid: |
+      Agenzia per
+      l'Italia Digitale
+    agid_e_fp: Agenzia per l'Italia Digitale e Dipartimento della funzione pubblica
+    task_force_members: Gruppo di coordinamento
+    coordinamento: coordinamento
+
+    vuoi_contribuire: Vuoi contribuire ai lavori della task force IA?
+    vuoi_saperne: Vuoi saperne di più?
+    vuoi_contattare: Vuoi contattare la task force?
+    cta_partecipa: Partecipa
+    cta_vai_materiali: Vai ai materiali
+    cta_approfondisci: Approfondisci
+    cta_scopri_tf: Scopri la task force
+    cta_scopri: Scopri di più
+    scrivi_a: Scrivi a
+    per_i_media: Per i media
+
+    newsletter_signup: Iscriviti alla newsletter
+    newsletter_subscribe: Iscriviti
+    newsletter_placeholder: indirizzo email
+    newsletter_thanks: Grazie
+    newsletter_subscribed: Adesso sei iscritto alla newsletter!
+    newsletter_tagline: |
+      Rimani in contatto per essere informato sui lavori della task force IA.
+      Non ti assilleremo con troppe email, parola di bot.
+
+    agid_desc: |
+      L’Agenzia per l’Italia Digitale (AgID) è l’agenzia di governo che coordina l’attuazione dell’Agenda Digitale Italiana e
+      promuove la diffusione dell'utilizzo delle tecnologie ICT, favorendo l'innovazione e la crescita economica, sociale e culturale del Paese.
+
+    error: errore
+
+en_US:
+  code: eng
+  name: english
+  base_url: "en/"
+  t:
+    lang: en
+    site_title: AI task force
+    site_subtitle: Artificial Intelligence at the service of the citizen
+
+    active_lang: current language
+    cookiebar_accept: Accept
+    cookiebar_msg: We are using cookies to provide statistics that help us give you the best experience of our site. By continuing to use the site you are agreeing to our use of cookies.
+    cookiebar_privacy_policy: Privacy policy
+    scrolltop_label: back to contents
+    skiplinks_goto_content: go to content
+    skiplinks_goto_navigation: go to site navigation
+    oggle_menu_label: go to navigation
+
+    follow_us: follow us
+    share_msg: share
+
+    header_link_community: Community
+    header_link_task-force: Task force
+
+    footer_link_privacy_policy: privacy policy
+    footer_link_legal_notes: legal notes
+    footer_public_domain: Contribution to Public Domain
+
+    navigation_menu_label: Navigation menu
+    navigation_menu_esc: Disconnect
+
+    home_claim: |
+      The task force identifies the opportunities offered
+      by <strong>Artificial Intelligence</strong> to enhance the quality of
+      the services offered to citizens and therefore to simplify their lives
+
+    home_header_button: JOIN
+    home_goals_title: The mission of the AI task force
+    home_goals:
+      - analyze how AI can be applied to public services
+      - define the economic, social and cultural implications deriving from the use of AI in public services
+      - define the related risks and strategic opportunities for Italian administration
+      - map the work carried out by public administrations and leading Italian and international research centers on AI
+      - draft a set of recommendations for public administrations on the use of Artificial Intelligence in the creation of services for the citizen
+
+    documents: |
+      Documents produced
+      by the task force
+    documents_coming_soon: Documents and insights produced by the task force (updating).
+    insights: Insights
+    case_studies: Case Studies
+    case_studies_coming_soon: National and international case studies (updating).
+
+    case_studies_goto: Know more
+
+    agid: |
+      The Agency for
+      Digital Italy
+    agid_e_fp: The Agency for Digital Italy and the Department for Public Administration
+    task_force_members: Coordination board
+    coordinamento: coordination-board
+
+    vuoi_contribuire: Do you want to contribute to the work of the AI task force?
+    vuoi_saperne: Learn more
+    vuoi_contattare: Do you want to contact the task force?
+    cta_partecipa: Join
+    cta_vai_materiali: Go to Materials
+    cta_scopri: Learn more
+    cta_scopri_tf: About us
+    cta_approfondisci: Read more
+    scrivi_a: Write to
+    per_i_media: For the media
+
+    newsletter_signup: Sign up to our newsletter
+    newsletter_subscribe: Subscribe
+    newsletter_placeholder: email address
+    newsletter_thanks: Thanks
+    newsletter_subscribed: Your subscription has been successful!
+    newsletter_tagline: |
+      Stay in touch and keep yourself up-to-date on the AI task force activities.
+      We won't bother you with too many messages, trust the Bot!
+
+    agid_desc: |
+      The Agency for Digital Italy (AgID) is the governmental agency coordinating the implementation of the Italian Digital Agenda and
+      it encourages the diffusion and the use of ICT technologies, fostering innovation, socio-economic growth and digital culture.
+
+    error: error

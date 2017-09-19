@@ -1,0 +1,33 @@
+---
+layout: default
+title: L’intelligenza artificiale a servizio del cittadino
+---
+{% include setlang.html %}
+<h1 class="u-hiddenVisually">{{ page.title }}</h1>
+<section id="home-content" class="u-nbfc u-background-grey-15 u-padding-r-all u-posRelative u-zindex-30">
+  <div class="u-sizeFull u-md-size1of2 u-md-before1of4 u-lg-size1of2 u-lg-before1of4 u-posRelative u-padding-top-xxl u-padding-bottom-xxl">
+    <div class="u-lineHeight-m u-text-r-m u-color-grey-50">
+      {{ content }}
+    </div>
+    <h2 class="u-text-r-l u-textWeight-600 u-color-grey-50 u-margin-top-l u-lineHeight-l">
+      {{ t.home_goals_title }}
+    </h2>
+    <ul class="Roadmap u-margin-top-xxl u-margin-bottom-xxl u-color-grey-50 u-text-r-s">
+      {% for goal in t.home_goals %}
+      <li class="Roadmap-item {% if forloop.last %}Roadmap-item-last{% endif %}">{{ goal }}</li>
+      {% endfor %}
+    </ul>
+    <div class="Grid Grid--withGutter Grid-cell u-sizeFull u-padding-r-all u-text-p u-color-white">
+      <div class="Grid-cell u-padding-bottom-l u-sizeFull u-sm-size1of2 u-md-size1of2 u-lg-size1of2 u-flex u-flexJustifyCenter u-sm-flexJustifyEnd u-md-flexJustifyEnd u-lg-flexJustifyEnd">
+        <a href="{{ site.data.menu_items[active_lang].task-force.url | relative_url | append: '/' }}" role="button" class="Button Button--default u-padding-left-xxl u-padding-right-xxl">
+          {{ t.cta_scopri_tf | upcase }}
+        </a>
+      </div>
+      <div class="Grid-cell u-padding-bottom-l u-sizeFull u-sm-size1of2 u-md-size1of2 u-lg-size1of2 u-flex u-flexJustifyCenter u-sm-flexJustifyStart u-md-flexJustifyStart u-lg-flexJustifyStart">
+        <a href="{{ site.data.menu_items[active_lang].materiali.url | relative_url | append: '/' }}" role="button" class="Button Button--default u-padding-left-xxl u-padding-right-xxl">
+          {{ t.cta_approfondisci | upcase }}
+        </a>
+      </div>
+    </div>
+  </div>
+</section>

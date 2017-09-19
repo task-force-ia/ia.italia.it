@@ -1,0 +1,24 @@
+{% if site.data.l10n.size > 1 %}
+<a href="#languages" data-menu-trigger="languages" class="Header-language u-border-none u-zindex-max u-inlineBlock">
+    <span class="u-hiddenVisually">{{ t.active_lang }}:</span>
+    <span class="">{{ site.data.l10n[active_lang].code | upcase }}</span>
+    <span class="Icon Icon-expand u-padding-left-xs"></span>
+  </a>
+
+  <div id="languages" data-menu class="Dropdown-menu Header-language-other u-jsVisibilityHidden u-nojsDisplayNone">
+    <span class="Icon-drop-down Dropdown-arrow u-color-white"></span>
+    <ul class="Linklist">
+      {% for lang in site.data.l10n %}
+      {% assign curr_lang = lang[0] %}
+      {% assign alt_lang = "/" | append: lang[1].base_url %}
+      {% if curr_lang != active_lang %}
+      {% assign page_url = alt_lang | append: page.alt_langs[curr_lang] %}
+      {% else %}
+      {% assign page_url = page.url %}
+      {% endif %}
+      <li><a href="{{ page_url | relative_url }}"
+        class="u-padding-r-all"><span lang="{{ lang[0] }}">{{ lang[1].name }}</span></a></li>
+      {% endfor %}
+    </ul>
+  </div>
+{% endif %}

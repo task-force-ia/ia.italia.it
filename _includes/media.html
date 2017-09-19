@@ -1,0 +1,9 @@
+<h4>Media</h4>
+{% assign media = site.data.media | where: 'lang', active_lang %}
+{% for medium in media %}
+  <div class="Media u-sizeFull">
+    <a href="{{ medium.href }}" title="{{ press-release.title | escape }}" class="u-linkClean" target="_blank">
+      <span class="Title u-sizeFull u-textClean">{{ medium.title }}</span><span class="Icon Icon-chevron-right u-color-50 u-alignBottom"></span>
+    </a>
+  </div>
+{% endfor %}

@@ -1,0 +1,27 @@
+it_IT:
+  task-force:
+    title: Task force
+    url: task-force
+  materiali:
+    title: Materiali
+    url: materiali
+  faq:
+    title: Domande frequenti
+    url: domande-frequenti
+  contatti:
+    title: Contatti
+    url: contatti
+
+en_US:
+  task-force:
+    title: Task Force
+    url: en/task-force
+  materiali:
+    title: Documents
+    url: en/documents
+  faq:
+    title: FAQ
+    url: en/faq
+  contatti:
+    title: Contacts
+    url: en/contacts

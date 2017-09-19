@@ -1,0 +1,33 @@
+<div class="Grid u-layout-r-withGutter u-padding-top-xxl">
+  <div class="Home-claim Grid-cell u-sizeFull u-padding-r-all u-text-p u-color-white u-textCenter">
+    <p class="u-textWeight-200 u-text-r-l u-hidden u-sm-block u-md-block u-lg-block">{{ t.home_claim | newline_to_br | strip_newlines }}</p>
+    <p class="u-textWeight-200 u-text-r-l u-block u-sm-hidden u-md-hidden u-lg-hidden">{{ t.home_claim }}</p>
+  </div>
+  <div class="Grid Grid--withGutter Grid-cell u-sizeFull u-padding-r-all u-text-p u-color-white">
+    <div class="Grid-cell u-padding-bottom-l u-sizeFull u-sm-size1of2 u-md-size1of2 u-lg-size1of2 u-flex u-flexJustifyCenter u-sm-flexJustifyEnd u-md-flexJustifyEnd u-lg-flexJustifyEnd">
+      <a href="#home-content" role="button" class="Button Button--default u-padding-left-xxl u-padding-right-xxl u-borderShadow-xxl">
+        {{ t.cta_scopri | upcase }}
+      </a>
+    </div>
+    <div class="Grid-cell u-padding-bottom-l u-sizeFull u-sm-size1of2 u-md-size1of2 u-lg-size1of2 u-flex u-flexJustifyCenter u-sm-flexJustifyStart u-md-flexJustifyStart u-lg-flexJustifyStart">
+      <a href="https://ia.italia.it/community" role="button" class="Button Button--default u-padding-left-xxl u-padding-right-xxl u-borderShadow-xxl">
+        {{ t.cta_partecipa | upcase }}
+      </a>
+    </div>
+  </div>
+  <div class="Grid-cell u-sizeFull u-textCenter u-padding-r-all u-textCenter">
+    <h3 class="u-text-r-m u-textWeight-300 u-color-white u-lineHeight-l">{{ t.newsletter_signup }}</h3>
+    <form id="newsletter" class="Form u-padding-r-top u-sm-size2of3 u-md-size5of12 u-lg-size5of12 u-layoutCenter" action="{{ 'newsletter.php' | relative_url }}">
+      <div class="Form-field Form-field--withPlaceholder Grid u-background-white u-color-grey-30 u-borderRadius-s u-borderShadow-xxl">
+        <button class="Grid-cell u-sizeFit Icon-mail u-color-grey-40 u-text-r-m u-padding-all-s u-textWeight-400"></button>
+        <input class="Form-input Form-input--ultraLean Grid-cell u-sizeFill u-text-r-s u-color-black u-text-r-xs u-borderHideFocus" required id="newsletter-email" name="email" placeholder="{{ t.newsletter_placeholder }}">
+        <button type="submit" class="Grid-cell u-sizeFit Button Button--default u-padding-r-left u-padding-r-right u-textUppercase u-borderRadius-s" id="newsletter-submit">
+         {{ t.newsletter_subscribe }}
+        </button>
+      </div>
+    </form>
+    <p class="u-textCenter u-padding-top-l u-layoutCenter u-text-r-xs u-color-grey-40 u-layout-prose">
+      {{ t.newsletter_tagline | newline_to_br | strip_newlines }}
+    </p>
+  </div>
+</div>

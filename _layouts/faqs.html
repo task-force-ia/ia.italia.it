@@ -1,0 +1,37 @@
+---
+layout: default
+---
+{% capture newLine %}
+{% endcapture %}
+{% capture newParagraph %}
+
+{% endcapture %}
+{% include setlang.html %}
+
+<div class="Page-title u-background-80 u-padding-top-xxl project-title-wrapper u-text{{ page.title-alignment | capitalize }}">
+  <hr class="Separator-room" />
+  <hr class="Separator Separator--down u-background-grey-15" />
+  {% include page_title.html bg-color = 'grey-15' color = '80' %}
+</div>
+
+<div class="Content u-background-grey-15 u-layout-r-withGutter u-padding-r-top u-padding-bottom-xxl u-posRelative u-zindex-30">
+  <div class="Grid">
+    <div class="Grid-cell u-sizeFull u-md-size7of12 u-lg-size7of12">
+      {% assign faqs = site.data.faqs[active_lang] %}
+      <div class="Accordion Accordion--default fr-accordion js-fr-accordion" id="accordion-{{ forloop.index }}
+        u-color-grey-30 u-border-bottom-xxs">
+        {% for faq in faqs %}
+        <div id="faq-{{ forloop.index }}">
+        <h2 class="Accordion-header js-fr-accordion__header fr-accordion__header"
+          id="accordion-header-{{ forloop.index }}">
+          <a href="#faq-{{ forloop.index }}" class="Accordion-link">{{ faq.title }}</a>
+        </h2>
+        <div id="accordion-panel-{{ forloop.index }}" class="Accordion-panel fr-accordion__panel js-fr-accordion__panel">
+          <div class="Prose u-text-p u-padding-r-bottom u-textSecondary">{{ faq.text | newline_to_br | markdownify }}</div>
+        </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>

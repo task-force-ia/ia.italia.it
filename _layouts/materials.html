@@ -1,0 +1,43 @@
+---
+layout: page
+---
+{% include setlang.html %}
+
+<div class="Grid-cell u-sizeFull u-md-size8of12 u-md-before2of12 u-lg-size6of12 u-lg-before3of12">
+  <div class="u-margin-bottom-xxl">
+    {{ content }}
+  </div>
+  <div class="Tabs tabpanel">
+    <ul class="tablist" role="tablist">
+      <li id="tab-0" class="tab u-textCenter" aria-controls="panel-0" role="tab" aria-selected="false" tabindex="0">
+        <span class="Tab-label u-textWeight-600">{{ t.documents | newline_to_br | strip_newlines }}</span>
+      </li>
+      <li id="tab-1" class="tab selected u-textCenter" aria-controls="panel-1" aria-selected="true" role="tab" tabindex="-1" style="min-width: 9em;">
+        <span class="Tab-label u-textWeight-600">{{ t.insights }}</span>
+      </li>
+      <li id="tab-2" class="tab u-textCenter" aria-controls="panel-2" aria-selected="false" role="tab" tabindex="0">
+        <span class="Tab-label u-textWeight-600">{{ t.case_studies }}</span>
+      </li>
+    </ul>
+    <div id="panel-0" class="panel" aria-labelledby="tab-0" role="tabpanel">
+      {{ t.documents_coming_soon | markdownify }}
+    </div>
+    <div id="panel-1" class="panel" aria-labelledby="tab-1" role="tabpanel">
+      <ul class="Link-list">
+        {% assign data = site.data.ext_resources | sort: "order" %}
+        {% for datum in data %}
+        {% if active_lang != site.lang %}
+        {% assign date_lang = "date_" | append: t.lang %}
+        {% assign date = datum[date_lang] %}
+        {% else %}
+        {% assign date = datum.date %}
+        {% endif %}
+        <li><a href="{{ datum.link }}" title="{{ datum.title }}">{{ datum.title }}</a> [{{ datum.author }}{% if datum.date %} - {{ date }}{% endif %}]</li>
+        {% endfor %}
+      </ul>
+    </div>
+    <div id="panel-2" class="panel" aria-labelledby="tab-2" role="tabpanel">
+      {{ t.case_studies_coming_soon | markdownify }}
+    </div>
+  </div>
+</div>

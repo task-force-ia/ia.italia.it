@@ -1,0 +1,106 @@
+-
+  title: European Data Portal, Analytical Report 6 - OpenData in Cities 2
+  subtitle:
+  image: http://datos.gob.es/sites/default/files/styles/blog_image/public/european_data_portal_0.png?itok=ZwxKC-Rx
+  link: https://www.europeandataportal.eu/sites/default/files/edp_analytical_report_n6_-_open_data_in_cities_2_-_final-clean.pdf
+  lang: it_IT
+  order: 1
+  description: >
+    **PLACEHOLDER** Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Suspendisse eget nisl elit. Suspendisse eleifend id sapien sed finibus.
+    Maecenas eu pellentesque lorem.
+  socials:
+    -
+      name: facebook
+      icon: facebook
+      link: https://www.facebook.com/EuropeanDataPortal
+    -
+      name: twitter
+      icon: twitter
+      link: https://twitter.com/EU_DataPortal
+    -
+      name: linkedin
+      icon: linkedin
+      link: https://www.linkedin.com/groups/8428984/
+-
+  title: Best Government Emerging Technologies
+  subtitle:
+  image: http://via.placeholder.com/800x450
+  link: https://worldgovernmentsummit.org/api/publications/document?id=24737dc4-e97c-6578-b2f8-ff0000a7ddb6
+  lang: it_IT
+  order: 2
+  description: >
+    Questo lavoro analizza le sperimentazioni di tecnologie emergenti nei servizi governativi che ne migliorano l'efficienza e l'efficacia, domistrando che possono trasformare la vita delle persone.
+  socials:
+    -
+      name: facebook
+      icon: facebook
+      link: https://www.facebook.com/WorldGovSummit/
+    -
+      name: twitter
+      icon: twitter
+      link: https://twitter.com/worldgovsummit
+    -
+      name: linkedin
+      icon: linkedin
+      link: https://www.linkedin.com/company/world-government-summit
+-
+  title: Facebook chatbot OpenSource della Casa Bianca
+  subtitle:
+  image: http://via.placeholder.com/800x450
+  link: https://github.com/WhiteHouse/fb_messenger_bot
+  lang: it_IT
+  order: 3
+  description: >
+    **PLACEHOLDER** Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Suspendisse eget nisl elit. Suspendisse eleifend id sapien sed finibus.
+    Maecenas eu pellentesque lorem.
+  socials:
+    -
+      name: github
+      icon: github
+      link: https://github.com/WhiteHouse/fb_messenger_bot
+-
+  title: Emma, Assistente virtuale per il sito dell'immigrazione U.S.
+  subtitle:
+  image: http://via.placeholder.com/800x450
+  link: https://www.uscis.gov/emma
+  lang: it_IT
+  order: 4
+  description: >
+    **PLACEHOLDER** Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Suspendisse eget nisl elit. Suspendisse eleifend id sapien sed finibus.
+    Maecenas eu pellentesque lorem.
+  socials:
+    -
+      name: facebook
+      icon: facebook
+      link: http://www.facebook.com/uscis
+    -
+      name: twitter
+      icon: twitter
+      link: http://www.twitter.com/uscis
+-
+  title: Case study 5
+  subtitle: Sottotitolo
+  image: http://via.placeholder.com/800x450
+  link: http://www.agid.gov.it
+  lang: it_IT
+  order: 5
+  description: >
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Suspendisse eget nisl elit. Suspendisse eleifend id sapien sed finibus.
+    Maecenas eu pellentesque lorem.
+  socials:
+    -
+      name: facebook
+      icon: facebook
+      link: https://www.facebook.com/
+    -
+      name: twitter
+      icon: twitter
+      link: https://www.twitter.com/
+    -
+      name: medium
+      icon: medium
+      link: https://medium.com/

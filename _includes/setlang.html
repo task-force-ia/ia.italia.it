@@ -1,0 +1,2 @@
+{% assign active_lang = page.lang | default: layout.lang | default: site.lang | default: "it_IT" %}
+{% assign t = site.data.l10n[active_lang].t %}

@@ -1,0 +1,92 @@
+<header class="Header u-hiddenPrint {{ page.layout }} u-background-80 u-flex u-flexCol">
+  <div class="Header-banner u-backround-none">
+    <div class="Header-owner">
+      <div class="Header-slim-toggle u-md-hidden u-lg-hidden u-floatLeft u-border-right-xxs u-margin-right-xs u-padding-right-xs">
+        <a class="js-fr-offcanvas-open u-nojsDisplayInlineBlock" href="#network" aria-controls="network" aria-label="{{ t.toggle_network_menu_label }}" title="{{ t.toggle_network_menu_label }}"><span class="Icon Icon-small-burger u-color-white u-alignMiddle"></span></a>
+      </div>
+      <a href="{{ site.owner_link }}">
+        <span class="u-inline">
+          {{ t.agid }}
+        </span>
+      </a>
+      <div class="u-floatRight">
+        <div class="u-hidden u-md-inlineBlock u-lg-inlineBlock">
+        {% include slim_header.html %}
+        </div>
+      {% include lang_switch.html %}
+      </div>
+    </div>
+  </div>
+
+  <div class="Header-navbar u-backround-none">
+    <div class="u-layout-wide Grid Grid--alignMiddle u-layoutCenter">
+      <div class="Header-logo Grid-cell" aria-hidden="true">
+        <a href="{{ '/' | append: site.data.l10n[active_lang].base_url | relative_url }}" tabindex="-1">
+          <img src="{{ site.logo | relative_url }}" alt="">
+        </a>
+      </div>
+
+      <div class="Header-title Grid-cell">
+        <h1 class="Header-titleLink">
+          <a href="{{ '/' | append: site.data.l10n[active_lang].base_url | relative_url }}">{{ t.site_title | default: site.title | escape }}
+            {% if site.pill %}
+              <span class="u-lg-hidden u-md-hidden u-sm-hidden u-cf u-padding-top-xxs u-block"></span>
+              <span class="u-color-20 u-text-xxs
+              u-alignMiddle u-padding-right-xxs u-padding-left-xxs">{{ site.pill }}</span>{%
+                endif %}<br><small>{{ t.site_subtitle | default: site.subtitle | escape }}</small></a>
+        </h1>
+      </div>
+
+      {% if include.hasSearch %}
+      <div class="Header-searchTrigger Grid-cell">
+        <button aria-controls="header-search" class="js-Header-search-trigger Icon Icon-search u-background-50" title="{{ t.search_form_on }}" aria-label="{{ t.search_form_on }}" aria-hidden="false">
+        </button>
+        <button aria-controls="header-search" class="js-Header-search-trigger Icon Icon-close u-hidden u-background-50" title="{{ t.search_form_off }}" aria-label="{{ t.search_form_off }}" aria-hidden="true">
+        </button>
+      </div>
+      {% endif %}
+
+      <div class="Header-utils Grid-cell u-hidden u-md-block u-lg-block">
+        <div class="Header-social">
+          <p>{{ t.follow_us | capitalize }}</p>
+          <ul class="Header-socialIcons">
+            {% assign socials = site.data.social | where: 'owner', 'agid' | where: 'header', true %}
+            {% for social in socials %}
+            <li>
+              <a href="{{ social.link }}" title="{{ social.name }}">
+                <span class="Icon-{{ social.name }}"></span>
+                <span class="u-hiddenVisually">{{ social.name | capitalize }}</span>
+              </a>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+
+        {% if include.hasSearch %}
+        <div class="Header-search" id="header-search">
+          {% include search_form.html %}
+        </div>
+        {% endif %}
+
+      </div>
+
+      <div class="Header-toggle Grid-cell u-lg-hidden u-md-hidden u-flexExpandLeft">
+        <a class="Hamburger-toggleContainer js-fr-offcanvas-open u-nojsDisplayInlineBlock" href="#menu" aria-controls="menu" aria-label="{{ t.toggle_menu_label }}" title="{{ t.toggle_menu_label }}">
+          <span class="Hamburger-toggle" role="presentation"></span>
+          <span class="Header-toggleText" role="presentation">Menu</span>
+        </a>
+      </div>
+
+    </div>
+  </div>
+  <!-- Header-navbar -->
+
+
+  <div class="Headroom-hideme u-textCenter u-hidden u-sm-hidden u-md-block u-lg-block">
+    <nav class="Megamenu Megamenu--default js-megamenu u-backround-none" data-rel=".Offcanvas .Treeview"></nav>
+  </div>
+
+  {% if page.layout == 'home' %}
+  {% include header_home.html %}
+  {% endif %}
+</header>

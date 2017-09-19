@@ -1,0 +1,34 @@
+it_IT:
+  - title: Cos’è la task force IA?
+    text: |
+      La task force sull’Intelligenza Artificiale (IA) è un’iniziativa dell’Agenzia per l’Italia Digitale che ha l’obiettivo di studiare le possibilità offerte dall’IA per migliorare i servizi pubblici e semplificare la vita dei cittadini.
+  - title: Come è composta la task force?
+    text: |
+      È composta da un coordinamento di [trenta profili](../task-force/#coordinamento) selezionati attraverso la [call](http://www.agid.gov.it/notizie/2017/04/06/lintelligenza-artificiale-servizio-del-cittadino-partecipa-task-force) promossa da AgID ad Aprile 2017 e da una [community](https://ia.italia.it/community) a supporto.
+  - title: Quali sono gli obiettivi?
+    text: |
+      La task force ha il compito di definire, all’interno di un primo rapporto sintetico, policy e opportunità strategiche per le amministrazioni italiane, derivanti dall’utilizzo dell’IA nello sviluppo di servizi pubblici.
+  - title: Come sono organizzati i lavori?
+    text: |
+      Il coordinamento si riunisce periodicamente, con cadenza almeno mensile, di persona o in remoto. I lavori del coordinamento sono supportati dai contributi della [community](https://ia.italia.it/community).
+      La task force si occupa di produrre la bozza delle raccomandazioni e seleziona i materiali di approfondimento che condivide con la community per raccogliere feedback e suggerimenti.
+  - title: Chi può partecipare alla task force?
+    text: |
+      Tutte le persone interessate possono contribuire ai lavori della task force. Partecipando alla [community](https://ia.italia.it/community) è possibile fornire feedback, suggerimenti, idee e segnalare casi di studio.
+en_US:
+  - title: What is the AI task force?
+    text: |
+     The Artificial Intelligence (AI) task force is an initiative of the Agency for Digital Italy, which aims at studying the opportunities offered by AI to improve public services and to simplify the lives of citizens.
+  - title: How is the task force composed?
+    text: |
+      The task force is composed by a coordination board of [thirty people](../task-force/#coordination-board), selected through a public call promoted by AgID in April 2017, and by an open [community](https://ia.italia.it/community) that provides support and feedback to its work.
+  - title: What is its mission?
+    text: |
+      The task force aims at defining, within a first synthetic report, policy and strategic opportunities for Italian administrations on the use of AI in the development of public services.
+  - title: What is the task force doing to fulfill its mandate?
+    text: |
+      The coordination board meets periodically, at least monthly, in person or remotely. The work of the board is supported by the contribution of the [community](https://ia.italia.it/community).
+      The task force drafts the recommendations and selects relevant documentation that it shares with the community to collect feedbacks and suggestions.
+  - title: How can someone get involved in the work of the task force?
+    text: |
+      All interested people can contribute to the work of the task force. By participating as part of the [community](https://ia.italia.it/community), everyone can provide feedback, suggestions, ideas and report relevant case studies.
