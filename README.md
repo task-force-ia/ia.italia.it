@@ -1,5 +1,6 @@
 # Sorgenti di ia.italia.it
 ## IA al servizio del cittadino
+[![CircleCI](https://circleci.com/gh/Taskforce-IA/ia.italia.it.svg?style=svg)](https://circleci.com/gh/Taskforce-IA/ia.italia.it)
 
 Questo repository contiene il codice sorgente di [ia.italia.it](https://ia.italia.it).
 
