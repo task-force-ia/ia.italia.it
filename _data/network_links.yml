@@ -1,8 +1,12 @@
+task-force:
+  title: header_link_task-force
+  url: "https://ia.italia.it"
+  class: "current"
 community:
   title: header_link_community
   url: "https://ia.italia.it/community"
   class: ""
-task-force:
-  title: header_link_task-force
-  url: "https://ia.italia.it/"
-  class: "current"
+whitepaper:
+  title: header_link_whitepaper
+  url: "https://whitepaper-ia.readthedocs.io"
+  class: ""

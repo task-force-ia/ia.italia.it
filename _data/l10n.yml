@@ -19,9 +19,9 @@ it_IT:
     follow_us: seguici su
     share_msg: condividi
 
+    header_link_task-force: Web
     header_link_community: Community
-    header_link_task-force: Task force
-    header_link_docs: Docs
+    header_link_whitepaper: White paper
 
     footer_link_privacy_policy: privacy policy
     footer_link_legal_notes: note legali
@@ -108,7 +108,8 @@ en_US:
     share_msg: share
 
     header_link_community: Community
-    header_link_task-force: Task force
+    header_link_task-force: Web
+    header_link_whitepaper: White paper
 
     footer_link_privacy_policy: privacy policy
     footer_link_legal_notes: legal notes
