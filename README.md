@@ -1,5 +1,5 @@
-# Sorgenti di ia.italia.it
-## IA al servizio del cittadino
+# Sito web della task force IA
+
 [![CircleCI](https://circleci.com/gh/Taskforce-IA/ia.italia.it.svg?style=svg)](https://circleci.com/gh/Taskforce-IA/ia.italia.it)
 
 Questo repository contiene il codice sorgente di [ia.italia.it](https://ia.italia.it).
@@ -12,3 +12,9 @@ Per configurare un ambiente di sviluppo è sufficiente eseguire i seguenti coman
     $ bundle exec jekyll serve
 
 Se vuoi contribuire una modifica, è sufficiente aprire una [pull-request](https://help.github.com/articles/about-pull-requests/).
+
+## Task force IA
+
+- [Sito web](https://ia.italia.it)
+- [Community](https://ia.italia.it/community)
+- [White paper](https://whitepaper-ia.readthedocs.io/)
