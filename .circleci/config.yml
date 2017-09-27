@@ -57,5 +57,5 @@ jobs:
           name: deploy
           command: |
             if [ "${CIRCLE_BRANCH}" == "master" ]; then
-              rsync -avhze "ssh -o StrictHostKeyChecking=no" _site/* ia.italia.it:/data/www/pages
+              rsync -rvhze "ssh -o StrictHostKeyChecking=no" _site/* ia.italia.it:/data/www/pages
             fi
