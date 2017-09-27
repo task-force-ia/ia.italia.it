@@ -3,35 +3,35 @@
   link: https://obamawhitehouse.archives.gov/sites/default/files/whitehouse_files/microsites/ostp/NSTC/preparing_for_the_future_of_ai.pdf
   date: ottobre 2016
   date_en: October 2016
-  type: doc
+  type: insight
   order: 5
 - title: One Hundred Year Study on Artificial Intelligence
   author: Stanford University
   link: https://ai100.stanford.edu/2016-report/section-i-what-artificial-intelligence
   date: agosto 2016
   date_en: August 2016
-  type: doc
+  type: insight
   order: 6
 - title: Opportunities and implications for the future of decision making
   author: UK Government Office for Science Artificial intelligence
   link: https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/566075/gs-16-19-artificial-intelligence-ai-report.pdf
   date: novembre 2016
   date_en: November 2016
-  type: doc
+  type: insight
   order: 4
 - title: Artificial Intelligence, Automation, and the Economy
   author: The White House, US
   link: https://www.whitehouse.gov/sites/whitehouse.gov/files/images/EMBARGOED%20AI%20Economy%20Report.pdf
   date: dicembre 2016
   date_en: December 2016
-  type: doc
+  type: insight
   order: 3
 - title: Artificial Intelligence for citizen services
   author: Harvard University
   link: https://ash.harvard.edu/files/ash/files/artificial_intelligence_for_citizen_services.pdf
   date: agosto 2017
   date_en: August 2017
-  type: doc
+  type: insight
   order: 1
 - title: >
     School of Engineering: The application of artificial intelligence in public administration for forecasting high crime risk transportation areas in urban environment
@@ -39,10 +39,12 @@
   link: http://www.sciencedirect.com/science/article/pii/S2352146517303642
   date: giugno 2017
   date_en: June 2017
-  type: doc
+  type: insight
   order: 2
-- title: Portale dati
-  author: Governo italiano
-  link: http://www.dati.gov.it/
-  type: dataset
-  order: 7
+- title: White paper IA
+  author: Task force IA
+  link: https://whitepaper-ia.readthedocs.io/it/latest/
+  date:
+  date_en:
+  type: doc
+  order: 1
