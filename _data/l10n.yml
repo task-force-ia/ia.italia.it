@@ -22,6 +22,7 @@ it_IT:
     header_link_task-force: Web
     header_link_community: Community
     header_link_whitepaper: White paper
+    go_to_the_whitepaper: Vai al white paper
 
     footer_link_privacy_policy: privacy policy
     footer_link_legal_notes: note legali
@@ -110,6 +111,7 @@ en_US:
     header_link_community: Community
     header_link_task-force: Web
     header_link_whitepaper: White paper
+    go_to_the_whitepaper: Go to the white paper
 
     footer_link_privacy_policy: privacy policy
     footer_link_legal_notes: legal notes
