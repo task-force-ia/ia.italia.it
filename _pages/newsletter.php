@@ -14,7 +14,7 @@ if ($_SERVER["REQUEST_METHOD"] != "POST") {
 }
 $email_not_valid = (strpos($_SERVER['HTTP_REFERER'], '/en/') === false) ? "Indirizzo email non valido" : "Invalid email address";
 $list_id = (strpos($_SERVER['HTTP_REFERER'], '/en/') === false) ? "80605733d8" : "c91fe55d43";
-if(filter_var($_POST["email"], FILTER_VALIDATE_EMAIL)) {
+if(filter_var(trim($_POST["email"]), FILTER_VALIDATE_EMAIL)) {
   $url = "https://us14.api.mailchimp.com/3.0/lists/" . $list_id . "/members";
   $postData = ["email_address" => $_POST["email"], "status" => "subscribed"];
   $mailchimp_subscribe = curl_init($url);
