@@ -1,6 +1,6 @@
 # Sito web della task force IA
 
-[![CircleCI](https://circleci.com/gh/Taskforce-IA/ia.italia.it.svg?style=svg)](https://circleci.com/gh/Taskforce-IA/ia.italia.it)
+[![CircleCI](https://circleci.com/gh/task-force-ia/ia.italia.it.svg?style=svg)](https://circleci.com/gh/task-force-ia/ia.italia.it)
 
 Questo repository contiene il codice sorgente di [ia.italia.it](https://ia.italia.it).
 
