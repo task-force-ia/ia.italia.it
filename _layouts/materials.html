@@ -48,7 +48,16 @@ layout: page
       </ul>
     </div>
     <div id="panel-2" class="panel" aria-labelledby="tab-2" role="tabpanel">
-      {{ t.case_studies_coming_soon | markdownify }}
+      {% assign data = site.data.ext_resources | where: "type", "case-study" | sort: "order" %}
+      {% for datum in data %}
+      {% if active_lang != site.lang %}
+      {% assign date_lang = "date_" | append: t.lang %}
+      {% assign date = datum[date_lang] %}
+      {% else %}
+      {% assign date = datum.date %}
+      {% endif %}
+      <li><a href="{{ datum.link }}" title="{{ datum.title }}">{{ datum.title }}</a> [{{ datum.author }}{% if datum.date %} - {{ date }}{% endif %}]</li>
+      {% endfor %}
     </div>
   </div>
 </div>

@@ -48,3 +48,17 @@
   date_en:
   type: doc
   order: 1
+- title: Feeding the Brain - Optimizing an intelligent assistant in the government sector
+  author: IP Australia, Australian Government
+  link: http://opusresearch.net/wordpress/pdfs/IP_Datacom_IAConf_SF_2017.pdf
+  date: settembre 2017
+  date_en: September 2017
+  type: case-study
+  order: 1
+- title: Chatbot MIPAAF Social - Servizio di risposta in tempo reale per i cittadini su Facebook Messenger
+  author: Ministero delle politiche agricole alimentari e forestali
+  link: https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/11326
+  date: maggio 2017
+  date_en: May 2017
+  type: case-study
+  order: 2
