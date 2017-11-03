@@ -62,3 +62,10 @@
   date_en: May 2017
   type: case-study
   order: 2
+- title: HUB Bologna 2
+  author: Comune di Bologna
+  link: https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/11326
+  date: ottobre 2017
+  date_en: October 2017
+  type: case-study
+  order: 3
