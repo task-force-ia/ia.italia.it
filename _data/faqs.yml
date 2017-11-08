@@ -11,10 +11,12 @@ it_IT:
   - title: Come sono organizzati i lavori?
     text: |
       Il coordinamento si riunisce periodicamente, con cadenza almeno mensile, di persona o in remoto. I lavori del coordinamento sono supportati dai contributi della [community](https://ia.italia.it/community).
-      La task force si occupa di produrre la bozza delle raccomandazioni e seleziona i materiali di approfondimento che condivide con la community per raccogliere feedback e suggerimenti.
+      La task force si occupa di produrre la bozza delle raccomandazioni e seleziona i [materiali](https://ia.italia.it/materiali/) di approfondimento che condivide con la community attraverso [ReadTheDocs](https://whitepaper-ia.readthedocs.io/it/latest/) per raccogliere feedback e suggerimenti.
   - title: Chi può partecipare alla task force?
     text: |
       Tutte le persone interessate possono contribuire ai lavori della task force. Partecipando alla [community](https://ia.italia.it/community) è possibile fornire feedback, suggerimenti, idee e segnalare casi di studio.
+  - title: Dove si trovano gli avanzamenti del white paper?
+    text: Nella sezione dedicata [“White paper”](https://whitepaper-ia.readthedocs.io/it/latest/) sono pubblicati gli avanzamenti, condivisi con il Coordinamento, di stesura del white paper, per i suggerimenti e le integrazioni che la community potrà proporre.
 en_US:
   - title: What is the AI task force?
     text: |
@@ -28,7 +30,7 @@ en_US:
   - title: What is the task force doing to fulfill its mandate?
     text: |
       The coordination board meets periodically, at least monthly, in person or remotely. The work of the board is supported by the contribution of the [community](https://ia.italia.it/community).
-      The task force drafts the recommendations and selects relevant documentation that it shares with the community to collect feedbacks and suggestions.
+      The task force drafts the recommendations and selects relevant [documentation](https://ia.italia.it/en/documents/) that it shares with the community to collect feedbacks and suggestions.
   - title: How can someone get involved in the work of the task force?
     text: |
       All interested people can contribute to the work of the task force. By participating as part of the [community](https://ia.italia.it/community), everyone can provide feedback, suggestions, ideas and report relevant case studies.
