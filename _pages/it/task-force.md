@@ -28,8 +28,8 @@ La task force si occupa di studiare come la diffusione di soluzioni e tecnologie
 
 Aperta a tutti coloro che vogliono contribuire ai lavori, è dedicata alla raccolta di commenti e feedback sulle attività della task force e di suggerimenti sull’applicazione dell’Intelligenza Artificiale nella pubblica amministrazione.
 
-#### Cosa ci aspettiamo entro dicembre 2017
+#### Cosa ci aspettiamo
 
-Entro dicembre verrà presentato un primo rapporto sintetico - un libro bianco – con suggerimenti e raccomandazioni che la pubblica amministrazione italiana potrà adottare per allinearsi alle migliori prassi internazionali.
+Verrà presentato un primo rapporto sintetico - un libro bianco – con suggerimenti e raccomandazioni che la pubblica amministrazione italiana potrà adottare per allinearsi alle migliori prassi internazionali.
 
 La task force, inoltre, valuterà possibili progetti pilota per sperimentare applicazioni e servizi che utilizzano strumenti di Intelligenza Artificiale con i soggetti che si candideranno.
