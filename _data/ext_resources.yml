@@ -40,35 +40,30 @@ it:
     author: Task force IA
     link: https://whitepaper-ia.readthedocs.io/it/latest/
     date:
-    date:
     type: doc
     order: 1
   - title: Feeding the Brain - Optimizing an intelligent assistant in the government sector
     author: IP Australia, Australian Government
     link: http://opusresearch.net/wordpress/pdfs/IP_Datacom_IAConf_SF_2017.pdf
     date: settembre 2017
-    date: September 2017
     type: case-study
     order: 1
   - title: Chatbot MIPAAF Social - Servizio di risposta in tempo reale per i cittadini su Facebook Messenger
     author: Ministero delle politiche agricole alimentari e forestali
     link: https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/11326
     date: maggio 2017
-    date: May 2017
     type: case-study
     order: 2
   - title: HUB Bologna 2
     author: Comune di Bologna
     link: https://www.he-r.it/project/hub-human-ecosystems-bologna/
     date: ottobre 2017
-    date: October 2017
     type: case-study
     order: 3
   - title: Risoluzione del Parlamento Europeo su norme del diritto civile e robotica
     author: Parlamento Europeo
     link: http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-%2F%2FEP%2F%2FNONSGML%2BTA%2BP8-TA-2017-0051%2B0%2BDOC%2BPDF%2BV0%2F%2FIT
     date: febbraio 2017
-    date: February 2017
     type: insight
     order: 3
 en:
