@@ -1,71 +1,142 @@
-- title: Preparing for the future of AI
-  author: Executive Office of the US President, National Science and Technology Council Committee on Technology
-  link: https://obamawhitehouse.archives.gov/sites/default/files/whitehouse_files/microsites/ostp/NSTC/preparing_for_the_future_of_ai.pdf
-  date: ottobre 2016
-  date_en: October 2016
-  type: insight
-  order: 5
-- title: One Hundred Year Study on Artificial Intelligence
-  author: Stanford University
-  link: https://ai100.stanford.edu/2016-report/section-i-what-artificial-intelligence
-  date: agosto 2016
-  date_en: August 2016
-  type: insight
-  order: 6
-- title: Opportunities and implications for the future of decision making
-  author: UK Government Office for Science Artificial intelligence
-  link: https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/566075/gs-16-19-artificial-intelligence-ai-report.pdf
-  date: novembre 2016
-  date_en: November 2016
-  type: insight
-  order: 4
-- title: Artificial Intelligence, Automation, and the Economy
-  author: The White House, US
-  link: https://www.whitehouse.gov/sites/whitehouse.gov/files/images/EMBARGOED%20AI%20Economy%20Report.pdf
-  date: dicembre 2016
-  date_en: December 2016
-  type: insight
-  order: 3
-- title: Artificial Intelligence for citizen services
-  author: Harvard University
-  link: https://ash.harvard.edu/files/ash/files/artificial_intelligence_for_citizen_services.pdf
-  date: agosto 2017
-  date_en: August 2017
-  type: insight
-  order: 1
-- title: >
-    School of Engineering: The application of artificial intelligence in public administration for forecasting high crime risk transportation areas in urban environment
-  author: University of Thessaly
-  link: http://www.sciencedirect.com/science/article/pii/S2352146517303642
-  date: giugno 2017
-  date_en: June 2017
-  type: insight
-  order: 2
-- title: White paper IA
-  author: Task force IA
-  link: https://whitepaper-ia.readthedocs.io/it/latest/
-  date:
-  date_en:
-  type: doc
-  order: 1
-- title: Feeding the Brain - Optimizing an intelligent assistant in the government sector
-  author: IP Australia, Australian Government
-  link: http://opusresearch.net/wordpress/pdfs/IP_Datacom_IAConf_SF_2017.pdf
-  date: settembre 2017
-  date_en: September 2017
-  type: case-study
-  order: 1
-- title: Chatbot MIPAAF Social - Servizio di risposta in tempo reale per i cittadini su Facebook Messenger
-  author: Ministero delle politiche agricole alimentari e forestali
-  link: https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/11326
-  date: maggio 2017
-  date_en: May 2017
-  type: case-study
-  order: 2
-- title: HUB Bologna 2
-  author: Comune di Bologna
-  link: https://www.he-r.it/project/hub-human-ecosystems-bologna/
-  date: ottobre 2017
-  date_en: October 2017
-  type: case-study
-  order: 3
+it:
+  - title: Preparing for the future of AI
+    author: Executive Office of the US President, National Science and Technology Council Committee on Technology
+    link: https://obamawhitehouse.archives.gov/sites/default/files/whitehouse_files/microsites/ostp/NSTC/preparing_for_the_future_of_ai.pdf
+    date: ottobre 2016
+    type: insight
+    order: 6
+  - title: One Hundred Year Study on Artificial Intelligence
+    author: Stanford University
+    link: https://ai100.stanford.edu/2016-report/section-i-what-artificial-intelligence
+    date: agosto 2016
+    type: insight
+    order: 7
+  - title: Opportunities and implications for the future of decision making
+    author: UK Government Office for Science Artificial intelligence
+    link: https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/566075/gs-16-19-artificial-intelligence-ai-report.pdf
+    date: novembre 2016
+    type: insight
+    order: 5
+  - title: Artificial Intelligence, Automation, and the Economy
+    author: The White House, US
+    link: https://www.whitehouse.gov/sites/whitehouse.gov/files/images/EMBARGOED%20AI%20Economy%20Report.pdf
+    date: dicembre 2016
+    type: insight
+    order: 4
+  - title: Artificial Intelligence for citizen services
+    author: Harvard University
+    link: https://ash.harvard.edu/files/ash/files/artificial_intelligence_for_citizen_services.pdf
+    date: agosto 2017
+    type: insight
+    order: 1
+  - title: >
+      School of Engineering: The application of artificial intelligence in public administration for forecasting high crime risk transportation areas in urban environment
+    author: University of Thessaly
+    link: http://www.sciencedirect.com/science/article/pii/S2352146517303642
+    date: giugno 2017
+    type: insight
+    order: 2
+  - title: White paper IA
+    author: Task force IA
+    link: https://whitepaper-ia.readthedocs.io/it/latest/
+    date:
+    date:
+    type: doc
+    order: 1
+  - title: Feeding the Brain - Optimizing an intelligent assistant in the government sector
+    author: IP Australia, Australian Government
+    link: http://opusresearch.net/wordpress/pdfs/IP_Datacom_IAConf_SF_2017.pdf
+    date: settembre 2017
+    date: September 2017
+    type: case-study
+    order: 1
+  - title: Chatbot MIPAAF Social - Servizio di risposta in tempo reale per i cittadini su Facebook Messenger
+    author: Ministero delle politiche agricole alimentari e forestali
+    link: https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/11326
+    date: maggio 2017
+    date: May 2017
+    type: case-study
+    order: 2
+  - title: HUB Bologna 2
+    author: Comune di Bologna
+    link: https://www.he-r.it/project/hub-human-ecosystems-bologna/
+    date: ottobre 2017
+    date: October 2017
+    type: case-study
+    order: 3
+  - title: Risoluzione del Parlamento Europeo su norme del diritto civile e robotica
+    author: Parlamento Europeo
+    link: http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-%2F%2FEP%2F%2FNONSGML%2BTA%2BP8-TA-2017-0051%2B0%2BDOC%2BPDF%2BV0%2F%2FIT
+    date: febbraio 2017
+    date: February 2017
+    type: insight
+    order: 3
+en:
+  - title: Preparing for the future of AI
+    author: Executive Office of the US President, National Science and Technology Council Committee on Technology
+    link: https://obamawhitehouse.archives.gov/sites/default/files/whitehouse_files/microsites/ostp/NSTC/preparing_for_the_future_of_ai.pdf
+    date: October 2016
+    type: insight
+    order: 6
+  - title: One Hundred Year Study on Artificial Intelligence
+    author: Stanford University
+    link: https://ai100.stanford.edu/2016-report/section-i-what-artificial-intelligence
+    date: August 2016
+    type: insight
+    order: 7
+  - title: Opportunities and implications for the future of decision making
+    author: UK Government Office for Science Artificial intelligence
+    link: https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/566075/gs-16-19-artificial-intelligence-ai-report.pdf
+    date: November 2016
+    type: insight
+    order: 5
+  - title: Artificial Intelligence, Automation, and the Economy
+    author: The White House, US
+    link: https://www.whitehouse.gov/sites/whitehouse.gov/files/images/EMBARGOED%20AI%20Economy%20Report.pdf
+    date: December 2016
+    type: insight
+    order: 4
+  - title: Artificial Intelligence for citizen services
+    author: Harvard University
+    link: https://ash.harvard.edu/files/ash/files/artificial_intelligence_for_citizen_services.pdf
+    date: August 2017
+    type: insight
+    order: 1
+  - title: "School of Engineering: The application of artificial intelligence in public administration for forecasting high crime risk transportation areas in urban environment"
+    author: University of Thessaly
+    link: http://www.sciencedirect.com/science/article/pii/S2352146517303642
+    date: June 2017
+    type: insight
+    order: 2
+  - title: White paper IA
+    author: Task force IA
+    link: https://whitepaper-ia.readthedocs.io/it/latest/
+    date:
+    date:
+    type: doc
+    order: 1
+  - title: Feeding the Brain - Optimizing an intelligent assistant in the government sector
+    author: IP Australia, Australian Government
+    link: http://opusresearch.net/wordpress/pdfs/IP_Datacom_IAConf_SF_2017.pdf
+    date: September 2017
+    type: case-study
+    order: 1
+  - title: Chatbot MIPAAF Social - Servizio di risposta in tempo reale per i cittadini su Facebook Messenger
+    author: Ministero delle politiche agricole alimentari e forestali
+    link: https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/11326
+    date: maggio 2017
+    date: May 2017
+    type: case-study
+    order: 2
+  - title: HUB Bologna 2
+    author: Comune di Bologna
+    link: https://www.he-r.it/project/hub-human-ecosystems-bologna/
+    date: October 2017
+    type: case-study
+    order: 3
+  - title: European Parliament resolution on Civil Law Rules on Robotics
+    author: European Parliament
+    link: http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-%2F%2FEP%2F%2FNONSGML%2BTA%2BP8-TA-2017-0051%2B0%2BDOC%2BPDF%2BV0%2F%2FEN
+    date: February 2017
+    type: insight
+    order: 3

@@ -21,43 +21,27 @@ layout: page
     </ul>
     <div id="panel-0" class="panel" aria-labelledby="tab-0" role="tabpanel">
       <ul class="Link-list">
-        {% assign data = site.data.ext_resources | where: "type", "doc" | sort: "order" %}
+        {% assign data = site.data.ext_resources[t.lang] | where: "type", "doc" | sort: "order" %}
         {% for datum in data %}
-        {% if active_lang != site.lang %}
-        {% assign date_lang = "date_" | append: t.lang %}
-        {% assign date = datum[date_lang] %}
-        {% else %}
-        {% assign date = datum.date %}
-        {% endif %}
-        <li><a href="{{ datum.link }}" title="{{ datum.title }}">{{ datum.title }}</a> [{{ datum.author }}{% if datum.date %} - {{ date }}{% endif %}]</li>
+        <li><a href="{{ datum.link }}" title="{{ datum.title }}">{{ datum.title }}</a> [{{ datum.author }}{% if datum.date %} - {{ datum.date }}{% endif %}]</li>
         {% endfor %}
       </ul>
     </div>
     <div id="panel-1" class="panel" aria-labelledby="tab-1" role="tabpanel">
       <ul class="Link-list">
-        {% assign data = site.data.ext_resources | where: "type", "insight" | sort: "order" %}
+        {% assign data = site.data.ext_resources[t.lang] | where: "type", "insight" | sort: "order" %}
         {% for datum in data %}
-        {% if active_lang != site.lang %}
-        {% assign date_lang = "date_" | append: t.lang %}
-        {% assign date = datum[date_lang] %}
-        {% else %}
-        {% assign date = datum.date %}
-        {% endif %}
-        <li><a href="{{ datum.link }}" title="{{ datum.title }}">{{ datum.title }}</a> [{{ datum.author }}{% if datum.date %} - {{ date }}{% endif %}]</li>
+        <li><a href="{{ datum.link }}" title="{{ datum.title }}">{{ datum.title }}</a> [{{ datum.author }}{% if datum.date %} - {{ datum.date }}{% endif %}]</li>
         {% endfor %}
       </ul>
     </div>
     <div id="panel-2" class="panel" aria-labelledby="tab-2" role="tabpanel">
-      {% assign data = site.data.ext_resources | where: "type", "case-study" | sort: "order" %}
-      {% for datum in data %}
-      {% if active_lang != site.lang %}
-      {% assign date_lang = "date_" | append: t.lang %}
-      {% assign date = datum[date_lang] %}
-      {% else %}
-      {% assign date = datum.date %}
-      {% endif %}
-      <li><a href="{{ datum.link }}" title="{{ datum.title }}">{{ datum.title }}</a> [{{ datum.author }}{% if datum.date %} - {{ date }}{% endif %}]</li>
-      {% endfor %}
+      <ul class="Link-list">
+        {% assign data = site.data.ext_resources[t.lang] | where: "type", "case-study" | sort: "order" %}
+        {% for datum in data %}
+        <li><a href="{{ datum.link }}" title="{{ datum.title }}">{{ datum.title }}</a> [{{ datum.author }}{% if datum.date %} - {{ datum.date }}{% endif %}]</li>
+        {% endfor %}
+      </ul>
     </div>
   </div>
 </div>
