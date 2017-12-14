@@ -441,7 +441,7 @@
 -
   name: Erica Sirgiovanni
   desc: Comunicazione e relazioni esterne, AgID
-  desc_en: CCommunication and External Relations, AgID
+  desc_en: Communication and External Relations, AgID
   group: agid_fp
   pic: assets/images/people/erica_sirgiovanni.jpg
   contacts:
@@ -490,6 +490,19 @@
     twitter:
       name: twitter
       link: https://twitter.com/GiuseppeAriano
+-
+  name: Giuseppe Mancinelli
+  desc: Segreteria tecnica e Community, AgID
+  desc_en: Technical Secretariat and Community, AgID
+  group: agid_fp
+  pic: assets/images/people/giuseppe_mancinelli.jpg
+  contacts:
+    linkedin:
+      name: linkedin
+      link: https://www.linkedin.com/in/giuseppe-mancinelli-83201a6/
+    twitter:
+      name: twitter
+      link: https://twitter.com/mancigi
 -
   name: Davide Porrovecchio
   desc: Sviluppo web, AgID
