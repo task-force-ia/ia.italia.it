@@ -5,6 +5,9 @@ it_IT:
   materiali:
     title: Materiali
     url: materiali
+  questionario:
+    title: Questionario
+    url: questionario
   faq:
     title: Domande frequenti
     url: domande-frequenti
@@ -19,6 +22,9 @@ en_US:
   materiali:
     title: Documents
     url: en/documents
+  questionario:
+    title: Survey
+    url: survey
   faq:
     title: FAQ
     url: en/faq

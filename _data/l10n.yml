@@ -69,6 +69,7 @@ it_IT:
     cta_approfondisci: Approfondisci
     cta_scopri_tf: Scopri la task force
     cta_scopri: Scopri di più
+    cta_compila: Compila il questionario
     scrivi_a: Scrivi a
     per_i_media: Per i media
 
@@ -159,6 +160,7 @@ en_US:
     cta_scopri: Learn more
     cta_scopri_tf: About us
     cta_approfondisci: Read more
+    cta_compila: Compila il questionario
     scrivi_a: Write to
     per_i_media: For the media
 
