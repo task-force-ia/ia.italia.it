@@ -5,9 +5,9 @@ it_IT:
   materiali:
     title: Materiali
     url: materiali
-  questionario:
-    title: Questionario
-    url: questionario
+  mappa:
+    title: IA in Italia
+    url: ia-in-italia
   faq:
     title: Domande frequenti
     url: domande-frequenti
@@ -22,9 +22,9 @@ en_US:
   materiali:
     title: Documents
     url: en/documents
-  questionario:
-    title: Survey
-    url: en/survey
+  mappa:
+    title: AI in Italy
+    url: en/ai-in-italy
   faq:
     title: FAQ
     url: en/faq

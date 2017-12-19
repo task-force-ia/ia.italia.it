@@ -4,6 +4,7 @@ it_IT:
   base_url: ""
   t:
     lang: it
+    lang_code: it_IT
     site_title: Task force IA
     site_subtitle: L’Intelligenza Artificiale al servizio del cittadino
 
@@ -69,7 +70,7 @@ it_IT:
     cta_approfondisci: Approfondisci
     cta_scopri_tf: Scopri la task force
     cta_scopri: Scopri di più
-    cta_compila: Compila il questionario
+    cta_compila: Aiutaci a mappare l'ecosistema IA
     scrivi_a: Scrivi a
     per_i_media: Per i media
 
@@ -94,6 +95,7 @@ en_US:
   base_url: "en/"
   t:
     lang: en
+    lang_code: en_US
     site_title: AI task force
     site_subtitle: Artificial Intelligence at the service of the citizen
 
@@ -160,7 +162,7 @@ en_US:
     cta_scopri: Learn more
     cta_scopri_tf: About us
     cta_approfondisci: Read more
-    cta_compila: Compila il questionario
+    cta_compila: Help us map the AI ecosystem in Italy
     scrivi_a: Write to
     per_i_media: For the media
 
