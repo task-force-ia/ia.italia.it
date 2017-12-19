@@ -10,7 +10,7 @@ content-alignment: left
 seo:
   type: WebPage
 ---
-Who are the public or private subjects that study, use or produce Artificial Intelligence solutions in Italy?
+Who are the public and private subjects that study, use or produce Artificial Intelligence solutions in Italy?
 
 With "Artificial Intelligence Ecosystem" we want to map the Italian producers and users of AI solutions (startups, companies, public and private research entities, etc), to facilitate the construction of relationships and the sharing of knowledge.
 
