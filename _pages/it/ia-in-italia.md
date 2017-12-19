@@ -20,7 +20,7 @@ Oltre a produrre del materiale a corredo del White Paper su IA e Pubblica Ammini
 
 ## MAPPA
 
-## Vuoi cambiare qualcosa?
+#### Vuoi cambiare qualcosa?
 
 Segnala la tua organizzazione oppure le realtà di tua conoscenza. Compila i campi della survey avendo cura di inserire tutte le informazioni importanti.
 
