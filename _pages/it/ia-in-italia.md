@@ -28,4 +28,4 @@ Segnala la tua organizzazione oppure le realtà di tua conoscenza. Compila i cam
 
 \* Data la velocità con cui il settore dell’IA si evolve, l’ecosistema è da considerarsi in continua evoluzione.
 
-*In collaborazione con l’Associazione* [_AI**IA_](http://www.aixia.it/avvisi-dellassociazione/italianaiecosystembyregion).
+*In collaborazione con l’Associazione* [_AI*IA_](http://www.aixia.it/avvisi-dellassociazione/italianaiecosystembyregion).

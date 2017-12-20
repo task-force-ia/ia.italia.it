@@ -29,4 +29,4 @@ Report your organization or the realities of your knowledge. Fill out the fields
 
 \* Given the speed with which the AI sector is evolving, the ecosystem is to be considered evolving.
 
-*In collaboration with the* [_AI\*\*IA Association_](http://www.aixia.it/avvisi-dellassociazione/italianaiecosystembyregion).
+*In collaboration with the* [_AI*IA Association_](http://www.aixia.it/avvisi-dellassociazione/italianaiecosystembyregion).
