@@ -18,14 +18,16 @@ Vogliamo creare un ecosistema che agevoli i progressi dell'Intelligenza Artifici
 
 Oltre a produrre del materiale a corredo del White Paper su IA e Pubblica Amministrazione, le informazioni raccolte serviranno a popolare un database delle aziende che sarà reso pubblico.
 
-## MAPPA
+<img style="max-width: 100%" src="/ia.italia.it/assets/images/ecosistema_ia_italia.png" alt="Mappa dell'Ecosistema IA in Italia">
 
 #### Vuoi cambiare qualcosa?
 
 Segnala la tua organizzazione oppure le realtà di tua conoscenza. Compila i campi della survey avendo cura di inserire tutte le informazioni importanti.
 
-[“Ecosistema Intelligenza Artificiale”](https://docs.google.com/forms/d/e/1FAIpQLSe5CeEfvCPvlx6dOg36vEp5cF2D7nNb0JagA_tQ4PZwUQknGQ/viewform)
+<a role="button" href="https://docs.google.com/forms/d/e/1FAIpQLSe5CeEfvCPvlx6dOg36vEp5cF2D7nNb0JagA_tQ4PZwUQknGQ/viewform" class="Button Button--default u-borderShadow-m u-text-r-xxs u-padding-r-all u-color-teal-70" target="_blank">
+  Ecosistema Intelligenza Artificiale
+</a>
 
-\* Data la velocità con cui il settore dell’IA si evolve, l’ecosistema è da considerarsi in continua evoluzione.
+\* Data la velocità con cui il settore dell’IA si evolve, l’ecosistema verrà costantemente aggiornato.
 
 *In collaborazione con l’Associazione* [_AI*IA_](http://www.aixia.it/avvisi-dellassociazione/italianaiecosystembyregion).
