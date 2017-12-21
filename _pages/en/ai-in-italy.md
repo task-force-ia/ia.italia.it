@@ -20,12 +20,15 @@ In addition to producing the material accompanying the White Paper on AI in the 
 
 If you know of anyone in Italy that is currently developing or using AI solutions please forward them the [link to this form](https://docs.google.com/forms/d/e/1FAIpQLSe5CeEfvCPvlx6dOg36vEp5cF2D7nNb0JagA_tQ4PZwUQknGQ/viewform) to help us mapping the AI ecosystem in the country.
 
-## MAP
+<img style="max-width: 100%" src="/ia.italia.it/assets/images/ecosistema_ia_italia.png" alt="Mappa dell'Ecosistema IA in Italia">
 
-Do you want to change something?
+### Do you want to change something?
+
 Report your organization or the realities of your knowledge. Fill out the fields of the form, taking care to include all relevant information.
 
-[“Artificial Intelligence Ecosystem” (only in Italian)](https://docs.google.com/forms/d/e/1FAIpQLSe5CeEfvCPvlx6dOg36vEp5cF2D7nNb0JagA_tQ4PZwUQknGQ/viewform)
+<a role="button" href="https://docs.google.com/forms/d/e/1FAIpQLSe5CeEfvCPvlx6dOg36vEp5cF2D7nNb0JagA_tQ4PZwUQknGQ/viewform" class="Button Button--default u-borderShadow-m u-text-r-xxs u-padding-r-all u-color-teal-70" target="_blank">
+  Artificial Intelligence Ecosystem
+</a>
 
 \* Given the speed with which the AI sector is evolving, the ecosystem is to be considered evolving.
 
