@@ -24,14 +24,14 @@ Nel frattempo siamo partiti con delle segnalazioni che ci hanno consentito di cr
 
 Sarà presto online una mappa dinamica per una migliore comprensione dell'ecosistema.
 
-### Come funziona
+### Come segnalare
 
 Segnala la tua organizzazione oppure le realtà di tua conoscenza. Compila i campi della survey avendo cura di inserire tutte le informazioni importanti.
 
-<a role="button" href="https://docs.google.com/forms/d/e/1FAIpQLSe5CeEfvCPvlx6dOg36vEp5cF2D7nNb0JagA_tQ4PZwUQknGQ/viewform" class="Button Button--default u-borderShadow-m u-text-r-xxs u-padding-r-all u-color-teal-70" target="\_blank">Vai a Ecosistema Intelligenza Artificiale</a>
+<a role="button" href="https://docs.google.com/forms/d/e/1FAIpQLSe5CeEfvCPvlx6dOg36vEp5cF2D7nNb0JagA_tQ4PZwUQknGQ/viewform" class="Button Button--default u-borderShadow-m u-text-r-xxs u-padding-r-all u-color-teal-70" target="_blank">Inserisci una segnalazione</a>
 
 \* Data la velocità con cui il settore dell’IA si evolve, l’ecosistema verrà costantemente aggiornato.
 
-Per eventuali cambiamenti o modifiche alla mappatura già presente inviare una mail a intelligenza-artificiale@agid.gov.it
+Per eventuali cambiamenti o modifiche alla mappatura già presente inviare una mail a <intelligenza-artificiale@agid.gov.it>.
 
 *In collaborazione con l’Associazione* [_AI*IA_](http://www.aixia.it/avvisi-dellassociazione/italianaiecosystembyregion).
