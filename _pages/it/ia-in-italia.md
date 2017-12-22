@@ -18,7 +18,7 @@ Vogliamo creare un ecosistema che agevoli i progressi dell’Intelligenza Artifi
 
 Oltre a produrre del materiale a corredo del [White Paper su IA](link https://whitepaper-ia.readthedocs.io/it/latest/) e Pubblica Amministrazione, le informazioni raccolte serviranno a popolare un database che sarà reso pubblico al più presto.
 
-Nel frattempo siamo partiti con delle segnalazioni che ci ha consentito di creare una prima mappatura.
+Nel frattempo siamo partiti con delle segnalazioni che ci hanno consentito di creare una prima mappatura.
 
 <img style="max-width: 100%" src="/ia.italia.it/assets/images/ecosistema_ia_italia.png" alt="Mappa dell'Ecosistema IA in Italia">
 
