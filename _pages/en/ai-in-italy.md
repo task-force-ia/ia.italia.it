@@ -18,12 +18,14 @@ With “Artificial Intelligence Ecosystem” we want to map the Italian producer
 
  <a role="button" href="https://docs.google.com/forms/d/e/1FAIpQLSe5CeEfvCPvlx6dOg36vEp5cF2D7nNb0JagA_tQ4PZwUQknGQ/viewform" class="Button Button--default u-borderShadow-m u-text-r-xxs u-padding-r-all u-color-teal-70" target="_blank">Submit a new entity</a>
 
-  In addition to producing the material accompanying the ["White Paper IA"](https://whitepaper-ia.readthedocs.io/it/latest/), the information collected will serve to populate a public database and a dynamic map that will be soon released.  In the meantime, we started with some reports that allowed us to create a first mapping.\*
+  In addition to producing the material accompanying the ["White Paper IA"](https://whitepaper-ia.readthedocs.io/it/latest/), the information collected will serve to populate a public database and a dynamic map that will be soon released.  
+
+In the meantime, we started with some reports that allowed us to create a first mapping.\*
 
 <img style="max-width: 100%" src="/ia.italia.it/assets/images/ecosistema_ia_italia.png" alt="Mappa dell'Ecosistema IA in Italia">
 
-\* Given the speed with which the AI sector is evolving, the ecosystem is to be considered evolving.
+Given the speed with which the AI sector is evolving, the ecosystem is to be considered evolving.
 
 For any amendments or changes to the current mapping please send an email to <intelligenza-artificiale@agid.gov.it>.
 
-*In collaboration with the* [_AI*IA Association_](http://www.aixia.it/avvisi-dellassociazione/italianaiecosystembyregion).
+\* *In collaboration with the* [_AI*IA Association_](http://www.aixia.it/avvisi-dellassociazione/italianaiecosystembyregion).
