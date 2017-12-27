@@ -16,7 +16,7 @@
 title: Task Force AI
 description: L’Intelligenza Artificiale al servizio del cittadino
 baseurl: "" # the subpath of your site, e.g. /blog
-url:  https://ia.italia.it # the base hostname & protocol for your site, e.g. http://example.com
+url: https://ia.italia.it # the base hostname & protocol for your site, e.g. http://example.com
 author: Agenzia per l'Italia Digitale
 facebook:
   publisher: https://www.facebook.com/Agenzia-per-lItalia-Digitale-1562653967388005/
