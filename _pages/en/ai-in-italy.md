@@ -22,7 +22,7 @@ With “Artificial Intelligence Ecosystem” we want to map the Italian producer
 
 In the meantime, we started with some reports that allowed us to create a first mapping.\*
 
-<img style="max-width: 100%" src="/ia.italia.it/assets/images/ecosistema_ia_italia.png" alt="Mappa dell'Ecosistema IA in Italia">
+<img style="max-width: 100%" src="/assets/images/ecosistema_ia_italia.png" alt="Mappa dell'Ecosistema IA in Italia">
 
 Given the speed with which the AI sector is evolving, the ecosystem is to be considered evolving.
 
