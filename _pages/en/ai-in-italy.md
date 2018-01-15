@@ -26,6 +26,8 @@ In the meantime, we started with some reports that allowed us to create a first 
 
 Given the speed with which the AI sector is evolving, the ecosystem is to be considered evolving.
 
+The mapping of the ecosystem collects the realities reported by the subjects participating in the survey, the presence inside the mapping does not represent any form official certification by the Agency for Digital Italy.
+
 For any amendments or changes to the current mapping please send an email to <intelligenza-artificiale@agid.gov.it>.
 
 \* *In collaboration with the* [_AI*IA Association_](http://www.aixia.it/avvisi-dellassociazione/italianaiecosystembyregion).
