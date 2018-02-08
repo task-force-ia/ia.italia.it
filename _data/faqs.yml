@@ -11,12 +11,23 @@ it_IT:
   - title: Come sono organizzati i lavori?
     text: |
       Il coordinamento si riunisce periodicamente, con cadenza almeno mensile, di persona o in remoto. I lavori del coordinamento sono supportati dai contributi della [community](https://ia.italia.it/community).
-      La task force si occupa di produrre la bozza delle raccomandazioni e seleziona i [materiali](https://ia.italia.it/materiali/) di approfondimento che condivide con la community attraverso [ReadTheDocs](https://whitepaper-ia.readthedocs.io/it/latest/) per raccogliere feedback e suggerimenti.
+      La task force si occupa di produrre la bozza delle raccomandazioni e seleziona i [materiali](https://ia.italia.it/materiali/) di approfondimento che condivide con la community attraverso [ReadTheDocs](https://libro-bianco-ia.readthedocs.io/it/latest/) per raccogliere feedback e suggerimenti.
   - title: Chi può partecipare alla task force?
     text: |
       Tutte le persone interessate possono contribuire ai lavori della task force. Partecipando alla [community](https://ia.italia.it/community) è possibile fornire feedback, suggerimenti, idee e segnalare casi di studio.
-  - title: Dove si trovano gli avanzamenti del white paper?
-    text: Nella sezione dedicata [“White paper”](https://whitepaper-ia.readthedocs.io/it/latest/) sono pubblicati gli avanzamenti, condivisi con il Coordinamento, di stesura del white paper, per i suggerimenti e le integrazioni che la community potrà proporre.
+  - title: Dove si trovano gli avanzamenti del libro bianco?
+    text: |
+      Nella sezione dedicata [“Libro bianco”](https://libro-bianco-ia.readthedocs.io/it/latest/) sono pubblicati gli avanzamenti, condivisi con il Coordinamento, di stesura del libro bianco, per i suggerimenti e le integrazioni che la community potrà proporre.
+  - title: Cos’è l’Osservatorio Italiano sull’Intelligenza Artificiale?
+    text: |
+      È un’iniziativa sperimentale promossa dalla Task Force IA in collaborazione con l’istituto di ricerca HER - Human Ecosystems Relazioni. L’obiettivo è quello di analizzare le conversazioni sull’Intelligenza Artificiale nei principali social network, attraverso diversi strumenti tra cui la sentiment analysis.
+  - title: È possibile contribuire alla stesura del libro bianco?
+    text: |
+      Il libro bianco è in consultazione fino all’11 marzo 2018. È possibile inviare integrazioni e commenti ai capitoli e alle sfide (link readthedocs), oppure proposte per le Raccomandazioni sull’IA, compilando il form “Raccomandazioni IA”(link form).
+  - title: Cos’è l’Ecosistema Intelligenza Artificiale?
+    text: |
+      È la mappatura dinamica dei soggetti pubblici e privati che studiano o lavorano con l’intelligenza artificiale in Italia. L’ecosistema (link alla pagina) viene costantemente aggiornato con le realtà che partecipano all’indagine promossa dalla Task Force IA.
+
 en_US:
   - title: What is the AI task force?
     text: |
@@ -30,9 +41,19 @@ en_US:
   - title: What is the task force doing to fulfill its mandate?
     text: |
       The Coordination board meets periodically, at least monthly, personally or remotely. The Coordination board work is supported by [community](https://ia.italia.it/community) contributions.
-      The task force is working on producing the draft of the recommendations and selecting the [materials](https://ia.italia.it/en/documents/) shared with the community through [ReadTheDocs](https://whitepaper-ia.readthedocs.io/it/latest/) to collect feedback and suggestions.
+      The task force is working on producing the draft of the recommendations and selecting the [materials](https://ia.italia.it/en/documents/) shared with the community through [ReadTheDocs](https://libro-bianco-ia.readthedocs.io/it/latest/) to collect feedback and suggestions.
   - title: How can someone get involved in the work of the task force?
     text: |
       All interested people can contribute to the work of the task force. By participating as part of the [community](https://ia.italia.it/community), everyone can provide feedback, suggestions, ideas and report relevant case studies.
   - title: Where can I find the advancements of the white paper?
-    text: In the [“White Paper”](https://whitepaper-ia.readthedocs.io/it/latest/) section, we publish the advancements of the White Paper, shared by the Coordination board and open to the suggestions and integrations that the community may propose.
+    text: |
+      In the [“White paper”](https://libro-bianco-ia.readthedocs.io/it/latest/) section, we publish the advancements of the White Paper, shared by the Coordination board and open to the suggestions and integrations that the community may propose.
+  - title: Cos’è l’Osservatorio Italiano sull’Intelligenza Artificiale?
+    text: |
+      È un’iniziativa sperimentale promossa dalla Task Force IA in collaborazione con l’istituto di ricerca HER - Human Ecosystems Relazioni. L’obiettivo è quello di analizzare le conversazioni sull’Intelligenza Artificiale nei principali social network, attraverso diversi strumenti tra cui la sentiment analysis.
+  - title: È possibile contribuire alla stesura del libro bianco?
+    text: |
+      Il libro bianco è in consultazione fino all’11 marzo 2018. È possibile inviare integrazioni e commenti ai capitoli e alle sfide (link readthedocs), oppure proposte per le Raccomandazioni sull’IA, compilando il form “Raccomandazioni IA”(link form).
+  - title: Cos’è l’Ecosistema Intelligenza Artificiale?
+    text: |
+      È la mappatura dinamica dei soggetti pubblici e privati che studiano o lavorano con l’intelligenza artificiale in Italia. L’ecosistema (link alla pagina) viene costantemente aggiornato con le realtà che partecipano all’indagine promossa dalla Task Force IA.

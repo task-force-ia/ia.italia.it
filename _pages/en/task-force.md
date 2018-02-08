@@ -29,6 +29,6 @@ It is open to all those who want to efficiently contribute to the work of the ta
 
 #### What do we expect to achieve
 
-As first output of the Task Force, a white white paper will be presented, containing suggestions and recommendations for the Italian public administration on how to adopt Artificial Intelligence solutions and technologies, in order to align itself to the international best practices.
+As first output of the Task Force, a white paper will be presented, containing suggestions and recommendations for the Italian public administration on how to adopt Artificial Intelligence solutions and technologies, in order to align itself to the international best practices.
 
 Moreover, the task force shall examine possible pilot projects in order to test the effectiveness of AI services and applications in collaboration with the stakeholders that will decide to participate in the project.

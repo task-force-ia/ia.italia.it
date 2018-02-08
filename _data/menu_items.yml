@@ -8,6 +8,9 @@ it_IT:
   mappa:
     title: IA in Italia
     url: ia-in-italia
+  osservatorio:
+    title: Osservatorio IA
+    url: osservatorio-ia
   faq:
     title: Domande frequenti
     url: domande-frequenti
@@ -25,6 +28,9 @@ en_US:
   mappa:
     title: AI in Italy
     url: en/ai-in-italy
+  osservatorio:
+    title: AI Observatory 
+    url: en/ai-observatory
   faq:
     title: FAQ
     url: en/faq

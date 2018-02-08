@@ -48,6 +48,9 @@ layout: default
     {% endif %}
       <div class="Prose">
         {{ content }}
+      
+      {% include osservatorio_frames.html %}
+      {{ t.observatory_credits | newline_to_br | markdownify }}
       </div>
     </div>
   </div>

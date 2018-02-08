@@ -18,7 +18,7 @@ With “Artificial Intelligence Ecosystem” we want to map the Italian producer
 
  <a role="button" href="https://goo.gl/forms/USYhvXVrJcCbtyG32" class="Button Button--default u-borderShadow-m u-text-r-xxs u-padding-r-all u-color-teal-70" target="_blank">Submit a new entity</a>
 
-  In addition to producing the material accompanying the ["White Paper IA"](https://whitepaper-ia.readthedocs.io/it/latest/), the information collected will serve to populate a public database and a dynamic map that will be soon released.  
+  In addition to producing the material accompanying the ["White Paper IA"](https://libro-bianco-ia.readthedocs.io/it/latest/), the information collected will serve to populate a public database and a dynamic map that will be soon released.  
 
 In the meantime, we started with some reports that allowed us to create a first mapping.\*
 
