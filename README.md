@@ -17,4 +17,4 @@ Se vuoi contribuire una modifica, è sufficiente aprire una [pull-request](https
 
 - [Sito web](https://ia.italia.it)
 - [Community](https://ia.italia.it/community)
-- [White paper](https://whitepaper-ia.readthedocs.io/)
+- [Libro bianco](https://libro-bianco-ia.readthedocs.io/)

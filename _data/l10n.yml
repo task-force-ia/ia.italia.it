@@ -22,8 +22,8 @@ it_IT:
 
     header_link_task-force: Web
     header_link_community: Community
-    header_link_whitepaper: White paper
-    go_to_the_whitepaper: Vai al white paper
+    header_link_whitepaper: Libro bianco
+    go_to_the_whitepaper: Vai al libro bianco
 
     footer_link_privacy_policy: privacy policy
     footer_link_legal_notes: note legali
@@ -71,6 +71,7 @@ it_IT:
     cta_scopri_tf: Scopri la task force
     cta_scopri: Scopri di più
     cta_compila: Aiutaci a mappare l'ecosistema IA
+    cta_libro_bianco: Partecipa alla consultazione sul libro bianco IA
     scrivi_a: Scrivi a
     per_i_media: Per i media
 
@@ -88,6 +89,28 @@ it_IT:
       promuove la diffusione dell'utilizzo delle tecnologie ICT, favorendo l'innovazione e la crescita economica, sociale e culturale del Paese.
 
     error: errore
+    iframe_not_supported: Il tuo browser non supporta gli iframe. Ti consigliamo di usarne uno più recente.
+    
+    observatory_sentiment: |
+      **Sentiment**: Scopri quali emozioni suscitano le discussioni sull’IA in Italia,
+      in che percentuali e secondo quali valori assoluti per giornata.
+    observatory_themes: |
+      **Temi**: Scopri quali sono i temi di cui si è più discusso negli ultimi 30
+      giorni. La dimensione dei cerchi è proporzionale alla frequenza di discussione
+      del tema.
+    observatory_themes_relations: |
+      **Relazione tra i temi**: Zoomando sulle linee del grafo scopri se negli
+      ultimi 30 giorni è stata stabilita una correlazione tra due temi.
+    observatory_credits: |
+      ## Note e credits
+      
+      I dati raccolti sono trattati secondo metodologie e tecnologie descritte nel
+      documento “[​OIA - Methodological, technological and ethical approach to social
+      networks analysis, data extraction and visualizations​](https://docs.google.com/document/d/1j93y2udBlZR-qOpLsRwfd5CQC9wwPEkGhsI2SP8646s/edit)”.
+      
+      **Inizio dell’ascolto: 24 settembre 2017**
+      L’Osservatorio è una iniziativa promossa dalla Task force IA in collaborazione
+      con istituto di ricerca [HER - Human Ecosystems Relazioni](https://www.he-r.it/).
 
 en_US:
   code: eng
@@ -163,6 +186,7 @@ en_US:
     cta_scopri_tf: About us
     cta_approfondisci: Read more
     cta_compila: Help us map the AI ecosystem in Italy
+    cta_libro_bianco: Partecipa alla consultazione sul libro bianco IA
     scrivi_a: Write to
     per_i_media: For the media
 
@@ -180,3 +204,25 @@ en_US:
       it encourages the diffusion and the use of ICT technologies, fostering innovation, socio-economic growth and digital culture.
 
     error: error
+    iframe_not_supported: You probabily have an older browser which does not support iframes. Please consider using a more recent one.
+    
+    observatory_sentiment: |
+      **Sentiment**: Scopri quali emozioni suscitano le discussioni sull’IA in Italia,
+      in che percentuali e secondo quali valori assoluti per giornata.
+    observatory_themes: |
+      **Temi**: Scopri quali sono i temi di cui si è più discusso negli ultimi 30
+      giorni. La dimensione dei cerchi è proporzionale alla frequenza di discussione
+      del tema.
+    observatory_themes_relations: |
+      **Relazione tra i temi**: Zoomando sulle linee del grafo scopri se negli
+      ultimi 30 giorni è stata stabilita una correlazione tra due temi.
+    observatory_credits: |
+      ## Note e credits
+      
+      I dati raccolti sono trattati secondo metodologie e tecnologie descritte nel
+      documento “[​OIA - Methodological, technological and ethical approach to social
+      networks analysis, data extraction and visualizations​](https://docs.google.com/document/d/1j93y2udBlZR-qOpLsRwfd5CQC9wwPEkGhsI2SP8646s/edit)”.
+      
+      **Inizio dell’ascolto: 24 settembre 2017**
+      L’Osservatorio è una iniziativa promossa dalla Task force IA in collaborazione
+      con istituto di ricerca [HER - Human Ecosystems Relazioni](https://www.he-r.it/).

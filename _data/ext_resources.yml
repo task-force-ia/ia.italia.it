@@ -36,9 +36,9 @@ it:
     date: giugno 2017
     type: insight
     order: 2
-  - title: White paper IA
+  - title: Libro bianco IA
     author: Task force IA
-    link: https://whitepaper-ia.readthedocs.io/it/latest/
+    link: https://libro-bianco-ia.readthedocs.io/it/latest/
     date:
     type: doc
     order: 1
@@ -105,7 +105,7 @@ en:
     order: 2
   - title: White paper IA
     author: Task force IA
-    link: https://whitepaper-ia.readthedocs.io/it/latest/
+    link: https://libro-bianco-ia.readthedocs.io/it/latest/
     date:
     date:
     type: doc

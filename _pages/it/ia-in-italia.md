@@ -18,7 +18,7 @@ Segnala la tua organizzazione oppure le realtà di tua conoscenza. Compila i cam
 
 <a role="button" href="https://goo.gl/forms/USYhvXVrJcCbtyG32" class="Button Button--default u-borderShadow-m u-text-r-xxs u-padding-r-all u-color-teal-70" target="_blank">Inserisci una segnalazione</a>
 
-Oltre a produrre del materiale a corredo del [White Paper IA](https://whitepaper-ia.readthedocs.io/it/latest/), le informazioni raccolte serviranno a popolare un database e una mappa dinamica che saranno resi pubblici al più presto.
+Oltre a produrre del materiale a corredo del [Libro bianco IA](https://libro-bianco-ia.readthedocs.io/it/latest/), le informazioni raccolte serviranno a popolare un database e una mappa dinamica che saranno resi pubblici al più presto.
 
 Nel frattempo siamo partiti con delle segnalazioni che ci hanno consentito di creare una prima mappatura.\*
 
