@@ -26,6 +26,8 @@ Nel frattempo siamo partiti con delle segnalazioni che ci hanno consentito di cr
 
 Data la velocità con cui il settore dell’IA si evolve, l’ecosistema verrà costantemente aggiornato.
 
+L’ecosistema raccoglie le realtà segnalate dai soggetti che partecipano all’indagine, la presenza all’interno della mappatura non rappresenta certificazione ufficiale presso l’Agenzia per l’Italia Digitale.
+
 Per eventuali cambiamenti o modifiche alla mappatura già presente invia una mail a <intelligenza-artificiale@agid.gov.it>.
 
 \* *In collaborazione con l’Associazione* [_AI*IA_](http://www.aixia.it/avvisi-dellassociazione/italianaiecosystembyregion).
