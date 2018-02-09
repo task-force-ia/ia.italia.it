@@ -2,14 +2,32 @@
   <div class="u-layout-r-withGutter">
     <div class="Grid Grid--withGutter Grid--alignMiddle u-padding-top-xl">
 
-      <div class="Footer-logo Grid-cell u-sm-size1of2 u-md-size1of3 u-lg-size1of3 u-padding-r-bottom">
-        <div class="u-flex u-flexNoWrap u-flexAlignItemsCenter u-flexJustifyCenter u-lg-flexJustifyStart">
+      <div class="Footer-logo Grid Grid--withGutter Grid--alignMiddl Grid-cell u-sizeFull">
+        <div class="Grid-cell u-sizeFull u-sm-sizeFull u-md-size1of2 u-lg-size1of5 u-flex u-flexNoWrap u-flexAlignItemsCenter u-padding-r-bottom">
+          <img class="u-xs-padding-right-none" src="{{ '/assets/images/logo_eu.svg' | relative_url }}" alt="{{ site.owner }}" style="height: 3.5em; max-width: 100%; display: block;">
+        </div>
+        <div class="Grid-cell u-sizeFull u-sm-sizeFull u-md-size1of2 u-lg-size1of5 u-flex u-flexNoWrap u-flexAlignItemsCenter u-padding-r-bottom">
+          <a href="http://www.agenziacoesione.gov.it/it/index.html" title="Agenzia per la Coesione Territoriale">
+            <img class="u-xs-padding-right-none" src="{{ '/assets/images/logo_agenzia_coesione.jpg' | relative_url }}" alt="Agenzia per la Coesione Territoriale" style="height: 3.5em; max-width: 100%; display: block;">
+          </a>
+        </div>
+        <div class="Grid-cell u-sizeFull u-sm-sizeFull u-md-size1of2 u-lg-size1of5 u-flex u-flexNoWrap u-flexAlignItemsCenter u-padding-r-bottom">
+          <a href="http://www.funzionepubblica.gov.it/dipartimento-della-funzione-pubblica" title="Dipartimento della funzione pubblicae">
+            <img class="u-xs-padding-right-none" src="{{ '/assets/images/logo_funzione_pubblica.jpg' | relative_url }}" alt="Dipartimento della funzione pubblica" style="height: 3.5em; max-width: 100%; display: block;">
+          </a>
+        </div>
+        <div class="Grid-cell u-sizeFull u-sm-sizeFull u-md-size1of2 u-lg-size1of5 u-flex u-flexNoWrap u-flexAlignItemsCenter u-padding-r-bottom">
           <a href="{{ site.owner_link }}" title="{{ site.owner_full | escape }}">
-            <img class="u-xs-padding-right-none" src="{{ site.owner_logo | relative_url }}" alt="{{ site.owner }}" style="height: 4em; max-width: 100%; display: block;">
+            <img class="u-xs-padding-right-none" src="{{ site.owner_logo | relative_url }}" alt="{{ site.owner }}" style="height: 3.5em; max-width: 100%; display: block;">
           </a>
           <p class="u-padding-left-s u-padding-bottom-xs u-text-r-xs">
             <a href="{{ site.owner_link }}" title="{{ site.owner_full | escape }}" class="u-color-white u-textClean">{{ t.agid | newline_to_br | strip_newlines }}</a>
           </p>
+        </div>
+        <div class="Grid-cell u-sizeFull u-sm-sizeFull u-md-size1of2 u-lg-size1of5 u-flex u-flexNoWrap u-flexAlignItemsCenter u-padding-r-bottom">
+          <a href="http://www.pongovernance1420.gov.it/it/" title="PON Governance e Capacità Istituzionale">
+            <img class="u-xs-padding-right-none" src="{{ '/assets/images/logo_pon_governance.svg' | relative_url }}" alt="PON Governance e Capacità Istituzionale" style="height: 3.5em; max-width: 100%; display: block;">
+          </a>
         </div>
       </div>
 
