@@ -1,5 +1,5 @@
 ---
-title: Osservatorio italiano sull’Intelligenza Artificiale
+title: Italian Observatory on Artificial Intelligence
 lang: en_US
 alt_langs:
   it_IT: osservatorio-ia/
@@ -10,21 +10,20 @@ content-alignment: left
 seo:
   type: WebPage
 ---
-L’Osservatorio italiano sull’Intelligenza Artificiale è promosso dalla **Task
-Force** sull’Intelligenza Artificiale in collaborazione con l’istituto di
-ricerca **HER - Human Ecosystems Relazioni** e ha l’obiettivo di analizzare con
-diverse tecniche - tra cui la sentiment analysis - le conversazioni sull’IA nei
-principali social network.
+The Italian Observatory on Artificial Intelligence is an initiative of the **AI
+Task Force** in cooperation with the research institute **HER - Human Ecosystem
+Relations**.
 
-Chi parla d’Intelligenza Artificiale in Italia? In che modo, con quanta
-frequenza e con quali sentimenti ne discute?
+Using the most advanced technologies, such as NLP (Natural Language
+Processing), Machine Learning, Sentiment and Emotional Analysis, the Observatory
+collects and analyse public conversations about artificial intelligence on
+social networks in Italy so to capture the sentiment about AI in the country.
 
-Attraverso le più avanzate tecnologie di NLP (Natural language processing),
-Machine Learning, Sentiment and Emotional Analysis l’Osservatorio raccoglie e
-studia le conversazioni pubbliche presenti sui principali social network, e le
-mette a disposizione di cittadini, imprese, ricercatori, studenti e associazioni
-sotto forma di dataset in formato aperto.
+Who talks about artificial intelligence in Italy? How and  how often does it
+happen? How do they feel about it? Collected data are made available as an open
+data set to citizens, businesses, researchers, students, schools and
+associations.
 
-In questo modo l’Osservatorio fornisce strumenti di facile accesso, in piena
-linea con la logica open data, utili alla comprensione del fenomeno IA,
-contribuendo al dibattito nazionale e internazionale.
+In this way the Observatory contributes to the national and international debate
+on artificial intelligence by providing easily accessible data that are useful
+to understand the phenomenon, in line with the open data principles.
