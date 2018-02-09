@@ -207,22 +207,17 @@ en_US:
     iframe_not_supported: You probabily have an older browser which does not support iframes. Please consider using a more recent one.
     
     observatory_sentiment: |
-      **Sentiment**: Scopri quali emozioni suscitano le discussioni sull’IA in Italia,
-      in che percentuali e secondo quali valori assoluti per giornata.
+      **Sentiment**: Find out what are the emotions that AI produces in Italy, what is the percentage and the absolute values of sentiments each day.
     observatory_themes: |
-      **Temi**: Scopri quali sono i temi di cui si è più discusso negli ultimi 30
-      giorni. La dimensione dei cerchi è proporzionale alla frequenza di discussione
-      del tema.
+      **Topics**: Find out the topics of the last 30 days. Circles dimension is proportional to the frequency of a topic.
     observatory_themes_relations: |
-      **Relazione tra i temi**: Zoomando sulle linee del grafo scopri se negli
-      ultimi 30 giorni è stata stabilita una correlazione tra due temi.
+      **Connections between topics**: By mousing over the lines you can check whether there is connection between topics.
     observatory_credits: |
-      ## Note e credits
+      ## Credits and Notes
       
-      I dati raccolti sono trattati secondo metodologie e tecnologie descritte nel
-      documento “[​OIA - Methodological, technological and ethical approach to social
+      Collected data are processed according to methods and technologies described in the document
+      “[​OIA - Methodological, technological and ethical approach to social
       networks analysis, data extraction and visualizations​](https://docs.google.com/document/d/1j93y2udBlZR-qOpLsRwfd5CQC9wwPEkGhsI2SP8646s/edit)”.
       
-      **Inizio dell’ascolto: 24 settembre 2017**
-      L’Osservatorio è una iniziativa promossa dalla Task force IA in collaborazione
-      con istituto di ricerca [HER - Human Ecosystems Relazioni](https://www.he-r.it/).
+      **Starting date: September 24, 2017**
+      The Observatory is an initiative of the AI Task Force in cooperation with the research institute [HER - Human Ecosystem Relations](https://www.he-r.it/).
