@@ -26,4 +26,4 @@ associations.
 
 In this way the Observatory contributes to the national and international debate
 on artificial intelligence by providing easily accessible data that are useful
-to understand the phenomenon, in line with the open data principles.
+to understand the phenomenon.
