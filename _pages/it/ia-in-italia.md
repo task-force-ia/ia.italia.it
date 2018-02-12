@@ -3,7 +3,7 @@ title: Ecosistema Intelligenza Artificiale
 lang: it_IT
 alt_langs:
   en_US: ai-in-italy/
-layout: page
+layout: ai_map
 separator: descending
 title-alignment: left
 content-alignment: left
@@ -22,7 +22,16 @@ Oltre a produrre del materiale a corredo del [White Paper IA](https://whitepaper
 
 <img style="max-width: 100%" src="/assets/images/ecosistema_ia_italia.png" alt="Mappa dell'Ecosistema IA in Italia">
 
-Data la velocità con cui il settore dell’IA si evolve, l’ecosistema verrà costantemente aggiornato.
+<div id="iaMapping"></div>
+<div class="u-sizeFull u-textCenter u-padding-r-all">
+<button class="Button Button--default u-borderShadow-m u-text-r-xxs u-padding-r-all u-color-teal-70 align-center" id="download">Scarica i dati in formato Excel</button>
+</div>
+<div id="modalDetail" class="ai-map modal">
+  <div class="modal-content">
+    <span class="close">&times;</span>
+       <iframe id="dettaglio"  width="100%" height="90%" scrolling="yes"></iframe>
+  </div>
+</div>
 
 L’ecosistema raccoglie le realtà segnalate dai soggetti che partecipano all’indagine, la presenza all’interno della mappatura non rappresenta certificazione ufficiale presso l’Agenzia per l’Italia Digitale.
 

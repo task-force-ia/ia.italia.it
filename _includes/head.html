@@ -49,7 +49,10 @@
 
   <link media="all" rel="stylesheet" href="{{ '/assets/toolkit/build.css' | relative_url }}">
   <link media="all" rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
-
+  {% if page.layout == 'ai_map' %}
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/tabulator/3.3.3/css/tabulator.min.css" rel="stylesheet">
+  {% endif %}
+  
   <script src="{{ '/assets/toolkit/vendor/jquery.min.js' | relative_url }}"></script>
 
   <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/icons/apple-touch-icon.png' | relative_url }}">

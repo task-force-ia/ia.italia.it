@@ -3,7 +3,7 @@ title: Artificial Intelligence Ecosystem
 lang: en_US
 alt_langs:
   it_IT: ia-in-italia/
-layout: page
+layout: ai_map
 separator: descending
 title-alignment: left
 content-alignment: left
@@ -22,7 +22,16 @@ With “Artificial Intelligence Ecosystem” we want to map the Italian producer
 
 In the meantime, we started with some reports that allowed us to create a first mapping.\*
 
-<img style="max-width: 100%" src="/assets/images/ai_ecosystem_italy.png" alt="Mappa dell'Ecosistema IA in Italia">
+<img style="max-width: 100%" src="{{ '/assets/images/ai_ecosystem_italy.png' | relative_url }}" alt="Mappa dell'Ecosistema IA in Italia">
+
+<div id="iaMapping"></div>
+<button class="Button Button--default u-borderShadow-m u-text-r-xxs u-padding-r-all u-color-teal-70 align-center" id="download">Scarica i dati in formato Excel</button>
+<div id="modalDetail" class="ai-map modal">
+  <div class="modal-content">
+    <span class="close">&times;</span>
+       <iframe id="dettaglio"  width="100%" height="90%" scrolling="yes"></iframe>
+  </div>
+</div>
 
 Given the speed with which the AI sector is evolving, the ecosystem is to be considered evolving.
 

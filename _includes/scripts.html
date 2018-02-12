@@ -13,6 +13,12 @@
 {% if page.layout == 'home' or page.layout == 'contacts' %}
 <script src="{{ '/assets/newsletter.js' | relative_url }}"></script>
 {% endif %}
+{% if page.layout == 'ai_map' %}
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tabulator/3.3.3/js/tabulator.min.js"></script>
+<script type="text/javascript" src="{{ '/assets/xlsx.full.min.js' | relative_url }}"></script>
+<script type="text/javascript" src="{{ '/assets/ai_map.js' | relative_url }}"></script>
+{% endif %}
 
 <script>
   $(document).on('keydown', function(e) {
