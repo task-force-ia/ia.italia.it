@@ -20,11 +20,10 @@ Chi parla d’Intelligenza Artificiale in Italia? In che modo, con quanta
 frequenza e con quali sentimenti ne discute?
 
 Attraverso le più avanzate tecnologie di NLP (Natural language processing),
-Machine Learning, Sentiment and Emotional Analysis l’Osservatorio raccoglie e
-studia le conversazioni pubbliche presenti sui principali social network, e le
+Machine Learning, Sentiment e Emotional Analysis l’Osservatorio raccoglie e
+studia le conversazioni pubbliche presenti sui principali social network e le
 mette a disposizione di cittadini, imprese, ricercatori, studenti e associazioni
 sotto forma di dataset in formato aperto.
 
-In questo modo l’Osservatorio fornisce strumenti di facile accesso, in piena
-linea con la logica open data, utili alla comprensione del fenomeno IA,
+In questo modo l’Osservatorio fornisce strumenti di facile accesso, utili alla comprensione del fenomeno IA,
 contribuendo al dibattito nazionale e internazionale.
