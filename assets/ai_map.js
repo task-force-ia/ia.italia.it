@@ -123,7 +123,7 @@ $(function() {
       }
     ],
     rowClick: function(e, row) {
-      $("#dettaglio").attr("src", "{{ site.base_url }}/assets/ai_map/details/detail_" + row.getData().id + ".html");
+      $("#dettaglio").attr("src", "{{ site.baseurl }}/assets/ai_map/details/detail_" + row.getData().id + ".html");
       modal.style.display = "block";
     },
 

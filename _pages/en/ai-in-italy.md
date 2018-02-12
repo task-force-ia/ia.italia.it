@@ -25,7 +25,9 @@ In the meantime, we started with some reports that allowed us to create a first 
 <img style="max-width: 100%" src="{{ '/assets/images/ai_ecosystem_italy.png' | relative_url }}" alt="Mappa dell'Ecosistema IA in Italia">
 
 <div id="iaMapping"></div>
+<div class="u-sizeFull u-textCenter u-padding-r-all">
 <button class="Button Button--default u-borderShadow-m u-text-r-xxs u-padding-r-all u-color-teal-70 align-center" id="download">Scarica i dati in formato Excel</button>
+</div>
 <div id="modalDetail" class="ai-map modal">
   <div class="modal-content">
     <span class="close">&times;</span>
