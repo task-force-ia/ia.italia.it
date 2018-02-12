@@ -9,8 +9,8 @@ function adatta() {
   screen_width = document.documentElement.clientWidth;
 
   if (screen_width > 1440) {
-    $(".ai-map.modal-content").css("height", "80%");
-    $(".ai-map.modal-content").css("width", "60%");
+    $(".ai-map .modal-content").css("height", "80%");
+    $(".ai-map .modal-content").css("width", "60%");
     type = "Tipologia";
     digit = "digita per filtrare...";
     name = "Denominazione";
