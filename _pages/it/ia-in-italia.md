@@ -18,7 +18,7 @@ Segnala la tua organizzazione oppure le realtà di tua conoscenza. Compila i cam
 
 <a role="button" href="https://goo.gl/forms/USYhvXVrJcCbtyG32" class="Button Button--default u-borderShadow-m u-text-r-xxs u-padding-r-all u-color-teal-70" target="_blank">Inserisci una segnalazione</a>
 
-Oltre a produrre del materiale a corredo del [White Paper IA](https://whitepaper-ia.readthedocs.io/it/latest/), le informazioni raccolte  popolano l’elenco dinamico e la mappa\* dell’Ecosistema. Data la velocità con cui il settore dell’IA si evolve, entrambi sono costantemente aggiornati.
+Oltre a produrre del materiale a corredo del [libro bianco IA](https://whitepaper-ia.readthedocs.io/it/latest/), le informazioni raccolte  popolano la mappa\* l’elenco dell’Ecosistema. Data la velocità con cui il settore dell’IA si evolve, entrambi sono costantemente aggiornati.
 
 <img style="max-width: 100%" src="{{ '/assets/images/ecosistema_ia_italia.png' | relative_url }}" alt="Mappa dell'Ecosistema IA in Italia">
 
