@@ -35,6 +35,6 @@ Oltre a produrre del materiale a corredo del [White Paper IA](https://whitepaper
 
 L’ecosistema raccoglie le realtà segnalate dai soggetti che partecipano all’indagine, la presenza all’interno della mappatura non rappresenta certificazione ufficiale presso l’Agenzia per l’Italia Digitale.
 
-Per eventuali cambiamenti o modifiche alla mappatura già presente invia una mail a <intelligenza-artificiale@agid.gov.it>.
+Per eventuali cambiamenti o modifiche all'elenco e alla mappatura già presenti invia un'e-mail a <intelligenza-artificiale@agid.gov.it>.
 
 \* *In collaborazione con l’Associazione* [_AI*IA_](http://www.aixia.it/avvisi-dellassociazione/italianaiecosystembyregion).
