@@ -1,0 +1,57 @@
+---
+layout: default
+---
+{% include setlang.html %}
+
+<div class="Page-title u-background-80 u-text{{ page.title-alignment | capitalize }}">
+  {% if page.separator == 'curved' %}
+  {% include page_title.html %}
+  <div class="Separator-curved">
+    <svg id="curveDown" xmlns="http://www.w3.org/2000/svg" version="1.1" height="100%" width="100%" style="fill: #004080;" viewBox="0 0 100 25" preserveAspectRatio="none">
+      <path d="M100,50H0V0c1.9,2.5,19.4,25,50,25c3.1,0,31.6-0.5,50-25C100,16.7,100,33.3,100,50z"/>
+    </svg>
+  </div>
+  {% elsif page.separator == 'ascending' %}
+  {% include page_title.html %}
+  <hr class="Separator-room" />
+  <hr class="Separator Separator--up u-background-grey-15" />
+  {% elsif page.separator == 'descending' %}
+  <hr class="Separator-room" />
+  <hr class="Separator Separator--down u-background-grey-15" />
+  {% include page_title.html bg-color = 'grey-15' color = '80' %}
+  {% elsif page.separator == 'triangles' %}
+  {% include page_title.html bg-color = '80' color = 'white' %}
+  <div class="Triangle-room">
+    <div class="Triangle u-size1of4 u-md-size1of4 u-lg-size1of4">
+      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" style="fill:#f6f9fc" preserveAspectRatio="none" height="101%" width="100%" viewBox="0 0 100 100">
+        <polygon points="0,0 0,100 100,100"/>
+      </svg>
+    </div>
+    <div class="Triangle u-size3of4 u-md-size3of4 u-lg-size3of4">
+      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" style="fill:#f6f9fc" preserveAspectRatio="none" height="101%" width="100%" viewBox="0 0 100 100">
+        <polygon points="0,100 100,100 100,0"/>
+      </svg>
+    </div>
+  </div>
+  {% else %}
+  {% include page_title.html %}
+  {% endif %}
+</div>
+<section class="Content u-background-grey-15 u-layout-r-withGutter u-padding-top-xxl u-padding-bottom-xxl u-posRelative u-zindex-30">
+  <div class="Grid">
+    {% if page.content-alignment == 'left' %}
+    <div class="Grid-cell u-sizeFull u-md-size6of12 u-lg-size6of12">
+    {% elsif page.content-alignment == 'full' %}
+    <div class="Grid-cell u-sizeFull">
+    {% else %}
+    <div class="Grid-cell u-sizeFull u-md-size6of12 u-md-before3of12 u-lg-size6of12 u-lg-before3of12">
+    {% endif %}
+      <div class="Prose">
+        {{ content }}
+      
+      {% include osservatorio_frames.html %}
+      {{ t.observatory_credits | newline_to_br | markdownify }}
+      </div>
+    </div>
+  </div>
+</section>

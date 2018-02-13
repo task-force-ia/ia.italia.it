@@ -3,7 +3,7 @@ title: Artificial Intelligence Ecosystem
 lang: en_US
 alt_langs:
   it_IT: ia-in-italia/
-layout: page
+layout: ai_map
 separator: descending
 title-alignment: left
 content-alignment: left
@@ -18,11 +18,22 @@ With “Artificial Intelligence Ecosystem” we want to map the Italian producer
 
  <a role="button" href="https://goo.gl/forms/USYhvXVrJcCbtyG32" class="Button Button--default u-borderShadow-m u-text-r-xxs u-padding-r-all u-color-teal-70" target="_blank">Submit a new entity</a>
 
-  In addition to producing the material accompanying the ["White Paper IA"](https://whitepaper-ia.readthedocs.io/it/latest/), the information collected will serve to populate a public database and a dynamic map that will be soon released.  
+  In addition to producing the material accompanying the ["White Paper IA"](https://libro-bianco-ia.readthedocs.io/it/latest/), the information collected will serve to populate a public database and a dynamic map that will be soon released.  
 
 In the meantime, we started with some reports that allowed us to create a first mapping.\*
 
-<img style="max-width: 100%" src="/assets/images/ai_ecosystem_italy.png" alt="Mappa dell'Ecosistema IA in Italia">
+<img style="max-width: 100%" src="{{ '/assets/images/ai_ecosystem_italy.png' | relative_url }}" alt="Mappa dell'Ecosistema IA in Italia">
+
+<div id="iaMapping"></div>
+<div class="u-sizeFull u-textCenter u-padding-r-all">
+<button class="Button Button--default u-borderShadow-m u-text-r-xxs u-padding-r-all u-color-teal-70 align-center" id="download">Download Excel Dataset</button>
+</div>
+<div id="modalDetail" class="ai-map modal">
+  <div class="modal-content">
+    <span class="close">&times;</span>
+       <iframe id="dettaglio"  width="100%" height="90%" scrolling="yes"></iframe>
+  </div>
+</div>
 
 Given the speed with which the AI sector is evolving, the ecosystem is to be considered evolving.
 
