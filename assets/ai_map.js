@@ -14,6 +14,14 @@ function adatta() {
     type = "Tipologia";
     digit = "digita per filtrare...";
     name = "Denominazione";
+  } 
+    else
+  {
+    $(".modal-content").css("height","95%");
+      $(".modal-content").css("width","80%");
+      type = "Tipo";
+      digit = "filtro";
+      name = "Nome";
   }
 }
 
@@ -36,7 +44,7 @@ $(function() {
     responsiveLayout: true,
     langs: {
 
-      "it-it": {
+      "it-IT": {
         "pagination": {
           "first": "Prima",
           "first_title": "Prima Pagina",
@@ -132,6 +140,9 @@ $(function() {
 
   if (document.documentElement.clientWidth < 600)
     $("#iaMapping").tabulator("hideColumn", "website");
+  
+   var userLang = navigator.language || navigator.userLanguage;
+	  $("#iaMapping").tabulator("setLocale", userLang);
 
 
   var tabledata = [
@@ -587,16 +598,6 @@ $(function() {
       tecnologie: "Elaborazione Linguaggio Naturale, Chatbot"
     },
     {
-      id: 46,
-      tipologia: "Università",
-      denominazione: "ACRDSI (USA)",
-      website: "http://www.acrdsi.org",
-      citta: "Atlanta, Georgia, USA",
-      regione: "Estero",
-      settore: "Bioinformatica, Ricerca Applicata / Statistica, Salute",
-      tecnologie: "Machine/Deep Learning, Biomedical Imaging"
-    },
-    {
       id: 47,
       tipologia: "Centro di Ricerca",
       denominazione: "Egovmetrics",
@@ -645,16 +646,6 @@ $(function() {
       regione: "Lombardia",
       settore: "Informatica e servizi",
       tecnologie: "Computer Vision, Elaborazione Linguaggio Naturale, Machine/Deep Learning, Chatbot"
-    },
-    {
-      id: 52,
-      tipologia: "Centro di Ricerca",
-      denominazione: "Casaleggio Associati",
-      website: "https://www.casaleggio.it/studi-ricerche/",
-      citta: "Milano",
-      regione: "Lombardia",
-      settore: "Consulenza e ricerca",
-      tecnologie: ""
     },
     {
       id: 53,
@@ -837,26 +828,6 @@ $(function() {
       tecnologie: "Elaborazione Linguaggio Naturale, Machine/Deep Learning"
     },
     {
-      id: 71,
-      tipologia: "Azienda",
-      denominazione: "Open Search Network",
-      website: "http://www.opensearchnetwork.com",
-      citta: "London",
-      regione: "Estero",
-      settore: "HR",
-      tecnologie: "Recommender Systems"
-    },
-    {
-      id: 72,
-      tipologia: "Università",
-      denominazione: "Laboratorio Kelsen - UniSA",
-      website: "http://www.laboratoriokelsen.unisa.it",
-      citta: "Salerno",
-      regione: "Campania",
-      settore: "Ricerca scientifica",
-      tecnologie: ""
-    },
-    {
       id: 73,
       tipologia: "Azienda",
       denominazione: "Eclettica",
@@ -977,16 +948,6 @@ $(function() {
       tecnologie: "Computer Vision, Elaborazione Linguaggio Naturale, Machine/Deep Learning, Sistemi Esperti, Chatbot"
     },
     {
-      id: 85,
-      tipologia: "Università",
-      denominazione: "DEIB Polimi AirLab",
-      website: "http://airlab.deib.polimi.it/",
-      citta: "Milano",
-      regione: "Lombardia",
-      settore: "Educazione, Ricerca Applicata / Statistica, Robotica",
-      tecnologie: "Computer Vision, Machine/Deep Learning, Robotica/Sistemi Autonomi"
-    },
-    {
       id: 86,
       tipologia: "Azienda",
       denominazione: "XTN Cognitive Security",
@@ -1075,16 +1036,6 @@ $(function() {
       regione: "Emilia-Romagna",
       settore: "Consulenza",
       tecnologie: "Machine/Deep Learning"
-    },
-    {
-      id: 95,
-      tipologia: "PA",
-      denominazione: "Regione Marche",
-      website: "http://www.regione.marche.it",
-      citta: "Ancona ",
-      regione: "Marche",
-      settore: "Ambiente, Agricoltura, Pubblica amministrazione territoriale (regionale e locale), Salute, Smart-Cities, Trasporti",
-      tecnologie: "Elaborazione Linguaggio Naturale, Machine/Deep Learning, Chatbot"
     },
     {
       id: 96,
@@ -1245,16 +1196,6 @@ $(function() {
       regione: "Emilia-Romagna",
       settore: "Pubblicità / Marketing, Industria 4.0",
       tecnologie: "Computer Vision, Machine/Deep Learning"
-    },
-    {
-      id: 112,
-      tipologia: "Azienda",
-      denominazione: "News.srl",
-      website: "https://www.news.srl/",
-      citta: "Milano",
-      regione: "Lombardia",
-      settore: "Stampa",
-      tecnologie: ""
     },
     {
       id: 113,
