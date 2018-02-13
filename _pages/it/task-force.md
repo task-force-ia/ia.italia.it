@@ -9,7 +9,7 @@ title-alignment: center
 seo:
   type: WebPage
 ---
-La task force si occupa di studiare come la diffusione di soluzioni e tecnologie di Intelligenza Artificiale (IA) possa incidere sull’evoluzione dei servizi pubblici per migliorare il rapporto tra pubblica amministrazione e cittadini.
+La task force si occupa di studiare come la diffusione di soluzioni e tecnologie di Intelligenza Artificiale (IA) possa incidere sull’evoluzione dei servizi pubblici per migliorare il rapporto tra Pubblica amministrazione e cittadini.
 
 ### La task force è composta da:
 
@@ -26,10 +26,10 @@ La task force si occupa di studiare come la diffusione di soluzioni e tecnologie
 
 #### Community
 
-Aperta a tutti coloro che vogliono contribuire ai lavori, è dedicata alla raccolta di commenti e feedback sulle attività della task force e di suggerimenti sull’applicazione dell’Intelligenza Artificiale nella pubblica amministrazione.
+Aperta a tutti coloro che vogliono contribuire ai lavori, è dedicata alla raccolta di commenti e feedback sulle attività della task force e di suggerimenti sull’applicazione dell’Intelligenza Artificiale nella Pubblica amministrazione.
 
 #### Cosa ci aspettiamo
 
-Verrà presentato un primo rapporto sintetico - un libro bianco – con suggerimenti e raccomandazioni che la pubblica amministrazione italiana potrà adottare per allinearsi alle migliori prassi internazionali.
+Verrà presentato un primo rapporto sintetico - un libro bianco – con suggerimenti e raccomandazioni che la Pubblica amministrazione italiana potrà adottare per allinearsi alle migliori prassi internazionali.
 
 La task force, inoltre, valuterà possibili progetti pilota per sperimentare applicazioni e servizi che utilizzano strumenti di Intelligenza Artificiale con i soggetti che si candideranno.
