@@ -648,6 +648,16 @@ $(function() {
       tecnologie: "Computer Vision, Elaborazione Linguaggio Naturale, Machine/Deep Learning, Chatbot"
     },
     {
+	id:52,
+	tipologia:"Azienda",
+	denominazione:"Casaleggio Associati",
+	website:"https://www.casaleggio.it/studi-ricerche/",
+	citta:"Milano",
+	regione:"Lombardia",
+	settore:"Consulenza e ricerca",
+	tecnologie:""
+    },
+    {
       id: 53,
       tipologia: "Azienda",
       denominazione: "Loop AI Lab",
