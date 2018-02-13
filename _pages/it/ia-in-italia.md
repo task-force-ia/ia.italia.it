@@ -20,7 +20,11 @@ Segnala la tua organizzazione oppure le realtà di tua conoscenza. Compila i cam
 
 Oltre a produrre del materiale a corredo del [libro bianco IA](https://whitepaper-ia.readthedocs.io/it/latest/), le informazioni raccolte  popolano la mappa\* l’elenco dell’Ecosistema. Data la velocità con cui il settore dell’IA si evolve, entrambi sono costantemente aggiornati.
 
+### Mappa dell'Ecosistema IA in Italia
+
 <img style="max-width: 100%" src="{{ '/assets/images/ecosistema_ia_italia.png' | relative_url }}" alt="Mappa dell'Ecosistema IA in Italia">
+
+### Elenco dell'Ecosistema IA in Italia
 
 <div id="iaMapping"></div>
 <div class="u-sizeFull u-textCenter u-padding-r-all">
