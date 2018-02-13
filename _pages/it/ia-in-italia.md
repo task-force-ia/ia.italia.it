@@ -10,15 +10,16 @@ content-alignment: left
 seo:
   type: WebPage
 ---
-Quali sono i soggetti pubblici o privati che studiano o lavorano con l’Intelligenza Artificiale in Italia?
 
-Con “Ecosistema Intelligenza Artificiale” vogliamo mappare i produttori e gli utilizzatori di soluzioni di IA (startup, imprese, organismi di ricerca, PA, EPR, etc) italiani, per facilitare la costruzione di relazioni e la condivisione di conoscenze e per consentire all’Italia di avere la dimensione dei propri punti di forza nel campo dell’IA.
+Con “Ecosistema Intelligenza Artificiale” vogliamo mappare i produttori e gli utilizzatori di soluzioni di IA (startup, imprese, organismi di ricerca, PA, EPR, etc) italiani.
+
+Oltre a produrre del materiale a corredo del [Libro Bianco IA](https://whitepaper-ia.readthedocs.io/it/latest/), le informazioni raccolte  popolano la [mappa\*](#mappa-dellecosistema-ia-in-italia) e l’[elenco](#elenco-dellecosistema-ia-in-italia) dell’Ecosistema.
 
 Segnala la tua organizzazione oppure le realtà di tua conoscenza. Compila i campi dell'indagine avendo cura di inserire tutte le informazioni importanti.
 
 <a role="button" href="https://goo.gl/forms/USYhvXVrJcCbtyG32" class="Button Button--default u-borderShadow-m u-text-r-xxs u-padding-r-all u-color-teal-70" target="_blank">Inserisci una segnalazione</a>
 
-Oltre a produrre del materiale a corredo del [Libro Bianco IA](https://whitepaper-ia.readthedocs.io/it/latest/), le informazioni raccolte  popolano la mappa\* l’elenco dell’Ecosistema. Data la velocità con cui il settore dell’IA si evolve, entrambi sono costantemente aggiornati.
+
 
 ### Mappa dell'Ecosistema IA in Italia
 
