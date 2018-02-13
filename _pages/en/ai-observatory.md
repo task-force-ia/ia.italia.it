@@ -11,7 +11,7 @@ seo:
   type: WebPage
 ---
 The Italian Observatory on Artificial Intelligence is an initiative of the **AI
-Task Force** in cooperation with the research institute **HER - Human Ecosystem
+task force** in cooperation with the research institute **HER - Human Ecosystem
 Relations**.
 
 Using the most advanced technologies, such as NLP (Natural Language
