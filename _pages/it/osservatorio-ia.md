@@ -10,10 +10,10 @@ content-alignment: left
 seo:
   type: WebPage
 ---
-L’Osservatorio italiano sull’Intelligenza Artificiale è promosso dalla **Task
+L’Osservatorio italiano sull’Intelligenza Artificiale è promosso dalla **task
 force** sull’Intelligenza Artificiale in collaborazione con l’istituto di
 ricerca **HER - Human Ecosystems Relazioni** e ha l’obiettivo di analizzare con
-diverse tecniche - tra cui la sentiment analysis - le conversazioni sull’IA nei
+diverse tecniche - tra cui la Sentiment Analysis - le conversazioni sull’IA nei
 principali social network.
 
 Chi parla d’Intelligenza Artificiale in Italia? In che modo, con quanta
