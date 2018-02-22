@@ -44,4 +44,4 @@ Per eventuali cambiamenti o modifiche all'elenco e alla mappatura già presenti 
 
 \* *In collaborazione con l’Associazione* [_AI*IA_](http://www.aixia.it/avvisi-dellassociazione/italianaiecosystembyregion).
 
-Ultimo aggiornamento 13 Febbraio 2018
+Ultimo aggiornamento 19 Febbraio 2018
