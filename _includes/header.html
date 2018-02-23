@@ -64,7 +64,11 @@
 
         <div>
           <div class="u-inlineBlock u-rightFloat Header-button">
-            <a role="button" href="https://libro-bianco-ia.readthedocs.io/it/latest/" class="Button Button--default u-borderShadow-xxl u-text-r-xxs u-padding-r-all" target="_blank">
+            {% if(t.lang == 'it') %}
+            <a role="button" href="https://libro-bianco-ia.readthedocs.io" class="Button Button--default u-borderShadow-xxl u-text-r-xxs u-padding-r-all" target="_blank">
+            {% else %}
+            <a role="button" href="https://ai-white-paper.readthedocs.io" class="Button Button--default u-borderShadow-xxl u-text-r-xxs u-padding-r-all" target="_blank">
+            {% endif %}
               {{ t.go_to_the_whitepaper }}
             </a>
           </div>

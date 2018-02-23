@@ -4,7 +4,7 @@
       {{ t.site_title }}
       <img class="u-alignTop u-margin-left-s u-margin-right-s" src="{{ site.logo | relative_url }}" alt="Task force IA" style="height: 1em">
     </li>
-    {% for link in site.data.network_links %} {% assign link_name = link[1].title %}
+    {% for link in site.data.network_links[active_lang] %} {% assign link_name = link[1].title %}
     <li class="{{ link[1].class }}"><a class="u-color-white" href="{{ link[1].url }}">{{ t[link_name] | default: link_name }}</a></li>
     {% endfor %}
   </ul>

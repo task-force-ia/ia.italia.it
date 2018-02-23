@@ -133,8 +133,8 @@ en_US:
 
     header_link_community: Community
     header_link_task-force: Web
-    header_link_whitepaper: White paper
-    go_to_the_whitepaper: Go to white paper
+    header_link_whitepaper: AI White paper
+    go_to_the_whitepaper: AI White Paper
 
     footer_link_privacy_policy: privacy policy
     footer_link_legal_notes: legal notes
@@ -183,7 +183,7 @@ en_US:
     cta_scopri_tf: About us
     cta_approfondisci: Read more
     cta_compila: Help us map the AI ecosystem in Italy
-    cta_libro_bianco: Comment IA White paper
+    cta_libro_bianco: Comment AI White paper
     scrivi_a: Write to
     per_i_media: For the media
 

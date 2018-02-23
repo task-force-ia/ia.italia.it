@@ -1,12 +1,27 @@
-task-force:
-  title: header_link_task-force
-  url: "https://ia.italia.it"
-  class: "current"
-community:
-  title: header_link_community
-  url: "https://ia.italia.it/community"
-  class: ""
-whitepaper:
-  title: header_link_whitepaper
-  url: "https://libro-bianco-ia.readthedocs.io"
-  class: ""
+it_IT:
+  task-force:
+    title: header_link_task-force
+    url: "https://ia.italia.it"
+    class: "current"
+  community:
+    title: header_link_community
+    url: "https://ia.italia.it/community"
+    class: ""
+  whitepaper:
+    title: header_link_whitepaper
+    url: "https://libro-bianco-ia.readthedocs.io"
+    class: ""
+
+en_US:
+    task-force:
+      title: header_link_task-force
+      url: "https://ai.italia.it"
+      class: "current"
+    community:
+      title: header_link_community
+      url: "https://ia.italia.it/community"
+      class: ""
+    whitepaper:
+      title: header_link_whitepaper
+      url: "https://ai-white-paper.readthedocs.io"
+      class: ""
