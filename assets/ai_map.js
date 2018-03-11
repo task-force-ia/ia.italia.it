@@ -1,6 +1,3 @@
----
-# keep this!
----
 var type = "Tipo";
 var digit = "filtro";
 var name = "Nome";
@@ -128,7 +125,7 @@ $(function() {
       }
     ],
     rowClick: function(e, row) {
-      $("#dettaglio").attr("src", "{{ site.baseurl }}/assets/ai_map/details/detail_" + row.getData().id + ".html");
+      $("#dettaglio").attr("src", "/assets/ai_map/details/detail_" + row.getData().id + ".html");
       modal.style.display = "block";
     },
 
@@ -145,12 +142,12 @@ $(function() {
 	  $("#iaMapping").tabulator("setLocale", userLang);
 
 
-var tabledata = [
+
+				var tabledata = [
 				
 				{id:1,tipologia:"Incubatore",denominazione:"RuralHack",website:"http://www.ruralhack.org  ",citta:"Napoli",regione:"Campania",settore:"Agricoltura",tecnologie:"Elaborazione Linguaggio Naturale, Robotica/Sistemi Autonomi"},
 {id:2,tipologia:"Azienda",denominazione:"Userbot",website:"https://userbot.ai",citta:"Milano",regione:"Lombardia",settore:"Customer Service",tecnologie:"Elaborazione Linguaggio Naturale, Machine/Deep Learning, Sistemi Esperti, Chatbot"},
 {id:3,tipologia:"Azienda",denominazione:"Gear",website:"http://www.gear.it",citta:"Reggio Emilia",regione:"Emilia-Romagna",settore:"Software per document management",tecnologie:"Elaborazione Linguaggio Naturale, Chatbot"},
-{id:4,tipologia:"Azienda",denominazione:"CINECA",website:"https://www.cineca.it/",citta:"Bologna, Milano, Roma",regione:"Emilia-Romagna, Lombardia, Lazio",settore:"Educazione, Industria di precisione, Pubblica amministrazione centrale, Pubblica amministrazione territoriale (regionale e locale), Ricerca Applicata / Statistica, Robotica, Salute, Sicurezza / Cybersecurity, Smart-Cities",tecnologie:"Computer Vision, Elaborazione Linguaggio Naturale, Machine/Deep Learning, Sistemi Esperti, Chatbot"},
 {id:5,tipologia:"Startup",denominazione:"Xteam SW",website:"http://www.xteamsoftware.com",citta:"Rovigo",regione:"Veneto",settore:"Ambiente, Agricoltura, Educazione, Ricerca Applicata / Statistica, Salute, Smart-Cities",tecnologie:"Computer Vision, Elaborazione Linguaggio Naturale, Machine/Deep Learning"},
 {id:6,tipologia:"Azienda",denominazione:"Competitoor",website:"https://competitoor.com",citta:"Carpi",regione:"Emilia-Romagna",settore:"Pubblicità / Marketing, Ecommerce ",tecnologie:"Machine/Deep Learning"},
 {id:7,tipologia:"Centro di Ricerca",denominazione:"Centro Piaggio UniPI",website:"http://www.centropiaggio.unipi.it",citta:"Pisa",regione:"Toscana",settore:"Robotica",tecnologie:"Machine/Deep Learning, Robotica/Sistemi Autonomi"},
@@ -197,7 +194,7 @@ var tabledata = [
 {id:49,tipologia:"Startup",denominazione:"RiAtlas",website:"http://web.unisa.it/ricerca/spin-off/unisa",citta:"Fisciano (SA)",regione:"Campania",settore:"Salute",tecnologie:"Machine/Deep Learning, Recommender Systems, Sistemi Esperti"},
 {id:50,tipologia:"Startup",denominazione:"MVMANT",website:"http://www.mvmant.it",citta:"Mirabella Imbaccari (CT)",regione:"Sicilia",settore:"Trasporti",tecnologie:"Machine/Deep Learning"},
 {id:51,tipologia:"Azienda",denominazione:"Axel",website:"http://www.axel.ai",citta:"Milano",regione:"Lombardia",settore:"Informatica e servizi",tecnologie:"Computer Vision, Elaborazione Linguaggio Naturale, Machine/Deep Learning, Chatbot"},
-{id:52,tipologia:"Centro di Ricerca",denominazione:"Casaleggio Associati",website:"https://www.casaleggio.it/studi-ricerche/",citta:"Milano",regione:"Lombardia",settore:"Consulenza e ricerca",tecnologie:""},
+{id:52,tipologia:"Azienda",denominazione:"Casaleggio Associati",website:"https://www.casaleggio.it/studi-ricerche/",citta:"Milano",regione:"Lombardia",settore:"Consulenza e ricerca",tecnologie:""},
 {id:53,tipologia:"Azienda",denominazione:"Loop AI Lab",website:"http://www.loop.ai/media-relations",citta:"Milano, Bologna",regione:"Lombardia, Emilia-Romagna",settore:"Ambiente, Agricoltura, Automotive, Bioinformatica, Economia e Finanza / Fintech /Assicurazioni, Educazione, Energia, Industria di precisione, Industria pesante, Robotica, Salute, Smart-Cities, Trasporti, Trasversale per qualsiasi industria",tecnologie:"Machine/Deep Learning, Cognitive Cybersecurity, Unsupervised Cognitive Computing"},
 {id:54,tipologia:"Incubatore",denominazione:"Luiss Enlabs Worklab AI",website:"https://luissenlabsacceleration.com/ai/",citta:"Roma",regione:"Lazio",settore:"Economia e Finanza / Fintech /Assicurazioni",tecnologie:"Machine/Deep Learning, Robotica/Sistemi Autonomi, Chatbot, Cognitive Cybersecurity"},
 {id:55,tipologia:"Azienda",denominazione:"Morpheos",website:"http://www.morpheos.eu/",citta:"Catania",regione:"Sicilia",settore:"Ricerca Applicata / Statistica, Robotica, Smart-Cities",tecnologie:"Computer Vision, Elaborazione Linguaggio Naturale, Machine/Deep Learning, Robotica/Sistemi Autonomi, Chatbot"},
@@ -216,6 +213,7 @@ var tabledata = [
 {id:68,tipologia:"Azienda",denominazione:"Expert System",website:"http://www.expertsystem.com/",citta:"Modena",regione:"Emilia-Romagna",settore:"Economia e Finanza / Fintech /Assicurazioni, Energia, Militare, Pubblica amministrazione centrale, Pubblica amministrazione territoriale (regionale e locale), Sicurezza / Cybersecurity, Smart-Cities, IT",tecnologie:"Elaborazione Linguaggio Naturale, Machine/Deep Learning, Sistemi Esperti, Chatbot, Cognitive Cybersecurity, Risk Management, Knowledge Management, RPA"},
 {id:69,tipologia:"Università",denominazione:"ART-UniROma3 Tor Vergata",website:"http://art.uniroma2.it/",citta:"Roma",regione:"Lazio",settore:"web semantico",tecnologie:"Elaborazione Linguaggio Naturale, Machine/Deep Learning, Chatbot, gestione ontologie"},
 {id:70,tipologia:"Startup",denominazione:"Babelscape",website:"http://babelscape.com",citta:"Roma",regione:"Lazio",settore:"Economia e Finanza / Fintech /Assicurazioni, Educazione, Militare, Pubblica amministrazione centrale, Salute, Sicurezza / Cybersecurity, Editoria",tecnologie:"Elaborazione Linguaggio Naturale, Machine/Deep Learning"},
+{id:72,tipologia:"Università",denominazione:"Laboratorio Kelsen - UniSA",website:"http://www.laboratoriokelsen.unisa.it",citta:"Salerno",regione:"Campania",settore:"Ricerca scientifica",tecnologie:""},
 {id:73,tipologia:"Azienda",denominazione:"Eclettica",website:"http://www.eclettica.net",citta:"Fisciano (SA)",regione:"Campania",settore:"Robotica, Sicurezza / Cybersecurity, ICT/ AI /SVILUPPO SOFTWARE",tecnologie:"Elaborazione Linguaggio Naturale, Machine/Deep Learning, Robotica/Sistemi Autonomi, Chatbot"},
 {id:74,tipologia:"Università",denominazione:"Laboratorio IA - UniPA",website:"http://www.diid.unipa.it/networks/ndslab/",citta:"Palermo",regione:"Sicilia",settore:"Ambiente, Agricoltura, Automotive, Educazione, Energia, Industria di precisione, Ricerca Applicata / Statistica, Sicurezza / Cybersecurity, Smart-Cities, Trasporti",tecnologie:"Machine/Deep Learning, Recommender Systems, Robotica/Sistemi Autonomi, Sistemi Esperti, Cognitive Cybersecurity"},
 {id:75,tipologia:"Azienda",denominazione:"Dedagroup",website:"http://www.dedagroup.it/home",citta:"Trento",regione:"Trentino Alto-Adige",settore:"Economia e Finanza / Fintech /Assicurazioni, Energia, Pubblica amministrazione centrale, Pubblica amministrazione territoriale (regionale e locale), Pubblicità / Marketing, Ricerca Applicata / Statistica, Robotica, Salute, Sicurezza / Cybersecurity, Smart-Cities, Trasporti",tecnologie:"Elaborazione Linguaggio Naturale, Machine/Deep Learning, Recommender Systems, Robotica/Sistemi Autonomi, Sistemi Esperti, Chatbot"},
@@ -233,6 +231,7 @@ var tabledata = [
 {id:88,tipologia:"Azienda",denominazione:"The Digital Box",website:"https://www.thedigitalbox.com",citta:"Gioia del Colle (BA)",regione:"Puglia",settore:"Pubblicità / Marketing",tecnologie:"Elaborazione Linguaggio Naturale, Machine/Deep Learning, Recommender Systems, Chatbot"},
 {id:89,tipologia:"Startup",denominazione:"Smarthink",website:"http://www.smarthink.eu",citta:"Busto Arsizio (VA)",regione:"Lombardia",settore:"Educazione",tecnologie:"Elaborazione Linguaggio Naturale, Machine/Deep Learning, Recommender Systems"},
 {id:90,tipologia:"Centro di Ricerca",denominazione:"ICAR CNR",website:"https://www.icar.cnr.it/",citta:"Napoli, Rende, Palermo",regione:"Campania, Calabria, Sicilia",settore:"Salute, Sicurezza / Cybersecurity, Smart-Cities",tecnologie:"Computer Vision, Elaborazione Linguaggio Naturale, Machine/Deep Learning, Robotica/Sistemi Autonomi, Sistemi Esperti"},
+{id:91,tipologia:"Università",denominazione:"DEIB Polimi AirLab",website:"http://www.deib.polimi.it/eng/research-lines/details/118",citta:"Milano",regione:"Lombardia",settore:"Educazione, Ricerca Applicata / Statistica, Robotica",tecnologie:"Computer Vision, Machine/Deep Learning, Robotica/Sistemi Autonomi, Sistemi Esperti, Computer Games, Human-Computer Interaction, Affective Computing"},
 {id:92,tipologia:"Centro di Ricerca",denominazione:"HER",website:"https://www.he-r.it/",citta:"Roma",regione:"Lazio",settore:"Educazione, Energia, Ricerca Applicata / Statistica, Smart-Cities, cultura, arte, etnografia, antropologia",tecnologie:"Computer Vision, Elaborazione Linguaggio Naturale, Machine/Deep Learning, Sistemi Esperti"},
 {id:93,tipologia:"Centro di Ricerca",denominazione:"KRDB",website:"http://krdb.eu",citta:"Bolzano",regione:"Trentino Alto-Adige",settore:"Educazione, Ricerca di base e applicata",tecnologie:"Elaborazione Linguaggio Naturale, Modellazione concettuale e rappresentazione della conoscenza; Integrazione e accesso intelligente ai dati"},
 {id:94,tipologia:"Azienda",denominazione:"Energy Way",website:"https://www.energyway.it/",citta:"Modena",regione:"Emilia-Romagna",settore:"Consulenza",tecnologie:"Machine/Deep Learning"},
@@ -265,16 +264,33 @@ var tabledata = [
 {id:123,tipologia:"Azienda",denominazione:"Cedat85",website:"http://www.cedat85.com",citta:"Roma, S.Vito Normanni (BR), Padova",regione:"Lazio, Puglia, Veneto",settore:"Pubblica amministrazione centrale, Pubblica amministrazione territoriale (regionale e locale), Sicurezza / Cybersecurity, Smart-Cities, Media - Call Center - IT - Professional Services",tecnologie:"Elaborazione Linguaggio Naturale, Chatbot"},
 {id:124,tipologia:"Università",denominazione:"Dip. Informatica - UniTO",website:"http://beta.di.unito.it/index.php/italiano/ricerca/gruppi/ai/presentazione",citta:"Torino",regione:"Piemonte",settore:"Automotive, Bioinformatica, Educazione, Pubblica amministrazione territoriale (regionale e locale), Ricerca Applicata / Statistica, Robotica, Smart-Cities",tecnologie:"Computer Vision, Elaborazione Linguaggio Naturale, Machine/Deep Learning, Recommender Systems, Robotica/Sistemi Autonomi, Sistemi Esperti"},
 {id:125,tipologia:"Centro di Ricerca",denominazione:"ILC CNR",website:"http://www.ilc.cnr.it/",citta:"Pisa, Genova",regione:"Toscana, Liguria",settore:"Ambiente, Smart-Cities",tecnologie:"Elaborazione Linguaggio Naturale, Machine/Deep Learning"},
+{id:126,tipologia:"PA",denominazione:"Regione Marche",website:"http://www.regione.marche.it",citta:"Ancona",regione:"Marche",settore:"Pubblica amministrazione territoriale (regionale e locale)",tecnologie:"Elaborazione Linguaggio Naturale, Machine/Deep Learning, Chatbot"},
 {id:127,tipologia:"Acceleratore",denominazione:"Gellify",website:"https://www.gellify.com/",citta:"Casalecchio di Reno (BO), Milano",regione:"Emilia-Romagna, Lombardia",settore:"Economia e Finanza / Fintech /Assicurazioni, Industria di precisione, Sicurezza / Cybersecurity, Industria 4.0; Fintech; Artificial Intelligence",tecnologie:"Elaborazione Linguaggio Naturale, Machine/Deep Learning, Recommender Systems"},
 {id:128,tipologia:"Startup",denominazione:"Catchy",website:"http://www.catchy.buzz/ ",citta:"Roma",regione:"Lazio",settore:"Data Journalism",tecnologie:"Elaborazione Linguaggio Naturale, Machine/Deep Learning, Recommender Systems"},
+{id:129,tipologia:"Università",denominazione:"Cineca",website:"https://www.cineca.it",citta:"Casalecchio di Reno (BO)",regione:"Emilia-Romagna",settore:"Ambiente, Bioinformatica, Educazione, Energia, Pubblica amministrazione centrale, Ricerca Applicata / Statistica, Salute, Sicurezza / Cybersecurity, Processi amministrativi e organizzativi delle Università",tecnologie:"Elaborazione Linguaggio Naturale, Machine/Deep Learning, Chatbot"},
 {id:130,tipologia:"Acceleratore",denominazione:"NAStartUp",website:"http://www.nastartup.it",citta:"Napoli",regione:"Campania",settore:"Smart-Cities",tecnologie:"Si da supporto alle Startup che sviluppano tecnologie"},
 {id:131,tipologia:"Startup",denominazione:"Indigo",website:"https://ndg.ai/",citta:"Milano",regione:"Lombardia",settore:"Chatbot, Machine Learning, Artificial Intelligence",tecnologie:"Elaborazione Linguaggio Naturale, Machine/Deep Learning, Chatbot"},
 {id:132,tipologia:"Azienda",denominazione:"Rulex",website:"https://www.rulex.ai/",citta:"Genova",regione:"Liguria",settore:"Automotive, Bioinformatica, Economia e Finanza / Fintech /Assicurazioni, Energia, Industria di precisione, Industria pesante, Pubblicità / Marketing, Robotica, Salute, Public Utilities, Regulatory Compliance",tecnologie:"Machine/Deep Learning, Recommender Systems, Robotica/Sistemi Autonomi, Sistemi Esperti"},
 {id:133,tipologia:"Startup",denominazione:"Namu",website:"https://www.namu.io",citta:"Milano",regione:"Lombardia",settore:"Economia e Finanza / Fintech /Assicurazioni, Pubblicità / Marketing",tecnologie:"Machine/Deep Learning, Chatbot"},
 {id:134,tipologia:"Azienda",denominazione:"U-Hopper",website:"http://www.u-hopper.com/",citta:"Trento",regione:"Trentino Alto-Adige",settore:"Smart-Cities, AI solutions per la PA",tecnologie:"Chatbot"},
+{id:135,tipologia:"Azienda",denominazione:"Alkemylab",website:"http://alkemylab.it/",citta:"Milano, Roma, Cagliari e Rende",regione:"Lombardia, Lazio, Sardegna, Calabria",settore:"Ricerca Applicata / Statistica",tecnologie:"Computer Vision, Elaborazione Linguaggio Naturale, Machine/Deep Learning, Recommender Systems"},
+{id:136,tipologia:"Startup",denominazione:"Jetware",website:"http://jetware.io",citta:"Roma",regione:"Lazio",settore:"Ricerca Applicata / Statistica, Sicurezza / Cybersecurity, Tecnologie dell'informazione e della comunicazion",tecnologie:"Computer Vision, Elaborazione Linguaggio Naturale, Machine/Deep Learning, Recommender Systems"},
+{id:137,tipologia:"Centro di Ricerca",denominazione:"Datalifelab",website:"https://www.datalifelab.eu/",citta:"Firenze",regione:"Toscana",settore:"Ricerca Applicata / Statistica, Smart-Cities",tecnologie:"Computer Vision, Elaborazione Linguaggio Naturale, Machine/Deep Learning, Chatbot"},
+{id:138,tipologia:"Azienda",denominazione:"Eudata",website:"http://www.eudata.com/",citta:"Milano",regione:"Lombardia",settore:"Automotive, Economia e Finanza / Fintech /Assicurazioni, Energia, Salute, Trasporti, Customer Service",tecnologie:"Chatbot, VoiceBOT"},
+{id:139,tipologia:"Startup",denominazione:"Youaremyguide",website:"https://youaremyguide.com",citta:"Torino",regione:"Piemonte",settore:"Pubblicità / Marketing",tecnologie:"Elaborazione Linguaggio Naturale, Machine/Deep Learning, Recommender Systems, Chatbot"},
+{id:140,tipologia:"PA",denominazione:"Soresa",website:"http://www.soresa.it",citta:"Napoli",regione:"Campania",settore:"Pubblica amministrazione territoriale (regionale e locale), Salute",tecnologie:"Chatbot"},
+{id:141,tipologia:"Startup",denominazione:"Evo Pricing",website:"https://evopricing.com/",citta:"Torino",regione:"Piemonte",settore:"Consulenza; IT",tecnologie:"Machine/Deep Learning, Analitica Predittiva"},
+{id:142,tipologia:"Azienda",denominazione:"Kode",website:"https://www.kode-solutions.net/it/index.html",citta:"Pisa",regione:"Toscana",settore:"Ambiente, Automotive, Bioinformatica, Energia, Industria pesante, Ricerca Applicata / Statistica, Robotica, Salute",tecnologie:"Computer Vision, Machine/Deep Learning, Recommender Systems"},
+{id:143,tipologia:"Startup",denominazione:"Cynny",website:"http://www.cynny.it",citta:"Firenze",regione:"Toscana",settore:"Pubblicità / Marketing",tecnologie:"Computer Vision, Machine/Deep Learning"},
+{id:144,tipologia:"PA",denominazione:"Dip. Informatica - UniParthenope",website:"https://informatica.uniparthenope.it/",citta:"Napoli",regione:"Campania",settore:"Automotive, Educazione, Ricerca Applicata / Statistica, Robotica, Sicurezza / Cybersecurity",tecnologie:"Computer Vision, Elaborazione Linguaggio Naturale, Machine/Deep Learning, Recommender Systems, Robotica/Sistemi Autonomi, Chatbot"},
 
+{id:145,tipologia:"Startup",denominazione:"App2check",website:"https://www.app2check.com/",citta:"Genova",regione:"Liguria",settore:"Economia e Finanza / Fintech /Assicurazioni, Energia, Pubblica amministrazione centrale, Pubblica amministrazione territoriale (regionale e locale), Pubblicità / Marketing, Ricerca Applicata / Statistica, Salute, Smart-Cities, Trasporti",tecnologie:"Elaborazione Linguaggio Naturale, Machine/Deep Learning, Sistemi Esperti, Chatbot, Cognitive Cybersecurity, Sentiment Analysis"},
+{id:146,tipologia:"Centro di Ricerca",denominazione:"Modict",website:"http://modict.com/",citta:"Lecce",regione:"Puglia",settore:"Ricerca Applicata / Statistica",tecnologie:"Machine/Deep Learning"},
+{id:147,tipologia:"Azienda",denominazione:"OnAIR",website:"http://www.onairweb.com",citta:"Genova",regione:"Liguria",settore:"Ambiente, Ricerca Applicata / Statistica, Smart-Cities, Trasporti",tecnologie:"Computer Vision, Machine/Deep Learning, Predictive Analytics"},
 
 				];
+
+
 
 
   $("#download").click(function() {
