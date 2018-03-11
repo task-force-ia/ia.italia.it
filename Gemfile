@@ -18,6 +18,8 @@ gem "jekyll", "3.5.2"
 # gem "github-pages", group: :jekyll_plugins
 gem "html-proofer"
 
+gem 'ffi', '1.9.18'
+
 # If you have any plugins, put them here!
 group :jekyll_plugins do
    gem "jekyll-feed"

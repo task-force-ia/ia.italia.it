@@ -11,6 +11,9 @@ it_IT:
   osservatorio:
     title: Osservatorio IA
     url: osservatorio-ia
+  evento:
+    title: Evento 21 Marzo
+    url: evento-21marzo
   faq:
     title: Domande frequenti
     url: domande-frequenti
