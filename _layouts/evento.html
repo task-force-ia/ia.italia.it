@@ -1,0 +1,32 @@
+---
+layout: default
+---
+{% include setlang.html %}
+
+<div class="Page-title u-text{{ page.title-alignment | capitalize }}">
+  {% if page.separator == 'curved' %}
+  {% include page_title.html %}
+  <div class="Separator-curved">
+    <svg id="curveDown" xmlns="http://www.w3.org/2000/svg" version="1.1" height="100%" width="100%" style="fill: #f6f9fc;" viewBox="0 0 100 25" preserveAspectRatio="none">
+      <path d="M100,50H0V0c1.9,2.5,19.4,25,50,25c3.1,0,31.6-0.5,50-25C100,16.7,100,33.3,100,50z"/>
+    </svg>
+  </div>
+  {% elsif page.separator == 'ascending' %}
+  {% include page_title.html %}
+  <hr class="Separator-room" />
+  <hr class="Separator Separator--up u-background-grey-15" />
+  {% elsif page.separator == 'descending' %}
+  <hr class="Separator-room" />
+  <hr class="Separator Separator--down u-background-grey-15" />
+  {% include page_title.html bg-color = 'grey-15' color = '50' %}
+  {% else %}
+    {% include page_title.html %}
+  {% endif %}
+</div>
+<section class="Content u-background-grey-15 u-layout-r-withGutter u-padding-top-xxl u-padding-bottom-xxl u-posRelative u-zindex-30">
+  <div class="Grid Grid--withGutterL">
+    <div class="Grid-cell u-sizeFull u-md-size1of2 u-md-before1of4 u-lg-size1of2 u-lg-before1of4">
+      <div class="Prose">{{ content }}</div>
+    </div>
+  </div>
+</section>
