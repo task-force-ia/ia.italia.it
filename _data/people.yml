@@ -583,6 +583,72 @@
   pic: assets/images/people/alessandro_casacchia.jpg
   contacts:
 -
+  name: Elisa Petrucci
+  desc: Relazioni internazionali, AgID
+  desc_en: International Relations, AgID
+  group: agid_fp
+  pic: assets/images/people/elisa_petrucci.jpg
+  contacts:
+    linkedin:
+      name: linkedin
+      link: https://www.linkedin.com/in/elisa-petrucci-57042752/
+-
+  name: Matteo Trapani
+  desc: Segreteria tecnica, AgID
+  desc_en: Technical Secretariat, AgID
+  group: agid_fp
+  pic: assets/images/people/matteo_trapani.jpg
+  contacts:
+    linkedin:
+      name: linkedin
+      link: https://www.linkedin.com/in/matteo-trapani-91957211b/
+    twitter:
+      name: twitter
+      link: https://twitter.com/mattetrap?lang=en 
+-
+  name: Francesca Grande
+  desc: Comunicazione e relazioni esterne, AgID
+  desc_en: Communication and External Relations, AgID
+  group: agid_fp
+  pic: assets/images/people/francesca_grande.jpg
+  contacts:
+    linkedin:
+      name: linkedin
+      link: https://www.linkedin.com/in/francesca-grande-63435833/
+-
+  name: Manuel Ciocci
+  desc: Segreteria tecnica, AgID
+  desc_en: Technical Secretariat, AgID
+  group: agid_fp
+  pic: assets/images/people/manuel_ciocci.jpg
+  contacts:
+    twitter:
+      name: twitter
+      link: https://twitter.com/manuelciocci
+-
+  name: Flavia Gamberale
+  desc: Comunicazione e relazioni esterne, AgID
+  desc_en: Communication and External Relations, AgID
+  group: agid_fp
+  pic: assets/images/people/flavia_gamberale.jpg
+  contacts:
+    linkedin:
+      name: linkedin
+      link: https://www.linkedin.com/in/francesca-grande-63435833/
+-
+  name: Marta Falzone
+  desc: Comunicazione e relazioni esterne, AgID
+  desc_en: Communication and External Relations, AgID
+  group: agid_fp
+  pic: assets/images/people/marta_falzone.jpg
+  contacts:
+    linkedin:
+      name: linkedin
+      link: https://www.linkedin.com/in/martafalzone/
+    twitter:
+      name: twitter
+      link: https://twitter.com/marta_falzone
+-
   name: Zanzabot
   desc: Chatbot IA, AgID
   desc_en: AI Chatbot, AgID
