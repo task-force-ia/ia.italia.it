@@ -24,6 +24,7 @@ it_IT:
     header_link_community: Community
     header_link_whitepaper: Libro Bianco IA
     go_to_the_whitepaper: Vai al libro bianco IA
+    download_whitepaper: libro bianco IA
 
     footer_link_privacy_policy: privacy policy
     footer_link_legal_notes: note legali
@@ -36,10 +37,7 @@ it_IT:
       La task force studia le opportunità offerte
       dall’<strong>Intelligenza Artificiale</strong> per migliorare
       i servizi pubblici e semplificare la vita dei cittadini
-    home_evento: |
-      Il 21 marzo la task force presenta il
-      Libro Bianco nell'evento <strong>"Intelligenza Artificiale. Opportunità e Sfide per cittadini e amministrazioni"</strong>
-      nella sede di WEGIL a Roma
+    home_evento: Scarica il Libro Bianco sull’Intelligenza Artificiale al servizio del cittadino
     home_header_button: Partecipa
     home_goals_title: Obiettivi della task force IA
     home_goals:
@@ -65,6 +63,7 @@ it_IT:
     agid_e_fp: Agenzia per l'Italia Digitale e Dipartimento della funzione pubblica
     task_force_members: Gruppo di coordinamento
     coordinamento: coordinamento
+    invitati: Relatori
 
     vuoi_contribuire: Vuoi contribuire ai lavori della task force IA?
     vuoi_saperne: Vuoi saperne di più?
@@ -75,8 +74,9 @@ it_IT:
     cta_scopri_tf: Scopri la task force
     cta_scopri: Scopri di più
     cta_compila: Aiutaci a mappare l'ecosistema IA
-    cta_libro_bianco: Commenta il libro bianco IA
+    cta_libro_bianco: libro bianco IA
     cta_evento: Iscriviti
+    cta_streaming: Streaming evento sfide IA
     scrivi_a: Scrivi a
     per_i_media: Per i media
 
@@ -139,7 +139,8 @@ en_US:
     header_link_community: Community
     header_link_task-force: Web
     header_link_whitepaper: AI White paper
-    go_to_the_whitepaper: AI White Paper
+    go_to_the_whitepaper: Go to AI White Paper
+    download_whitepaper: Download AI White Paper
 
     footer_link_privacy_policy: privacy policy
     footer_link_legal_notes: legal notes
@@ -194,8 +195,9 @@ en_US:
     cta_scopri_tf: About us
     cta_approfondisci: Read more
     cta_compila: Help us map the AI ecosystem in Italy
-    cta_libro_bianco: Comment AI White paper
+    cta_libro_bianco: Download AI White paper
     cta_evento: March 21st event
+    cta_streaming: follow on live stream
     scrivi_a: Write to
     per_i_media: For the media
 

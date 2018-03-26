@@ -287,7 +287,7 @@ $(function() {
 {id:145,tipologia:"Startup",denominazione:"App2check",website:"https://www.app2check.com/",citta:"Genova",regione:"Liguria",settore:"Economia e Finanza / Fintech /Assicurazioni, Energia, Pubblica amministrazione centrale, Pubblica amministrazione territoriale (regionale e locale), Pubblicità / Marketing, Ricerca Applicata / Statistica, Salute, Smart-Cities, Trasporti",tecnologie:"Elaborazione Linguaggio Naturale, Machine/Deep Learning, Sistemi Esperti, Chatbot, Cognitive Cybersecurity, Sentiment Analysis"},
 {id:146,tipologia:"Centro di Ricerca",denominazione:"Modict",website:"http://modict.com/",citta:"Lecce",regione:"Puglia",settore:"Ricerca Applicata / Statistica",tecnologie:"Machine/Deep Learning"},
 {id:147,tipologia:"Azienda",denominazione:"OnAIR",website:"http://www.onairweb.com",citta:"Genova",regione:"Liguria",settore:"Ambiente, Ricerca Applicata / Statistica, Smart-Cities, Trasporti",tecnologie:"Computer Vision, Machine/Deep Learning, Predictive Analytics"},
-
+{id:148,tipologia:"Azienda",denominazione:"Excelle",website:"http://www.excelle.it",citta:"Milano",regione:"Lombardia",settore:"Automotive, Economia e Finanza / Fintech /Assicurazioni, Energia, Pubblicità / Marketing, Retail, GDO, No Profit, Startup, Digital, Formazione, Telco, Utilities",tecnologie:"Machine/Deep Learning"},
 				];
 
 

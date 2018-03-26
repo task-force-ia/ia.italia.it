@@ -27,6 +27,8 @@ Segnala la tua organizzazione oppure le realtà di tua conoscenza. Compila i cam
 
 ### Elenco dell'Ecosistema IA in Italia
 
+### Totali : 142
+
 <div id="iaMapping"></div>
 <div class="u-sizeFull u-textCenter u-padding-r-all">
 <button class="Button Button--default u-borderShadow-m u-text-r-xxs u-padding-r-all u-color-teal-70 align-center" id="download">Scarica i dati in formato Excel</button>

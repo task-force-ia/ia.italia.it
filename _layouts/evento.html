@@ -28,5 +28,63 @@ layout: default
     <div class="Grid-cell u-sizeFull u-md-size1of2 u-md-before1of4 u-lg-size1of2 u-lg-before1of4">
       <div class="Prose">{{ content }}</div>
     </div>
+    <h2 id="{{ t.invitati }}" class="u-cf u-sizeFull u-margin-top-xxl u-textCenter u-textWeight-600 u-padding-bottom-xxl u-padding-top-xxl">{{ t.invitati }}</h2>
+    <!-- div class="Grid Grid--alignMiddle Grid--withGutter u-margin-r-top u-flexJustifyCenter" -->
+      {% for person in site.data.people %}
+      {% if person.group == 'invited_talk' %}
+
+    <div class="Grid-cell u-sizeFull u-sm-size1of2 u-md-size1of3 u-lg-size1of4 u-textJustify u-margin-bottom-xl">
+      <div class="Person u-cf u-borderRadius-m u-flex" style="background-image: url({{ person.pic | relative_url }})">
+        <div class="Person-content u-background-white u-flexAlignSelfEnd u-zindex-30 u-textCenter">
+          <div class="Grid u-flex u-flexWrap u-flexJustifyCenter u-padding-r-top">
+            <h3 class="Grid-cell u-sizeFull u-textCenter u-text-r-xs u-textWeight-600 u-margin-bottom-xxs">
+              {{ person.name }}
+            </h3>
+
+
+<!--      <div class="Person-container Grid-cell u-sizeFull u-sm-size1of2 u-md-size1of3 u-lg-size1of4 u-textJustify u-margin-bottom-xl">
+        <div class="Person u-round u-cf u-flex" style="background-image: url({{ person.pic | relative_url }})">
+          <div class="Person-content u-background-white u-flexAlignSelfEnd u-zindex-30 u-textCenter">
+            <div style="position: absolute; width: 100%">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 10" style="transform: translate(0, -96%)">
+                <path fill="#FFF" fill-rule="evenodd" d="M100 0c35.006 0 68.647 3.52 100 10H0C31.353 3.52 64.993 0 100 0z"/>
+              </svg>
+            </div>
+            <div class="Grid u-flex u-flexWrap u-flexJustifyCenter">
+              <h3 style="" class="Grid-cell u-sizeFull u-textCenter u-text-r-xs u-textWeight-600 u-margin-bottom-xxs">
+                {{ person.name }}
+              </h3> -->
+              {% assign desc = person.role %}
+              {% if desc %}
+              <h4 class="Grid-cell u-sizeFull u-textCenter u-margin-bottom-xxs u-text-r-xxs u-textWeight-400 u-color-grey-50 ">
+                {{ desc }}
+              </h4>
+              {% endif %}
+              <div class="Grid-cell u-sizeFull u-flexAlignSelfEnd u-margin-bottom-xs u-margin-bottom-s u-margin-top-xxs">
+                <ul class="u-textCenter u-layoutCenter">
+                  {% for contact in person.contacts %}
+                  <li class="u-inlineBlock u-padding-right-xxs u-padding-left-xxs">
+                    <a href="{{ contact[1].link }}" title="" class="Person-social-link u-padding-all-xs u-background-50 u-color-white u-inlineBlock u-linkClean u-borderRadius-circle u-alignMiddle">
+                      <span class="Icon Icon-{{ contact[0] }}"></span>
+                      <span class="u-hiddenVisually">{{ contact[1].name }}</span>
+                    </a>
+                  </li>
+                  {% endfor %}
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+
+	{% assign bio = person.desc %}
+	{% if bio %}
+       <div class="Prose u-padding-top-xxl text-justify">{{ bio }}</div>
+        {% endif %}
+
+      </div>
+      {% endif %}
+      {% endfor %}
+    <!--/div-->
   </div>
 </section>
+
