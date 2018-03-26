@@ -44,14 +44,12 @@ layout: default
               <h3 style="" class="Grid-cell u-sizeFull u-textCenter u-text-r-xs u-textWeight-600 u-margin-bottom-xxs">
                 {{ person.name }}
               </h3>
-              {% comment %}
-              {% assign desc = person.desc %}
+              {% assign desc = person.role %}
               {% if desc %}
               <h4 class="Grid-cell u-sizeFull u-textCenter u-margin-bottom-xxs u-text-r-xxs u-textWeight-400 u-color-grey-50 ">
                 {{ desc }}
               </h4>
               {% endif %}
-              {% endcomment %}
               <div class="Grid-cell u-sizeFull u-flexAlignSelfEnd u-margin-bottom-xs u-margin-bottom-s u-margin-top-xxs">
                 <ul class="u-textCenter u-layoutCenter">
                   {% for contact in person.contacts %}

@@ -65,12 +65,14 @@
         <div>
           <div class="u-inlineBlock u-rightFloat Header-button">
             {% if(t.lang == 'it') %}
-            <a role="button" href="https://libro-bianco-ia.readthedocs.io" class="Button Button--default u-borderShadow-xxl u-text-r-xxs u-padding-r-all" target="_blank">
+            <a role="button" href="https://ia.italia.it/assets/librobianco.pdf" class="Button Button--default u-borderShadow-xxl u-text-r-xxs u-padding-r-all" target="_blank">
+              {{ t.download_whitepaper }}
+            </a>
             {% else %}
-            <a role="button" href="https://ai-white-paper.readthedocs.io" class="Button Button--default u-borderShadow-xxl u-text-r-xxs u-padding-r-all" target="_blank">
-            {% endif %}
+            <a role="button" href="https://ai-white-paper.readthedocs.io/" class="Button Button--default u-borderShadow-xxl u-text-r-xxs u-padding-r-all" target="_blank">
               {{ t.go_to_the_whitepaper }}
             </a>
+	    {% endif %}
           </div>
         </div>
 

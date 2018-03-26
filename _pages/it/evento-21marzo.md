@@ -8,19 +8,19 @@ seo:
   type: WebPage
 ---
 
-Il **21 marzo** la task force sull’[Intelligenza Artificiale](/task-force) presenta il [Libro Bianco sull’IA](https://libro-bianco-ia.readthedocs.io/it/latest/) al servizio del cittadino nel corso del Focus "**Intelligenza Artificiale. Opportunità e Sfide per cittadini e amministrazioni**" organizzato da AgID in collaborazione con Meet The Media Guru.
+Il **21 marzo** la task force sull’[Intelligenza Artificiale](/task-force) ha presentato il [Libro Bianco sull’IA](https://libro-bianco-ia.readthedocs.io/it/latest/) al servizio del cittadino nel corso dell'evento "**Intelligenza Artificiale. Opportunità e Sfide per cittadini e amministrazioni**" organizzato da AgID in collaborazione con Meet The Media Guru in Largo Ascianghi 5 a Roma.
 
-L’appuntamento dedicato al tema dell’Intelligenza Artificiale per migliorare i servizi della Pubblica amministrazione, si tiene a Roma, dalle **14:30 alle 17:30** nella sede di WeGIL in Largo Ascianghi 5 a Roma.
+Il Libro Bianco è frutto di un lavoro di consultazione, sintesi e approfondimento che ha coinvolto circa un centinaio di soggetti pubblici e privati che a vario titolo si occupano di IA in Italia.
+Si tratta del primo documento indirizzato alle amministrazioni pubbliche - scuole, strutture sanitarie, Comuni, Tribunali, Ministeri - con raccomandazioni e indicazioni su come sfruttare al meglio le opportunità offerte dall’IA, limitandone criticità e aspetti problematici, per sviluppare servizi pubblici sempre più a misura di cittadino.
 
-{% include cta_programma.html programma="#programma" download_programma="Consulta il programma" %}
+Attraverso brevi racconti e con l'aiuto di esperti di fama internazionale si è discusso di obiettivi, sfide e raccomandazioni per una Pubblica amministrazione AI-ready, pronta a cogliere le opportunità offerte dall’Intelligenza Artificiale a vantaggio dei cittadini e dei servizi a loro dedicati.
 
+Hashtag ufficiale dell'evento: *\#SfideIA*
 
-Esperti di fama internazionale si incontrano per discutere di obiettivi, sfide e raccomandazioni per una pubblica amministrazione AI ready, pronta a cogliere le opportunità offerte dall'Intelligenza Artificiale a vantaggio dei cittadini e dei servizi a loro dedicati.
+Guarda il video dell'evento
 
+{% include facebook.html  %}
 
-La partecipazione è libera e gratuita, previa registrazione.
-
-{% include cta_evento.html smappo="https://www.smappo.com/event/5aa028d152a70_intelligenza-artificiale-opportunita-e-sfide-per-cittadini-e-amministrazioni.htm" register="Registrati all\'evento"  %}
-
+### Il programma
 
 {% include evento.html url="/assets/images/std/programma.jpg" description="Programma" %}

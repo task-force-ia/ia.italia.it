@@ -322,18 +322,18 @@
       name: linkedin
       link: https://www.linkedin.com/in/pia-marconi-175b543b/
 -
-  name: Umberto Rosini
-  desc: IT Architect e Community, AgID
-  desc_en: IT Architect and Community, AgID
+  name: Claudio Biancalana
+  desc: Segreteria tecnica, AgID
+  desc_en: Technical Secretariat, AgID
   group: agid_fp
-  pic: assets/images/people/umberto_rosini.jpg
+  pic: assets/images/people/claudio_biancalana.jpg
   contacts:
     linkedin:
       name: linkedin
-      link: https://www.linkedin.com/in/umbros/
+      link: https://it.linkedin.com/in/claudiobiancalana
     twitter:
       name: twitter
-      link: https://twitter.com/umbr0s
+      link: https://twitter.com/leptoquark
 -
   name: Enzo Maria Le Fevre
   desc: Relazioni internazionali, AgID
@@ -348,18 +348,18 @@
       name: twitter
       link: https://twitter.com/enzolefevre
 -
-  name: Claudio Biancalana
-  desc: Segreteria tecnica, AgID
-  desc_en: Technical Secretariat, AgID
+  name: Umberto Rosini
+  desc: IT Architect e Community, AgID
+  desc_en: IT Architect and Community, AgID
   group: agid_fp
-  pic: assets/images/people/claudio_biancalana.jpg
+  pic: assets/images/people/umberto_rosini.jpg
   contacts:
     linkedin:
       name: linkedin
-      link: https://it.linkedin.com/in/claudiobiancalana
+      link: https://www.linkedin.com/in/umbros/
     twitter:
       name: twitter
-      link: https://twitter.com/leptoquark
+      link: https://twitter.com/umbr0s
 -
   name: Mauro Draoli
   desc: Strategie di innovazione, AgID
@@ -655,3 +655,110 @@
   group: agid_fp
   pic: assets/images/people/zanzabot.png
   contacts:
+-
+  name: Antonio Samaritani
+  role: Direttore Generale AgID
+  desc: Direttore Generale di AgID da maggio 2015, è stato Direttore dei Sistemi Informativi di Regione Lombardia dal 2010 al 2015 e direttore centrale vicario dell’Organizzazione e Personale. Nato a Torino nel 1963, si è laureato in Economia e Commercio presso l’Università Bocconi di Milano nel 1988. Prima dell’incarico in Regione ha lavorato in società di consulenza internazionali e nel mondo dell’ICT con incarichi di crescente responsabilità, fino a diventare Direttore del mercato industriale in IBM per la divisione di Consulenza e System Integration.
+  desc_en:
+  group: invited_talk
+  pic: assets/images/people/inv_tal/antonio_samaritani.jpg
+  contacts:
+    linkedin:
+      name: linkedin
+      link: https://www.linkedin.com/in/antonio-samaritani-5500066/ 
+-
+  name: Marco Bani
+  role: Responsabile Segreteria Tecnica e comunicazione AgID
+  desc: Capo segreteria tecnica dell’Agenzia per l’Italia digitale, si occupa di di cyberpolitics, nuove forme di contrasto alle disuguaglianze, democrazia digitale, innovazione dei processi pubblici. Temi sviluppati durante il periodo da ricercatore al King's College di Londra e come visiting scholar al M.I.T di Cambridge, Massachussets, che hanno promosso ricerche culminate con il dottorato in Politics, Human Rights and Sustainability alla Scuola Superiore Sant’Anna. All’attivo diverse esperienze dirette nella pubblica amministrazione come consigliere comunale e capo della segreteria particolare del Ministro dell'Istruzione, dell'Università e della Ricerca.
+  desc_en:
+  group: invited_talk
+  pic: assets/images/people/inv_tal/marco_bani.jpg
+  contacts:
+    linkedin:
+      name: linkedin
+      link: https://www.linkedin.com/in/marcobani/?locale=it_IT
+    twitter:
+      name: twitter
+      link: https://twitter.com/marcobani
+-
+  name: Mara Grazia Mattei
+  role: Direttore Meet the Media Guru
+  desc: Giornalista, esperta di nuove tecnologie della comunicazione, Maria Grazia Mattei dal 1982 indaga i territori del digitale nelle sue declinazioni tecnologiche e sociali. Fondatrice della società Mattei Digital Communication, di cui è Amministratore Unico, centro di ricerca, studio e diffusione della cultura dei nuovi media. Dal 2005 dirige Meet the Media Guru, ciclo di incontri e confronti internazionali con il gotha della cultura digitale che si è affermato nel territorio come punto di riferimento sulla cultura digitale. Attualmente è Membro della Commissione Centrale di Beneficenza della Fondazione Cariplo. Dal 2016 è membro del Consiglio di Amministrazione di Artemide.
+  desc_en:
+  group: invited_talk
+  pic: assets/images/people/inv_tal/maria_grazia_mattei.jpg
+  contacts:
+    linkedin:
+      name: linkedin
+      link: https://www.linkedin.com/in/emmegi/
+    twitter:
+      name: twitter
+      link: https://twitter.com/mgmattei
+-
+  name: Antonietta Mira
+  role: Direttore Centro di Data Science, Università della Svizzera italiana e Università dell’Insubria
+  desc: Docente ordinario di Statistica all’Università della Svizzera italiana di Lugano e all’Università degli Studi dell’Insubria di Como. Fondatrice nel 2015 dell’Inter Disciplinary Institute of Data Science di Lugano, che co-dirige assieme a Alessandro Lomi. Antonietta Mira e il personale del suo istituto fanno ricerca nei settori delle scienze sociali, della finanza, dell’economia, della medicina e della biologia a partire dai Big Data. L’obiettivo è rendere utili e fruibili alla collettività le informazioni seminate in rete dai singoli.
+  desc_en:
+  group: invited_talk
+  pic: assets/images/people/inv_tal/antonietta_mira.jpg
+  contacts:
+    linkedin:
+      name: linkedin
+      link: https://www.linkedin.com/in/emmegi/
+    twitter:
+      name: twitter
+      link: https://twitter.com/mgmattei
+-
+  name: Gianmarco Verruggio
+  role: Dirigente di Ricerca del CNR-IEIIT e fondatore della Scuola di Robotica
+  desc: Scienziato robotico sperimentale, nonché studioso delle implicazioni etiche, legali e sociali della robotica, visionario divulgatore degli scenari futuri conseguenti all’invasione robotica della società. Dedica gran parte delle sue energie a progetti di educazione e formazione delle giovani generazioni. Attualmente è Dirigente di Ricerca del CNR, Responsabile della Sede di Genova dell’Istituto di Elettronica e di Ingegneria dell’Informazione e delle Telecomunicazioni (CNR-IEIIT). Presso l’Istituto per l’Automazione Navale di Genova, crea il CNR-IAN Robotlab (1989-2002), mediante il quale progetta prototipi di robot e coordina Progetti di Ricerca, nazionali e internazionali, guidando personalmente numerose Campagne Sperimentali e Spedizioni Scientifiche in Mediterraneo, Antartide e Artico. Ha collaborato con le principali iniziative di divulgazione scientifica, dal Festival della Scienza al TEDx.
+  desc_en:
+  group: invited_talk
+  pic: assets/images/people/inv_tal/gianmarco_verruggio.jpg
+  contacts:
+    linkedin:
+      name: linkedin
+      link: https://www.linkedin.com/in/veruggio/
+    twitter:
+      name: twitter
+      link: https://twitter.com/veruggio
+-
+  name: Giulia Baccarin
+  role: Managing Director I-Care, Co-founder MIPU
+  desc: Nel 2008 fonda la sede italiana della società di ingegneria I-care, oggi leader in Europa nella manutenzione predittiva e dell’affidabilità, presente in 9 Paesi del mondo con 150 ingegneri. Parallelamente, spinta dal forte desiderio di promuovere e supportare lo spirito imprenditoriale di giovani talenti in Italia, ha co-fondato MIPU, un gruppo di imprese che lavorano per offrire sul mercato soluzioni B2B innovative e dirompenti con l'obiettivo preciso di supportare la realizzazione dell'azienda connessa e predittiva.
+  desc_en:
+  group: invited_talk
+  pic: assets/images/people/inv_tal/giulia_baccarin.jpg
+  contacts:
+    linkedin:
+      name: linkedin
+      link: https://it.linkedin.com/in/giuliabaccarin
+    twitter:
+      name: twitter
+      link: https://twitter.com/giulia_baccarin
+-
+  name: Paolo Benanti
+  role: Docente di neuroetica, bioetica e teologia morale presso la Pontificia Università Gregoriana
+  desc: Francescano del Terzo Ordine Regolare e docente della Pontificia Università Gregoriana di Roma, si occupa di etica, bioetica ed etica delle tecnologie. In particolare i suoi studi si focalizzano sulla gestione dell'innovazione, internet e l'impatto del Digital Age, le biotecnologie per il miglioramento umano e la biosicurezza, le neuroscienze e le neurotecnologie. A novembre 2017 ha pubblicato un testo dal titolo L’Hamburger di Frankenstein (edizioni Dehoniane) sul tema della carne sintetica e della food security mondiale. 
+  desc_en:
+  group: invited_talk
+  pic: assets/images/people/inv_tal/paolo_benanti.jpg
+  contacts:
+    linkedin:
+      name: linkedin
+      link: https://www.linkedin.com/in/paolo-benanti-94aa1915/
+    twitter:
+      name: twitter
+      link: https://twitter.com/paolobenanti
+-
+  name: Derrick De Kerckhove
+  role: Direttore scientifico di Media Duemila e dell’Osservatorio TuttiMedia
+  desc: Giornalista di Media Duemila, prima rivista di cultura digitale italiana. Guru dell’era digitale, da allievo del grande maestro Marshall McLuhan ha diretto (1983-2008) il McLuhan Program in Culture & Technology di Toronto. È stato Professore Universitario nel Dipartimento di lingua francese all’Università di Toronto e docente presso la Facoltà di Sociologia dell’Università degli Studi di Napoli Federico II.
+  desc_en:
+  group: invited_talk
+  pic: assets/images/people/inv_tal/derrick_de_kerckhove.jpg
+  contacts:
+    linkedin:
+      name: linkedin
+      link: https://www.linkedin.com/in/derrick-de-kerckhove-9428/
+
