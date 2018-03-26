@@ -18,7 +18,7 @@ if(filter_var(trim($_POST["email"]), FILTER_VALIDATE_EMAIL)) {
   $url = "https://us14.api.mailchimp.com/3.0/lists/" . $list_id . "/members";
   $postData = ["email_address" => $_POST["email"], "status" => "subscribed"];
   $mailchimp_subscribe = curl_init($url);
-  curl_setopt($mailchimp_subscribe, CURLOPT_USERPWD, "api_key:2e4b359206f8e29fe5f2e4b359206f8e29fe5f8d2267625ab90-us14");
+  curl_setopt($mailchimp_subscribe, CURLOPT_USERPWD, "api_key:");
   curl_setopt($mailchimp_subscribe, CURLOPT_POST, 1);
   curl_setopt($mailchimp_subscribe, CURLOPT_POSTFIELDS, json_encode($postData));
   curl_setopt($mailchimp_subscribe, CURLOPT_HEADER, 0);
