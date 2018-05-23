@@ -14,6 +14,9 @@ it_IT:
   evento:
     title: Evento 21 Marzo
     url: evento-21marzo
+   progetti:
+    title: Progetti
+    url: progetti
   faq:
     title: Domande frequenti
     url: domande-frequenti
