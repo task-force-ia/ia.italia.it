@@ -18,102 +18,88 @@ Se altre realtà, pubbliche e private, hanno progettualità legate allo sviluppo
 ### Chi abbiamo incontrato?
 L'elenco delle amministrazioni incontrate\*
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;border:none;border-color:#999;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#999;color:#fff;background-color:#26ADE4;}
-.tg .tg-fe94{background-color:#0059b3;font-weight:bold;color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-yj5y{background-color:#efefef;border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-kiyw{background-color:#efefef;border-color:inherit;vertical-align:top}
-.tg .tg-ysxa{font-weight:bold;background-color:#f0f0f0;color:#000000;border-color:#000000;text-align:center;vertical-align:top}
-.tg .tg-lc6l{font-weight:bold;background-color:#0059b3;color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-egdh{background-color:#efefef;border-color:inherit;vertical-align:top}
-.tg .tg-wc2v{background-color:#efefef;border-color:inherit;text-align:center;vertical-align:top}
-
-hr.sep {
-    border: 0;
-    height: 1px;
-    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
-}
-</style>
-<table class="tg">
+<table class="table table-striped">
+<thead>
   <tr>
-    <th class="tg-ysxa"></th>
-    <th class="tg-lc6l">Amministrazione</th>
-    <th class="tg-lc6l">Tipologia</th>
-    <th class="tg-lc6l">Regione</th>
-    <th class="tg-lc6l">Ambito/Cluster/Ecosistema<br>della progettualità presentata</th>
+    <th scope="col"></th>
+    <th scope="col">Amministrazione</th>
+    <th scope="col">Tipologia</th>
+    <th scope="col">Regione</th>
+    <th scope="col">Ambito/Cluster/Ecosistema<br>della progettualità presentata</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th scope="row">1</th>
+    <td>ARPA Valle d'Aosta<br></td>
+    <td>PA</td>
+    <td>Valle d'Aosta</td>
+    <td>Ambiente</td>
   </tr>
   <tr>
-    <td class="tg-fe94">1</td>
-    <td class="tg-egdh">ARPA Valle d'Aosta<br></td>
-    <td class="tg-wc2v">PA</td>
-    <td class="tg-wc2v">Valle d'Aosta</td>
-    <td class="tg-wc2v">Ambiente</td>
+    <th scope="row">2</th>
+    <td>ASL Roma 1</td>
+    <td>PA</td>
+    <td>Lazio</td>
+    <td>Sanità</td>
   </tr>
   <tr>
-    <td class="tg-lc6l">2</td>
-    <td class="tg-kiyw">ASL Roma 1</td>
-    <td class="tg-yj5y">PA</td>
-    <td class="tg-yj5y">Lazio</td>
-    <td class="tg-yj5y">Sanità</td>
+    <th scope="row">3</th>
+    <td>Arsenal</td>
+    <td>PA</td>
+    <td>Veneto</td>
+    <td>Sanità</td>
   </tr>
   <tr>
-    <td class="tg-fe94">3</td>
-    <td class="tg-egdh">Arsenal</td>
-    <td class="tg-wc2v">PA</td>
-    <td class="tg-wc2v">Veneto</td>
-    <td class="tg-wc2v">Sanità</td>
+    <th scope="row">4</th>
+    <td>Comune di Sesto Fiorentino</td>
+    <td>PA</td>
+    <td>Toscana</td>
+    <td>Servizi al cittadino</td>
   </tr>
   <tr>
-    <td class="tg-lc6l">4</td>
-    <td class="tg-kiyw">Comune di Sesto Fiorentino</td>
-    <td class="tg-yj5y">PA</td>
-    <td class="tg-yj5y">Toscana</td>
-    <td class="tg-yj5y">Servizi al cittadino</td>
+    <th scope="row">5</th>
+    <td>Roma Capitale</td>
+    <td>PA</td>
+    <td>Lazio</td>
+    <td>Beni Culturali</td>
   </tr>
   <tr>
-    <td class="tg-fe94">5</td>
-    <td class="tg-egdh">Roma Capitale</td>
-    <td class="tg-wc2v">PA</td>
-    <td class="tg-wc2v">Lazio</td>
-    <td class="tg-wc2v">Beni Culturali</td>
+    <th scope="row">6</th>
+    <td>Regione Emilia-Romagna</td>
+    <td>PA</td>
+    <td>Emilia Romagna</td>
+    <td>Servizi al cittadino/Trasporti</td>
   </tr>
   <tr>
-    <td class="tg-lc6l">6</td>
-    <td class="tg-kiyw">Regione Emilia-Romagna</td>
-    <td class="tg-yj5y">PA</td>
-    <td class="tg-yj5y">Emilia Romagna</td>
-    <td class="tg-yj5y">Servizi al cittadino/Trasporti</td>
+    <th scope="row">7</th>
+    <td>Ministero Interno (VVFF)</td>
+    <td>PA</td>
+    <td>-</td>
+    <td>Servizi al cittadino/Trasporti</td>
   </tr>
   <tr>
-    <td class="tg-fe94">7</td>
-    <td class="tg-egdh">Ministero Interno (VVFF)</td>
-    <td class="tg-wc2v">PA</td>
-    <td class="tg-wc2v">-</td>
-    <td class="tg-wc2v">Servizi al cittadino/Trasporti</td>
+    <th scope="row">8</th>
+    <td>MiBACT</td>
+    <td>PA</td>
+    <td>-</td>
+    <td>Ambiente</td>
   </tr>
   <tr>
-    <td class="tg-lc6l">8</td>
-    <td class="tg-kiyw">MiBACT</td>
-    <td class="tg-yj5y">PA</td>
-    <td class="tg-yj5y">-</td>
-    <td class="tg-yj5y">Ambiente</td>
+    <th scope="row">9</th>
+    <td>ISTC - CNR</td>
+    <td>Centro Ricerca</td>
+    <td>-</td>
+    <td>Competenze</td>
   </tr>
   <tr>
-    <td class="tg-fe94">9</td>
-    <td class="tg-egdh">ISTC - CNR</td>
-    <td class="tg-wc2v">Centro Ricerca</td>
-    <td class="tg-wc2v">-</td>
-    <td class="tg-wc2v">Competenze</td>
+    <th scope="row">10</th>
+    <td>ICCD - MiBACT</td>
+    <td>PA</td>
+    <td>-</td>
+    <td>Beni Culturali</td>
   </tr>
-  <tr>
-    <td class="tg-lc6l">10</td>
-    <td class="tg-kiyw">ICCD - MiBACT</td>
-    <td class="tg-yj5y">PA</td>
-    <td class="tg-yj5y">-</td>
-    <td class="tg-yj5y">Beni Culturali</td>
-  </tr>
+  </tbody>
 </table>
 
 &nbsp;
