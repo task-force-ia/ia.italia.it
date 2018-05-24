@@ -18,6 +18,7 @@ Se altre realtà, pubbliche e private, hanno progettualità legate allo sviluppo
 ### Chi abbiamo incontrato?
 L'elenco delle amministrazioni incontrate\*
 
+<div class="table-responsive">
 <table class="table table-striped">
 <thead>
   <tr>
@@ -101,6 +102,7 @@ L'elenco delle amministrazioni incontrate\*
   </tr>
   </tbody>
 </table>
+</div>
 
 &nbsp;
 
