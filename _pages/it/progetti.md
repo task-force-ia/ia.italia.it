@@ -114,7 +114,7 @@ La task force IA di AGID investe in percorsi di open innovation con l’obiettiv
 
 Abbiamo quindi immaginato una serie di percorsi rivolti, contestualmente, alle PA e alle imprese innovative, al fine di costruire un insieme di soluzioni che possano essere un punto di partenza sia per AgID che per le PA per costruire linee guida volte a facilitare l’acquisizione di soluzioni innovative.
 
-Entro Giugno verranno date altre informazioni su come verranno effettuati i percorsi di Open Innovation. Iscriviti alla [newsletter](../contatti) per rimanere sempre aggioranto sulle ultime novità.
+Presto verranno date altre informazioni su come verranno effettuati i percorsi di Open Innovation. Iscriviti alla [newsletter](../contatti) per rimanere sempre aggioranto sulle ultime novità.
 
 <hr class="sep">
 
