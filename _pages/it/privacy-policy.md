@@ -96,7 +96,6 @@ L'Utente può scegliere di abilitare o disabilitare i cookies intervenendo sulle
 - [Firefox](https://support.mozilla.org/it/kb/Attivare%20e%20disattivare%20i%20cookie){:target="_blank"}
 - [Safari](https://support.apple.com/it-it/HT201265){:target="_blank"}
 - [Internet Explorer](https://support.microsoft.com/it-it/help/17442/windows-internet-explorer-delete-manage-cookies){:target="_blank"}
-- [Opera](http://help.opera.com/Windows/10.00/it/cookies.html){:target="_blank"}
 
 ## Modifiche a questa privacy policy 
 Il Titolare si riserva il diritto di apportare modifiche alla presente informativa, dandone pubblicità agli Utenti sulla presente pagina. Si prega dunque di tornare a consultare questa pagina, prendendo come riferimento la data di ultima modifica indicata a conclusione del testo. 

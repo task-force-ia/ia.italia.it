@@ -40,7 +40,6 @@ The User can choose to enable or disable cookies by modifying his/her own browse
 - [Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences){:target="_blank"}
 - [Safari](https://support.apple.com/en-us/HT201265){:target="_blank"}
 - [Internet Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies){:target="_blank"}
-- [Opera](http://help.opera.com/Windows/10.00/en/cookies.html){:target="_blank"}.
 
 ### Treatment modalities
 Personal data are handled with automated tools only for a period of time necessary to achieve the purposes for which they have been collected, in accordance with Art. 11, letter e) of the Privacy Code. AgID adopts all privacy measures provided for by the Privacy Code to protect collected data and to avoid the risk for these data to be lost or stolen.
