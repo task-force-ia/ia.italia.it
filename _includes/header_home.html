@@ -1,6 +1,24 @@
 <div class="Grid u-layout-r-withGutter u-padding-top-xl"> 
   <div class="Home-claim Grid-cell u-sizeFull u-padding-r-all u-text-p u-color-white u-textCenter">
 
+
+{% if(t.lang == 'it') %}
+    <p class="u-textWeight-200 u-text-r-l u-hidden u-sm-block u-md-block u-lg-block"><strong>Cambia la burocrazia, usa l'intelligenza!</strong><br>Sei un'impresa innovativa? <br> La call promossa da AGID promuove percorsi di Open Innovation tre le amministrazioni e aziende per modernizzare processi, servizi e prodotti della PA grazie all'Intelligenza Artificiale. <br>Compila il questionario, hai tempo fino al <b>15 settembre 2018.</b></p>
+    <p class="u-textWeight-200 u-text-r-l u-block u-sm-hidden u-md-hidden u-lg-hidden"><strong>Cambia la burocrazia, usa l'intelligenza!</strong><br>Sei un'impresa innovativa? La call promossa da AGID promuove percorsi di Open Innovation tre le amministrazioni e aziende per modernizzare processi, servizi e prodotti della PA grazie all'Intelligenza Artificiale. <br>Compila il questionario, hai tempo fino al <b>15 settembre 2018.</b></p>
+
+  <div class="Grid Grid--withGutter Grid-cell u-sizeFull u-padding-r-all u-text-p u-color-white">
+    <div class="Grid-cell u-sizeFull u-flex u-flexJustifyCenter u-padding-r-all">
+        <a href="https://treeform.typeform.com/to/rL7BDf" role="button" class="Button Button--default u-padding-left-xxl u-padding-right-xxl" style="font-size: 20px">
+          partecipa
+        </a>
+    </div>
+  </div>
+
+
+{% endif %}
+
+
+
 {% if(t.lang == 'it') %}
     <p class="u-textWeight-200 u-text-r-l u-hidden u-sm-block u-md-block u-lg-block">{{ t.home_evento | newline_to_br | strip_newlines  }}</p>
     <p class="u-textWeight-200 u-text-r-l u-block u-sm-hidden u-md-hidden u-lg-hidden">{{ t.home_evento }}</p>
