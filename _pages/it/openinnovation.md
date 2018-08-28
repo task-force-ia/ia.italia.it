@@ -16,7 +16,7 @@ Per partecipare al progetto, hai tempo fino al <b>15 settembre 2018</b> risponde
 <a role="button" href="https://treeform.typeform.com/to/rL7BDf" class="Button Button--default u-borderShadow-m u-text-r-xxs u-padding-r-all u-color-teal-70" target="_blank">PARTECIPA</a>
 
 ## Come funziona? ##
-["Usa l'intelligenza"](https://treeform.typeform.com/to/rL7BDf) è un programma di co-progettazione, promosso da AGID e dedicato ad imprese innovative che utilizzino l’Intelligenza Artificiale come tecnologia portante della propria offerta di servizi, per la realizzazione condivisa di esempi pratici da poter essere utilizzati come soluzioni ai problemi affrontati da amministrazioni e cittadini.
+["Usa l'intelligenza"](https://treeform.typeform.com/to/rL7BDf) è un programma di co-progettazione, promosso da AgID e dedicato ad imprese innovative che utilizzino l’Intelligenza Artificiale come tecnologia portante della propria offerta di servizi. Obiettivo finale del percorso è, per le imprese innovative, di aiutarci a cambiare come lavorano le pubbliche amministrazioni, proponendo soluzioni che possono migliorare i processi interni ed i servizi al cittadino.
 
 ## LO SCOUTING DEI PROGETTI ##
 
@@ -27,6 +27,7 @@ Scrivi a <intelligenza-artificiale@agid.gov.it>  dettagliando finalità, soluzio
 
 ### Chi abbiamo incontrato?
 L'elenco delle amministrazioni incontrate\*
+
 
 <div class="table-responsive">
 <table class="table table-striped">
