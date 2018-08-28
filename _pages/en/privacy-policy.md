@@ -38,7 +38,6 @@ Cookies are not used to define users’ profiles.
 The User can choose to enable or disable cookies by modifying his/her own browser information, according to the instructions made available by the providers listed below:
 - [Chrome](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en){:target="_blank"}
 - [Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences){:target="_blank"}
-- [Safari](https://support.apple.com/en-us/HT201265){:target="_blank"}
 - [Internet Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies){:target="_blank"}
 
 ### Treatment modalities
