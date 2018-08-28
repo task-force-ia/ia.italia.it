@@ -14,7 +14,6 @@ Per configurare un ambiente di sviluppo è sufficiente eseguire i seguenti coman
 Se vuoi contribuire una modifica, è sufficiente aprire una [pull-request](https://help.github.com/articles/about-pull-requests/).
 
 ## Task force IA
-
 - [Sito web](https://ia.italia.it)
 - [Community](https://ia.italia.it/community)
 - [Libro bianco](https://libro-bianco-ia.readthedocs.io/)
