@@ -24,7 +24,7 @@ Per partecipare al progetto, hai tempo fino al <b>15 settembre 2018</b> risponde
 <hr class="sep">
 
 
-## Cosa abbiamo fatto sino ad oggi ##
+<h2 style="color:#06c!important;">Cosa abbiamo fatto sino ad oggi</h2>
 
 ### Lo scouting dei progetti
 Dopo l'[evento](../evento-21marzo) del 21 marzo 2018 abbiamo aperto la fase di scouting dei possibili progetti di Intelligenza Artificiale all’interno delle Pubbliche amministrazioni.
