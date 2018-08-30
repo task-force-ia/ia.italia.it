@@ -14,20 +14,19 @@ seo:
 
 ### Titolare del Trattamento dei Dati
 #### AgID - Agenzia per l'Italia Digitale
-Indirizzo: Via Listz 21 - 00144 Roma
-Indirizzo email/PEC: protocollo@pec.agid.gov.it
+- Indirizzo: Via Listz 21 - 00144 Roma
+- Indirizzo email/PEC: protocollo@pec.agid.gov.it
 
 ### Responsabile della protezione dei dati
-Contatti:
-Indirizzo: Via Liszt 21 - 00144 Roma
-Indirizzo email: responsabileprotezione@agid.gov.it
-Indirizzo PEC: protocollo@pec.agid.gov.it
+- Indirizzo: Via Liszt 21 - 00144 Roma
+- Indirizzo email: responsabileprotezione@agid.gov.it
+- Indirizzo PEC: protocollo@pec.agid.gov.it
 
 ### Autorità di controllo
 Autorità di controllo alla quale inviare segnalazioni e/o reclami:
-Autorità Garante per la protezione dei dati personali (http://garanteprivacy.it)
-Indirizzo email: garante@gpdp.it
-Indirizzo PEC: protocollo@pec.gpdp.it
+- Autorità Garante per la protezione dei dati personali (http://garanteprivacy.it)
+- Indirizzo email: garante@gpdp.it
+- Indirizzo PEC: protocollo@pec.gpdp.it
 
 ### Tipologie di dati raccolti
 I dati personali raccolti dal Titolare sono costituiti esclusivamente da dati tecnici e analitici, raccolti automaticamente mediante l’uso di cookies tecnici o di log automatici.
@@ -38,6 +37,7 @@ Il Titolare garantisce che tratterà i dati in modo lecito e secondo correttezza
 ### Finalità del trattamento
 I dati degli Utenti sono raccolti esclusivamente per le seguenti finalità:
 - Servizi di forum finalizzati all’inserimento di commenti e/o partecipazione a consultazioni pubbliche su linee guida ed altra documentazione dell’agenzia. Invio da parte degli utenti di segnalazioni e/o ticket.
+- Gestione richiesta di partecipazione al programma di co-progettazione, promosso da AGID e dedicato ad imprese innovative che utilizzino l’Intelligenza Artificiale come tecnologia portante della propria offerta di servizi.
 - Gestione tecnica del sito web e gestione utenze
 - Gestione dati analitici e di traffico del sito web
 
