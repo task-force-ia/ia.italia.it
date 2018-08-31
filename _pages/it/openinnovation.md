@@ -10,6 +10,7 @@ seo:
 ## Cambia la burocrazia, usa l'Intelligenza! ##
 La call, promossa da AGID in collaborazione con Tree, è destinata alle imprese innovative per promuovere percorsi di Open Innovation tra amministrazioni e aziende, volti alla modernizzazione di processi, servizi e prodotti della Pubblica amministrazione attraverso l'Intelligenza Artificiale.
 
+<a name="openinovation"></a>
 ## Sei un’impresa innovativa? ##
 Per partecipare al progetto, hai tempo fino al <b>15 settembre 2018</b> rispondendo al questionario ["Cambia la burocrazia. Usa l’Intelligenza"](https://treeform.typeform.com/to/rL7BDf)
 
