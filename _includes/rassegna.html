@@ -2,6 +2,9 @@
 {% if(t.lang == 'it') %}
 <h4>Rassegna Stampa 21 Marzo</h4>
 {% endif %}
+{% if(t.lang == 'en') %}
+<h4>Press</h4>
+{% endif %}
 
 {% assign rassegna = site.data.rassegna | where: 'lang', active_lang %}
 {% for medium in rassegna %}
