@@ -16,6 +16,8 @@ Per partecipare al progetto, hai tempo fino al <b>15 settembre 2018</b> risponde
 
 <a role="button" href="https://treeform.typeform.com/to/rL7BDf" class="Button Button--default u-borderShadow-m u-text-r-xxs u-padding-r-all u-color-teal-70" target="_blank">PARTECIPA</a>
 
+<a role="button" href="https://ia.italia.it/assets/regolamento.pdf" class="Button Button--default u-borderShadow-m u-text-r-xxs u-padding-r-all u-color-teal-70" target="_blank">REGOLAMENTO</a>
+
 ## Come funziona? ##
 <b>"Usa l'intelligenza"</b> è un programma di co-progettazione, promosso da AGID e dedicato ad imprese innovative che utilizzino l’Intelligenza Artificiale come tecnologia portante della propria offerta di servizi.<br> Obiettivo finale del percorso è, per le imprese innovative, di aiutarci a cambiare come lavorano le pubbliche amministrazioni, proponendo soluzioni che possono migliorare i processi interni ed i servizi al cittadino.
 
