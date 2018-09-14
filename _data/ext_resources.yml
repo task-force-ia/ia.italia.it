@@ -23,6 +23,13 @@ it:
     date: dicembre 2016
     type: insight
     order: 4
+  - title: >
+      I primi passi verso l’Intelligenza Artificiale al servizio del cittadino: brevi note sul Libro Bianco dell'Agenzia per l'Italia digitale
+    author: Rivista di diritto dei media
+    link: https://ia.italia.it/assets/tresca.pdf
+    date: marzo 2018
+    type: insight
+    order: 1
   - title: Artificial Intelligence for citizen services
     author: Harvard University
     link: https://ash.harvard.edu/files/ash/files/artificial_intelligence_for_citizen_services.pdf
@@ -36,13 +43,6 @@ it:
     date: giugno 2017
     type: insight
     order: 2
-  - title: >
-      I primi passi verso l’Intelligenza Artificiale al servizio del cittadino: brevi note sul Libro Bianco dell'Agenzia per l'Italia digitale
-    author: Rivista di diritto dei media
-    link: https://ia.italia.it/assets/tresca.pdf
-    date: marzo 2018
-    type: insight
-    order: 1
   - title: Libro bianco IA
     author: Task force IA
     link: https://libro-bianco-ia.readthedocs.io/it/latest/
