@@ -12,9 +12,10 @@ Dopo il Libro Bianco sull'IA al servizio del cittadino, stiamo sviluppando perco
 
 
 {% endif %}
+	  
+
 
 <br>
-
 
 {% if(t.lang == 'it') %}
     <p class="u-textWeight-200 u-text-r-l u-hidden u-sm-block u-md-block u-lg-block">{{ t.home_evento | newline_to_br | strip_newlines  }}</p>
@@ -23,19 +24,16 @@ Dopo il Libro Bianco sull'IA al servizio del cittadino, stiamo sviluppando perco
 
   <div class="Grid Grid--withGutter Grid-cell u-sizeFull u-padding-r-all u-text-p u-color-white">
     <div class="Grid-cell u-sizeFull u-flex u-flexJustifyCenter u-padding-r-all">
-	<a href="/assets/librobianco.pdf" role="button" class="Button Button--default u-padding-left-xxl u-padding-right-xxl" style="font-size: 20px">
+        <a href="/assets/librobianco.pdf" role="button" class="Button Button--default u-padding-left-xxl u-padding-right-xxl" style="font-size: 20px">
           {{ t.cta_libro_bianco | upcase }}
-        </a>
-    </div>
-  </div>
-
-       <div class="Grid Grid--withGutter Grid-cell u-sizeFull u-padding-r-all u-text-p u-color-white">
-            <div class="Grid-cell u-sizeFull u-flex u-flexJustifyCenter u-padding-r-all">
-                <a href="/openinnovation" role="button" class="Button Button--default u-padding-left-xxl u-padding-right-xxl" style="font-size: 20px">
+        </a> &nbsp; &nbsp;
+               <a href="/openinnovation" role="button" class="Button Button--default u-padding-left-xxl u-padding-right-xxl" style="font-size: 20px">
                   PROGETTI
                 </a>
             </div>
-       </div>
+
+
+  </div>
 
 
 {% endif %}
