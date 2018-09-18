@@ -126,7 +126,7 @@ L'elenco delle amministrazioni incontrate\*
     <td>MEF - Ufficio Valutazione</td>
     <td>PA</td>
     <td>-</td>
-    <td>Organizzazione / Competenze</td>
+    <td>Organizzazione/Competenze</td>
   </tr>
   <tr>
     <th scope="row">12</th>
