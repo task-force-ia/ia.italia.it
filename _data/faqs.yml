@@ -1,20 +1,20 @@
 it_IT:
-  - title: Cos’è la task force IA?
+  - title: Cos’è IA-Gov?
     text: |
-      La task force sull’Intelligenza Artificiale (IA) è un’iniziativa dell’Agenzia per l’Italia Digitale che ha l’obiettivo di studiare le possibilità offerte dall’IA per migliorare i servizi pubblici e semplificare la vita dei cittadini.
-  - title: Come è composta la task force?
+      È un’iniziativa dell’Agenzia per l’Italia Digitale che ha l’obiettivo di studiare le possibilità offerte dall’IA per migliorare i servizi pubblici e semplificare la vita dei cittadini.
+  - title: Come è composta?
     text: |
       È composta da un coordinamento di [trenta profili](../task-force/#coordinamento) selezionati attraverso la [call](http://www.agid.gov.it/notizie/2017/04/06/lintelligenza-artificiale-servizio-del-cittadino-partecipa-task-force) promossa da AgID ad Aprile 2017 e da una [community](https://ia.italia.it/community) a supporto.
   - title: Quali sono gli obiettivi?
     text: |
-      La task force ha il compito di definire, all’interno di un primo rapporto sintetico, policy e opportunità strategiche per le amministrazioni italiane, derivanti dall’utilizzo dell’IA nello sviluppo di servizi pubblici.
+      AI-Gov ha il compito di definire, all’interno di un primo rapporto sintetico, policy e opportunità strategiche per le amministrazioni italiane, derivanti dall’utilizzo dell’IA nello sviluppo di servizi pubblici.
   - title: Come sono organizzati i lavori?
     text: |
       Il coordinamento si riunisce periodicamente, con cadenza almeno mensile, di persona o in remoto. I lavori del coordinamento sono supportati dai contributi della [community](https://ia.italia.it/community).
-      La task force si occupa di produrre la bozza delle raccomandazioni e seleziona i [materiali](https://ia.italia.it/materiali/) di approfondimento che condivide con la community attraverso [ReadTheDocs](https://libro-bianco-ia.readthedocs.io/it/latest/) per raccogliere feedback e suggerimenti.
-  - title: Chi può partecipare alla task force?
+      Il laboratorio si occupa di produrre la bozza delle raccomandazioni e seleziona i [materiali](https://ia.italia.it/materiali/) di approfondimento che condivide con la community attraverso [ReadTheDocs](https://libro-bianco-ia.readthedocs.io/it/latest/) per raccogliere feedback e suggerimenti.
+  - title: Chi può partecipare?
     text: |
-      Tutte le persone interessate possono contribuire ai lavori della task force. Partecipando alla [community](https://ia.italia.it/community) è possibile fornire feedback, suggerimenti, idee e segnalare casi di studio.
+      Tutte le persone interessate possono contribuire ai lavori. Partecipando alla [community](https://ia.italia.it/community) è possibile fornire feedback, suggerimenti, idee e segnalare casi di studio.
   - title: Dove si trovano gli avanzamenti del Libro Bianco IA?
     text: |
       Nella sezione dedicata [“Libro Bianco IA”](https://libro-bianco-ia.readthedocs.io/it/latest/) sono pubblicati gli avanzamenti, condivisi con il Coordinamento, di stesura del libro bianco, per i suggerimenti e le integrazioni che la community potrà proporre.
@@ -23,10 +23,13 @@ it_IT:
       Il Libro Bianco IA è in consultazione fino all’12 marzo 2018. È possibile inviare integrazioni e commenti [“ai capitoli e alle sfide”](http://libro-bianco-ia.readthedocs.io) , oppure proposte per le Raccomandazioni sull’IA, compilando il form [“Raccomandazioni IA”](http://bit.ly/2EWsy7z).
   - title: Cos’è l’Osservatorio Italiano sull’Intelligenza Artificiale?
     text: |
-      È un’iniziativa sperimentale promossa dalla task force IA in collaborazione con l’istituto di ricerca HER - Human Ecosystems Relazioni. L’obiettivo dell'[“Osservatorio IA”](https://ia.italia.it/osservatorio-ia/) è quello di analizzare le conversazioni sull’Intelligenza Artificiale nei principali social network, attraverso diversi strumenti tra cui la sentiment analysis.
+      È un’iniziativa sperimentale promossa in collaborazione con l’istituto di ricerca HER - Human Ecosystems Relazioni. L’obiettivo dell'[“Osservatorio IA”](https://ia.italia.it/osservatorio-ia/) è quello di analizzare le conversazioni sull’Intelligenza Artificiale nei principali social network, attraverso diversi strumenti tra cui la sentiment analysis.
   - title: Cos’è l’Ecosistema Intelligenza Artificiale?
     text: |
-      È la mappatura dinamica dei soggetti pubblici e privati che studiano o lavorano con l’intelligenza artificiale in Italia. L’[Ecosistema](https://ia.italia.it/ia-in-italia/) viene costantemente aggiornato con le realtà che partecipano all’indagine promossa dalla task force IA.
+      È la mappatura dinamica dei soggetti pubblici e privati che studiano o lavorano con l’intelligenza artificiale in Italia. L’[Ecosistema](https://ia.italia.it/ia-in-italia/) viene costantemente aggiornato con le realtà che partecipano all’indagine.
+  - title: Cos’è Cambia la Burocrazia, usa l'Intelligenza?
+    text: |
+      Usa l’intelligenza è un programma di co-progettazione, promosso da AGID e dedicato ad imprese innovative che utilizzino l’Intelligenza Artificiale come tecnologia portante della propria offerta di servizi. Obiettivo finale del percorso è, per le imprese innovative, di aiutarci a cambiare come lavorano le pubbliche amministrazioni, proponendo soluzioni che possono migliorare i processi interni ed i servizi al cittadino.
 
 en_US:
   - title: What is the AI task force?
