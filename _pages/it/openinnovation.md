@@ -7,22 +7,23 @@ title-alignment: center
 seo:
   type: WebPage
 ---
+
+
 ## Cambia la burocrazia, usa l'Intelligenza! ##
-La call, promossa da AGID in collaborazione con Tree, è destinata alle imprese innovative per promuovere percorsi di Open Innovation tra amministrazioni e aziende, volti alla modernizzazione di processi, servizi e prodotti della Pubblica amministrazione attraverso l'Intelligenza Artificiale.
 
-<a name="openinnovation"></a>
-## Sei un’impresa innovativa? ##
-Per partecipare al progetto, hai tempo fino al <b>15 settembre 2018</b> rispondendo al questionario ["Cambia la burocrazia. Usa l’Intelligenza"](https://treeform.typeform.com/to/rL7BDf)
+Dopo il Libro Bianco sull'IA al servizio del cittadino, stiamo sviluppando percorsi di sperimentazione per promuovere percorsi di Open Innovation tra amministrazioni e aziende, volti alla modernizzazione di processi, servizi e prodotti della Pubblica amministrazione attraverso l’Intelligenza Artificiale.
 
-<a role="button" href="https://treeform.typeform.com/to/rL7BDf" class="Button Button--default u-borderShadow-m u-text-r-xxs u-padding-r-all u-color-teal-70" target="_blank">PARTECIPA</a>
+## Cos'è? ##
+<b>"Usa l'intelligenza"</b> è un programma di co-progettazione, promosso da AGID e dedicato ad imprese innovative che utilizzino l’Intelligenza Artificiale come tecnologia portante della propria offerta di servizi.<br> Obiettivo finale del percorso è, per le imprese innovative, di aiutarci a cambiare come lavorano le pubbliche amministrazioni, proponendo soluzioni che possono migliorare i processi interni ed i servizi al cittadino.
+
+La call promossa da AGID in collaborazione con Tree, e destinata alle imprese innovative è scaduta il 15 settembre 2018.
+
 
 <a role="button" href="https://ia.italia.it/assets/regolamento.pdf" class="Button Button--default u-borderShadow-m u-text-r-xxs u-padding-r-all u-color-teal-70" target="_blank">REGOLAMENTO</a>
 
-## Come funziona? ##
-<b>"Usa l'intelligenza"</b> è un programma di co-progettazione, promosso da AGID e dedicato ad imprese innovative che utilizzino l’Intelligenza Artificiale come tecnologia portante della propria offerta di servizi.<br> Obiettivo finale del percorso è, per le imprese innovative, di aiutarci a cambiare come lavorano le pubbliche amministrazioni, proponendo soluzioni che possono migliorare i processi interni ed i servizi al cittadino.
-
 
 {% include evento.html url="/assets/images/std/call.png" description="call" %}
+
 
 <hr class="sep">
 
@@ -73,48 +74,83 @@ L'elenco delle amministrazioni incontrate\*
   </tr>
   <tr>
     <th scope="row">4</th>
+    <td>Comune di Milano</td>
+    <td>PA</td>
+    <td>Lombardia</td>
+    <td>Servizi al cittadino</td>
+  </tr>
+  <tr>
+    <th scope="row">5</th>
     <td>Comune di Sesto Fiorentino</td>
     <td>PA</td>
     <td>Toscana</td>
     <td>Servizi al cittadino</td>
   </tr>
   <tr>
-    <th scope="row">5</th>
+    <th scope="row">6</th>
     <td>Roma Capitale</td>
     <td>PA</td>
     <td>Lazio</td>
     <td>Beni Culturali</td>
   </tr>
   <tr>
-    <th scope="row">6</th>
+    <th scope="row">7</th>
     <td>Regione Emilia-Romagna</td>
     <td>PA</td>
     <td>Emilia Romagna</td>
     <td>Servizi al cittadino/Trasporti</td>
   </tr>
   <tr>
-    <th scope="row">7</th>
+    <th scope="row">8</th>
+    <td>Regione Puglia</td>
+    <td>PA</td>
+    <td>Puglia</td>
+    <td>Sanità</td>
+  </tr>
+  <tr>
+    <th scope="row">9</th>
+    <td>INAIL</td>
+    <td>PA</td>
+    <td>-</td>
+    <td>Servizi al cittadino</td>
+  </tr>
+  <tr>
+    <th scope="row">10</th>
+    <td>MAECI</td>
+    <td>PA</td>
+    <td>-</td>
+    <td>Servizi al cittadino</td>
+  </tr>
+  <tr>
+    <th scope="row">11</th>
+    <td>MEF - Ufficio Valutazione</td>
+    <td>PA</td>
+    <td>-</td>
+    <td>Organizzazione/Competenze</td>
+  </tr>
+  <tr>
+    <th scope="row">12</th>
     <td>Ministero Interno (VVFF)</td>
     <td>PA</td>
     <td>-</td>
     <td>Servizi al cittadino/Trasporti</td>
   </tr>
   <tr>
-    <th scope="row">8</th>
+    <th scope="row">13</th>
     <td>MiBACT</td>
     <td>PA</td>
     <td>-</td>
     <td>Ambiente</td>
   </tr>
   <tr>
-    <th scope="row">9</th>
+    <th scope="row">14</th>
     <td>ISTC - CNR</td>
     <td>Centro Ricerca</td>
     <td>-</td>
     <td>Competenze</td>
   </tr>
   <tr>
-    <th scope="row">10</th>
+    <th scope="row">15</th>
     <td>ICCD - MiBACT</td>
     <td>PA</td>
     <td>-</td>
@@ -134,3 +170,4 @@ Ricorda che l’iniziativa **“Mappatura dell’ecosistema IA”** è sempre ap
 Segnala la tua organizzazione oppure le realtà di tua conoscenza.
 
 <a role="button" href="https://goo.gl/forms/USYhvXVrJcCbtyG32" class="Button Button--default u-borderShadow-m u-text-r-xxs u-padding-r-all u-color-teal-70" target="_blank">Inserisci una segnalazione</a>
+

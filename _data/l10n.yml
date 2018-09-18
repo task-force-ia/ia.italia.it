@@ -5,7 +5,7 @@ it_IT:
   t:
     lang: it
     lang_code: it_IT
-    site_title: Task force IA
+    site_title: IA-Gov
     site_subtitle: L’Intelligenza Artificiale al servizio del cittadino
 
     active_lang: lingua attiva
@@ -33,10 +33,7 @@ it_IT:
     navigation_menu_label: Menu di navigazione
     navigation_menu_esc: esci dalla navigazione
 
-    home_claim: |
-      La task force studia le opportunità offerte
-      dall’<strong>Intelligenza Artificiale</strong> per migliorare
-      i servizi pubblici e semplificare la vita dei cittadini
+    home_claim: 
     home_evento: Scarica il Libro Bianco sull’Intelligenza Artificiale al servizio del cittadino
     home_header_button: Partecipa
     home_goals_title: Obiettivi della task force IA
@@ -49,7 +46,6 @@ it_IT:
 
     documents: |
       Documenti prodotti
-      dalla task force
     documents_coming_soon: I documenti e gli approfondimenti prodotti dalla task force (in aggiornamento).
     insights: Approfondimenti
     case_studies: Casi di studio
@@ -65,7 +61,7 @@ it_IT:
     coordinamento: coordinamento
     invitati: Relatori
 
-    vuoi_contribuire: Vuoi contribuire ai lavori della task force IA?
+    vuoi_contribuire: Vuoi contribuire ai lavori di IA-Gov?
     vuoi_saperne: Vuoi saperne di più?
     vuoi_contattare: Vuoi contattare la task force?
     cta_partecipa: Partecipa
@@ -86,7 +82,7 @@ it_IT:
     newsletter_thanks: Grazie
     newsletter_subscribed: Adesso sei iscritto alla newsletter!
     newsletter_tagline: |
-      Rimani in contatto per essere informato sui lavori della task force IA.
+      Rimani in contatto per essere informato sui lavori del laboratorio.
       Non ti assilleremo con troppe email, parola di bot.
 
     agid_desc: |
@@ -121,7 +117,7 @@ en_US:
   t:
     lang: en
     lang_code: en_US
-    site_title: AI task force
+    site_title: AI-Gov
     site_subtitle: Artificial Intelligence at the service of the citizen
 
     active_lang: current language

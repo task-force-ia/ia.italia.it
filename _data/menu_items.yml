@@ -1,6 +1,6 @@
 it_IT:
   task-force:
-    title: Task force
+    title: IA-Gov
     url: task-force
   materiali:
     title: Materiali
@@ -23,7 +23,7 @@ it_IT:
 
 en_US:
   task-force:
-    title: Task Force
+    title: AI-Gov
     url: en/task-force
   materiali:
     title: Documents
