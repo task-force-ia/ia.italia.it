@@ -10,4 +10,4 @@ content-alignment: full
 seo:
   type: WebPage
 ---
-Gli approfondimenti e i materiali prodotti dalla task force e una selezione – in aggiornamento – di linee guida, casi di studio, documenti di indirizzo nazionali e internazionali.
+Gli approfondimenti e i materiali e una selezione – in aggiornamento – di linee guida, casi di studio, documenti di indirizzo nazionali e internazionali.
