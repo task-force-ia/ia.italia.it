@@ -20,7 +20,7 @@ La Task Force IA si occupa di studiare come la diffusione di soluzioni e tecnolo
 - elaborare struttura e contenuti del documento finale
 - avviare sottogruppi di coordinamento su tematiche specifiche
 - esaminare il lavoro di proposta e di revisione della community
-- suggerire eventuali audizioni di figure esterne al Task Force IA
+- suggerire eventuali audizioni di figure esterne alla Task Force IA
 
 #### Community
 
