@@ -41,4 +41,4 @@ The mapping of the ecosystem collects the realities reported by the subjects par
 
 For any amendments or changes to the current mapping please send an email to <intelligenza-artificiale@agid.gov.it>.
 
-\* *In collaboration with the* [_AI*IA Association_](http://www.aixia.it/avvisi-dellassociazione/italianaiecosystembyregion).
+\* *In collaboration with the* [_AI*IA Association_](http://www.aixia.it/).
