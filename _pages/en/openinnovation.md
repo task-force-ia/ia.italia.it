@@ -8,10 +8,10 @@ seo:
   type: WebPage
 ---
 
-<h3><a href="#cambia">Cambia la burocrazia, usa l'Intelligenza</a></h3>
-<h3><a href="#cosa">Cos'è</a></h3>
-<h3><a href="#scouting">Lo scouting dei progetti</a></h3>
-<h3><a href="#incontro">Chi abbiamo incontrato?</a></h3>
+<h3><a href="#cambia">Change bureaucracy, use intelligence!</a></h3>
+<h3><a href="#cosa">What is it?</a></h3>
+<h3><a href="#scouting">Project scouting</a></h3>
+<h3><a href="#incontro"> Whom did we meet?</a></h3>
 
 
 
