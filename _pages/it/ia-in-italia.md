@@ -42,6 +42,6 @@ L’ecosistema raccoglie le realtà segnalate dai soggetti che partecipano all�
 
 Per eventuali cambiamenti o modifiche all'elenco e alla mappatura già presenti invia un'e-mail a <intelligenza-artificiale@agid.gov.it>.
 
-\* *In collaborazione con l’Associazione* [_AI*IA_](http://www.aixia.it/avvisi-dellassociazione/italianaiecosystembyregion).
+\* *In collaborazione con l’Associazione* [_AI*IA_](http://www.aixia.it/).
 
 Ultimo aggiornamento 28 Maggio 2018
