@@ -1,6 +1,8 @@
 ---
 title: The path of Open Innovation
-lang: en_EN
+lang: en_US
+alt_langs:
+  it_IT: openinnovation/
 layout: projects
 separator: curved
 title-alignment: center
