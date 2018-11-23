@@ -31,6 +31,9 @@ en_US:
   mappa:
     title: AI in Italy
     url: en/ai-in-italy
+  progetti:
+    title: Open Innovation
+    url: en/openinnovation
   faq:
     title: FAQ
     url: en/faq
