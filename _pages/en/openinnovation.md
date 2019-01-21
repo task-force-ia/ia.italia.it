@@ -60,7 +60,7 @@ The list of administrations met:\*
     <th scope="col">Administration</th>
     <th scope="col">Typology</th>
     <th scope="col">Region</th>
-    <th scope="col">AScope/Cluster/Ecosystem<br>of the presented project</th>
+    <th scope="col">Scope/Cluster/Ecosystem<br>of the presented project</th>
   </tr>
 </thead>
 <tbody>
