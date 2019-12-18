@@ -97,4 +97,4 @@ Il Titolare si riserva il diritto di apportare modifiche alla presente informati
 Nel caso di mancata accettazione delle modifiche apportate alla presente informativa, l’Utente può richiedere al Titolare di rimuovere i propri dati personali. Salvo quanto diversamente specificato, la precedente privacy policy continuerà ad applicarsi ai dati personali sino a quel momento raccolti.
 
 
-Ultima data di aggiornamento: 30 agosto 2018.
+Ultima data di aggiornamento: 30 agosto 2018
