@@ -15,21 +15,8 @@ layout: default
         <h4>{{ t.vuoi_contribuire }}</h4>
       </div>
       <a href="http://ia.italia.it/community" role="button" class="Button Button--default Button--shadow u-text-r-xs">{{ t.cta_partecipa | upcase }}</a>
-      <div class="Prose u-margin-top-xxl">
-        <h4>{{ t.newsletter_signup }}</h4>
-      </div>
-        <form id="newsletter" class="Form" action="{{ 'newsletter.php' | relative_url }}">
-          <div class="Form-field Form-field--withPlaceholder Grid u-background-white u-color-grey-30 u-borderRadius-s u-borderShadow-m u-layout-prose">
-            <button class="Grid-cell u-sizeFit Icon-mail u-color-grey-40 u-text-r-m u-padding-all-s u-textWeight-400"></button>
-            <input class="Form-input Form-input--ultraLean Grid-cell u-sizeFill u-text-r-s u-color-black u-text-r-xs u-borderHideFocus" required id="newsletter-email" name="email" placeholder="{{ t.newsletter_placeholder }}">
-            <button type="submit" class="Grid-cell u-sizeFit Button Button--default u-padding-r-left u-padding-r-right u-textUppercase u-borderRadius-s" id="newsletter-submit">
-             {{ t.newsletter_subscribe }}
-            </button>
-          </div>
-        </form>
-        <p class="u-padding-top-l u-text-r-xs u-color-grey-40 u-layout-prose">
-          {{ t.newsletter_tagline | newline_to_br | strip_newlines }}
-        </p>
+
+
 
       <div class="Prose u-margin-bottom-xxl u-margin-top-xxl">
         <h4>{{ t.vuoi_contattare }}</h4>
