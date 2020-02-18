@@ -9,7 +9,7 @@ title-alignment: center
 seo:
   type: WebPage
 ---
-La Task Force IA si occupa di studiare come la diffusione di soluzioni e tecnologie di Intelligenza Artificiale (IA) possa incidere sull’evoluzione dei servizi pubblici per migliorare il rapporto tra Pubblica amministrazione e cittadini.
+La Task Force IA si occupa di studiare come la diffusione di soluzioni e tecnologie di Intelligenza Artificiale (IA) possa incidere sull’evoluzione dei servizi pubblici per migliorare il rapporto tra Pubblica Amministrazione e cittadini.
 
 #### Gruppo di coordinamento
 {: .u-margin-top-xl }
