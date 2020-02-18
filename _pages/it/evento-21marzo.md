@@ -15,7 +15,6 @@ Attraverso brevi racconti e con lâ€™aiuto di esperti di fama internazionale si Ã
 
 Hashtag ufficiale dell'evento: *\#SfideIA*
 
-Guarda gli interventi del 21 Marzo
 
 {% include youtube.html  %}
 
