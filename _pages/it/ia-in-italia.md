@@ -13,7 +13,7 @@ seo:
 
 Con “Ecosistema Intelligenza Artificiale” vogliamo mappare i produttori e gli utilizzatori di soluzioni di IA (startup, imprese, organismi di ricerca, PA, EPR, etc) italiani.
 
-Oltre a produrre del materiale a corredo del [Libro Bianco IA](https://whitepaper-ia.readthedocs.io/it/latest/), le informazioni raccolte  popolano la [mappa\*](#mappa-dellecosistema-ia-in-italia) e l’[elenco](#elenco-dellecosistema-ia-in-italia) dell’Ecosistema.
+Oltre a produrre del materiale a corredo del [Libro Bianco IA](https://libro-bianco-ia.readthedocs.io/it/latest/), le informazioni raccolte  popolano la [mappa\*](#mappa-dellecosistema-ia-in-italia) e l’[elenco](#elenco-dellecosistema-ia-in-italia) dell’Ecosistema.
 
 Segnala la tua organizzazione oppure le realtà di tua conoscenza. Compila i campi dell'indagine avendo cura di inserire tutte le informazioni importanti.
 
