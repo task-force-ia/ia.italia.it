@@ -11,12 +11,6 @@ it_IT:
   evento:
     title: Evento 21 Marzo
     url: evento-21marzo
-  progetti:
-    title: Open Innovation
-    url: openinnovation
-  faq:
-    title: Domande frequenti
-    url: domande-frequenti
   contatti:
     title: Contatti
     url: contatti
@@ -31,12 +25,6 @@ en_US:
   mappa:
     title: AI in Italy
     url: en/ai-in-italy
-  progetti:
-    title: Open Innovation
-    url: en/openinnovation
-  faq:
-    title: FAQ
-    url: en/faq
   contatti:
     title: Contacts
     url: en/contacts
