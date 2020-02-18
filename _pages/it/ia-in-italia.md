@@ -11,13 +11,13 @@ seo:
   type: WebPage
 ---
 
-Con “Ecosistema Intelligenza Artificiale” vogliamo mappare i produttori e gli utilizzatori di soluzioni di IA (startup, imprese, organismi di ricerca, PA, EPR, etc) italiani.
+L’Ecosistema Intelligenza Artificiale costituisce una prima mappatura dei produttori e gli utilizzatori di soluzioni di IA (startup, imprese, organismi di ricerca, PA, EPR, etc) italiani.
 
-Oltre a produrre del materiale a corredo del [Libro Bianco IA](https://libro-bianco-ia.readthedocs.io/it/latest/), le informazioni raccolte  popolano la [mappa\*](#mappa-dellecosistema-ia-in-italia) e l’[elenco](#elenco-dellecosistema-ia-in-italia) dell’Ecosistema.
+Le informazioni sono state raccolte da AgID in collaborazione con l’Associazione [AI*IA ](https://aixia.it/) da maggio 2017 a gennaio 2020.
 
-Segnala la tua organizzazione oppure le realtà di tua conoscenza. Compila i campi dell'indagine avendo cura di inserire tutte le informazioni importanti.
+Oltre a essere utilizzate e a corredo del  [Libro Bianco IA](https://libro-bianco-ia.readthedocs.io/it/latest/), le informazioni raccolte sono state inserite nella [mappa\*](#mappa-dellecosistema-ia-in-italia) e nell’[elenco](#elenco-dellecosistema-ia-in-italia) dell’Ecosistema.
 
-<a role="button" href="https://goo.gl/forms/USYhvXVrJcCbtyG32" class="Button Button--default u-borderShadow-m u-text-r-xxs u-padding-r-all u-color-teal-70" target="_blank">Inserisci una segnalazione</a>
+
 
 
 
@@ -38,10 +38,9 @@ Segnala la tua organizzazione oppure le realtà di tua conoscenza. Compila i cam
   </div>
 </div>
 
-L’ecosistema raccoglie le realtà segnalate dai soggetti che partecipano all’indagine, la presenza all’interno della mappatura non rappresenta certificazione ufficiale presso l’Agenzia per l’Italia Digitale.
+L’Ecosistema raccoglie le realtà segnalate dai soggetti che hanno partecipato all’indagine. 
 
-Per eventuali cambiamenti o modifiche all'elenco e alla mappatura già presenti invia un'e-mail a <intelligenza-artificiale@agid.gov.it>.
+La presenza all’interno della mappatura non rappresenta certificazione ufficiale presso l’Agenzia per l’Italia Digitale.
 
 \* *In collaborazione con l’Associazione* [_AI*IA_](http://www.aixia.it/).
 
-Ultimo aggiornamento 28 Maggio 2018
