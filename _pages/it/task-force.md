@@ -10,7 +10,7 @@ seo:
   type: WebPage
 ---
 La Task Force IA è stata costituita nel 2017 dall’Agenzia per l’Italia digitale per redigere un primo studio relativo agli impatti dell’Intelligenza artificiale sull’evoluzione dei servizi pubblici.
-L’esperienza si è conclusa nel 2018 con la pubblicazione del Libro Bianco sull’Intelligenza Artificiale al servizio dei cittadino presentato a Roma il 21 marzo e con un primo scouting di progetti portati avanti nella PA, nell’evento di settembre dello stesso anno “Cambia la burocrazia, Usa l’intelligenza”.
+L’esperienza si è conclusa nel 2018 con la pubblicazione del Libro Bianco sull’Intelligenza Artificiale al servizio dei cittadino presentato a Roma il [21 marzo](#evento-21marzo) e con un primo scouting di progetti portati avanti nella PA, nell’evento di settembre dello stesso anno “Cambia la burocrazia, Usa l’intelligenza”.
 
 #### Gruppo di coordinamento
 {: .u-margin-top-xl }
